@@ -19,33 +19,29 @@ driver.get(url)
 driver.implicitly_wait(0.5)
 driver.title
 
-#### Find and create list of faction ids  #####
-faction_id_driver = driver.find_elements(By.CSS_SELECTOR, '.logo_faccion.desactivo.ng-star-inserted')  # find all elements of factions
-faction_sectorial_dict = {}
-for fact_id in faction_id_driver:
-    faction_sectorial_dict[fact_id.get_attribute('id')] = [[],[]]  # create a key of current faction with 2 lists
+
+def faction_sectorial_list():
+    #### Find and create list of faction ids  #####
+    faction_id_driver = driver.find_elements(By.CSS_SELECTOR, '.logo_faccion.desactivo.ng-star-inserted')  # find all elements of factions
+    faction_sectorial_dict = {}
+    for fact_id in faction_id_driver:
+        faction_sectorial_dict[fact_id.get_attribute('id')] = [[],[]]  # create a key of current faction with 2 lists
 
 
-for fact in faction_sectorial_dict:
-    driver.find_element(By.ID, fact).click()  # click on current faction
-    driver.implicitly_wait(0.5)
-    sectorial_selection_driver = driver.find_elements(By.CSS_SELECTOR, '.panel_sectorial.ng-star-inserted')  # find all elements of each sectorial
-    sectorial_selection_list = []
-    for sect in sectorial_selection_driver:   # run through all the elements of sectorials
-        faction_sectorial_dict[fact][0].append(sect.get_attribute('id'))  # add the id of the sectorials into the first list of the factions key
-    sect_panel = driver.find_element(By.ID, 'sectoriales')   # find the sectorial panel 
-    for sect_id in faction_sectorial_dict[fact][0]:     # iterate through the sectorial ids
-        sectorial_section = sect_panel.find_element(By.ID, sect_id)
-        faction_sectorial_dict[fact][1].append(sectorial_section.find_element(By.CLASS_NAME, 'nombre_sectorial').text)  # collect the names of all the sectorials in the current faction
+    for fact in faction_sectorial_dict:
+        driver.find_element(By.ID, fact).click()  # click on current faction
+        driver.implicitly_wait(0.5)
+        sectorial_selection_driver = driver.find_elements(By.CSS_SELECTOR, '.panel_sectorial.ng-star-inserted')  # find all elements of each sectorial
+        sectorial_selection_list = []
+        for sect in sectorial_selection_driver:   # run through all the elements of sectorials
+            faction_sectorial_dict[fact][0].append(sect.get_attribute('id'))  # add the id of the sectorials into the first list of the factions key
+        sect_panel = driver.find_element(By.ID, 'sectoriales')   # find the sectorial panel 
+        for sect_id in faction_sectorial_dict[fact][0]:     # iterate through the sectorial ids
+            sectorial_section = sect_panel.find_element(By.ID, sect_id)
+            faction_sectorial_dict[fact][1].append(sectorial_section.find_element(By.CLASS_NAME, 'nombre_sectorial').text)  # collect the names of all the sectorials in the current faction
+    return faction_sectorial_dict
 
 
-"""driver.find_element(By.ID, 'fac_901').click()  #clicks on the army
-driver.implicitly_wait(0.5)
-sectorial_section = driver.find_element(By.ID, 'opcionSectorial_903')
-sectorial = sectorial_section.find_element(By.CLASS_NAME, 'nombre_sectorial').text
-sectorial_section.click()   #clicks on sectorial
-driver.implicitly_wait(0.5)
-"""
 
 ###########################################################################################
 ###################     Executes inside sectorial page      ###############################
@@ -186,7 +182,9 @@ def collect_army_data(sect_name):
 
     return 
 
+faction_sectorial_dict = faction_sectorial_list()
 
+"""
 for fact, sect in faction_sectorial_dict.items():
     for sectorial in sect[0]:
         driver.get(url)
@@ -197,6 +195,6 @@ for fact, sect in faction_sectorial_dict.items():
         driver.find_element(By.ID, sectorial).click()
         collect_army_data(sectorial_name)
 #collect_army_data('Japanese Secessionist Army')
-
+"""
 
 driver.quit()
