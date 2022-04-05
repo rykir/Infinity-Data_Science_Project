@@ -1,0 +1,48 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+PARA-COMMANDO,AP Spitfire,"Pistol, CC Weapon",1,31,1er Régiment de PARA-COMMANDOS
+PARA-COMMANDO (Forward Observer),"Boarding Shotgun, Flash Pulse, D-Charges","Pistol, CC Weapon",0,24,1er Régiment de PARA-COMMANDOS
+"PARA-COMMANDO (BS Attack [+1 Dam], Forward Observer])","Boarding Shotgun, Flash Pulse, D-Charges","Pistol, CC Weapon",0,26,1er Régiment de PARA-COMMANDOS
+PARA-COMMANDO (Paramedic),Submachine Gun | MediKit,"Pistol, CC Weapon",0,21,1er Régiment de PARA-COMMANDOS
+MOBLOT,"Boarding Shotgun, Panzerfaust","Pistol, CC Weapon",0,23,13éme MOBLOTS
+"MOBLOT (Infiltration, Mimetism [-3])","AP Rifle, Light Shotgun, Panzerfaust","Pistol, CC Weapon",0,32,13éme MOBLOTS
+"MOBLOT (Engineer, Deactivator)","AP Rifle, Light Shotgun, D-Charges","Pistol, CC Weapon",0,27,13éme MOBLOTS
+MOBLOT (Paramedic),"AP Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,25,13éme MOBLOTS
+MOBLOT (Sapper),Heavy Machine Gun,"Pistol, CC Weapon",1.5,30,13éme MOBLOTS
+MOBLOT (Lieutenant),Heavy Machine Gun,"Pistol, CC Weapon",1,28,13éme MOBLOTS
+"ALGUACIL (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,15,CORREGIDOR ALGUACILES
+ANACONDA,"Heavy Machine Gun, Chain-colt, Panzerfaust",AP CC Weapon,1.5,55,"ANACONDA, Mercenary TAG Squad"
+MÉTRO,"Rifle, Grenade Launcher","Pistol, CC Weapon",0.5,12,TROUPES MÉTROPOLITAINES
+"MÉTRO (Camouflage [1 Use], Infiltration])","Rifle, Grenade Launcher","Pistol, CC Weapon",1,15,TROUPES MÉTROPOLITAINES
+MÉTRO (Paramedic),Rifle | MediKit,"Pistol, CC Weapon",0,10,TROUPES MÉTROPOLITAINES
+MÉTRO (Lieutenant),Rifle,"Pistol, CC Weapon",0,8,TROUPES MÉTROPOLITAINES
+LOUP-GAROU,Sniper Rifle,"Pistol, CC Weapon",0.5,20,"LOUP-GAROU, Groupe Mobile d'Action Spéciale"
+ZOUAVE,"Rifle, Grenade Launcher","Pistol, CC Weapon",1,20,"ZOUAVES, Régiment Spécial d'Intervention"
+ZOUAVE (Forward Observer),"Rifle, Flash Pulse, Panzerfaust","Assault Pistol, CC Weapon",0,21,"ZOUAVES, Régiment Spécial d'Intervention"
+ZOUAVE (Sapper),Sniper Rifle,"Pistol, CC Weapon",0.5,25,"ZOUAVES, Régiment Spécial d'Intervention"
+ZOUAVE (Paramedic),"Rifle, Panzerfaust | MediKit","Assault Pistol, CC Weapon",0,22,"ZOUAVES, Régiment Spécial d'Intervention"
+ZOUAVE (Lieutenant),"Rifle, Panzerfaust","Assault Pistol, CC Weapon",0,20,"ZOUAVES, Régiment Spécial d'Intervention"
+CHASSEUR,"Rifle, Adhesive Launcher, D-Charges","Pistol, CC Weapon",0,19,4éme de CHASSEURS
+CHASSEUR (Minelayer),"Rifle, Light Flamethrower, Shock Mines","Pistol, CC Weapon",0.5,20,4éme de CHASSEURS
+CHASSEUR (Forward Observer),"Rifle, Light Flamethrower, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,20,4éme de CHASSEURS
+KNAUF,MULTI Sniper Rifle,"AP Heavy Pistol, CC Weapon",1.5,32,"KNAUF, Outlaw Sniper"
+112 FTO,Light Shotgun,"Pistol, CC Weapon",0,12,"112, Emergency Service"
+DOZER,"Rifle, Akrylat-Kanone | GizmoKit","Pistol, CC Weapon",0,14,"DOZERS, Field Engineers"
+TRAKTOR MUL (Deactivator),,PARA CC Weapon(-3),0,5,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL,Katyusha MRL,PARA CC Weapon(-3),1,9,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL (Total Reaction),Uragan MRL,PARA CC Weapon(-3),1,16,"TRAKTOR MUL, Artillery and Support Regiment"
+MARGOT,"AP Rifle, Grenade Launcher, Light Shotgun","Pistol, CC Weapon",0,37,Lieutenant MARGOT BERTHIER
+BRISCARD,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,19,"BRISCARDS, 8éme Régiment d'Infanterie de Montagne"
+BRISCARD (BS Attack [Shock]),AP Sniper Rifle,"Pistol, CC Weapon",1,25,"BRISCARDS, 8éme Régiment d'Infanterie de Montagne"
+BRISCARD (Forward Observer),"Marksman Rifle, Flash Pulse","Assault Pistol, CC Weapon",0,24,"BRISCARDS, 8éme Régiment d'Infanterie de Montagne"
+BRISCARD (Paramedic),Marksman Rifle | MediKit,"Assault Pistol, CC Weapon",0,25,"BRISCARDS, 8éme Régiment d'Infanterie de Montagne"
+BRISCARD (Lieutenant),Marksman Rifle,"Assault Pistol, CC Weapon",0,23,"BRISCARDS, 8éme Régiment d'Infanterie de Montagne"
+BRIGADIER BRUANT FTO,"AP Spitfire, Chain-colt, D-Charges","Pistol, CC Weapon",1,27,"BRIGADIER JACQUES BRUANT, Sous-officier des Métros"
+"BRIGADIER BRUANT (Camouflage [1 Use], Infiltration)","AP Spitfire, Chain-colt, D-Charges","Pistol, CC Weapon",1,30,"BRIGADIER JACQUES BRUANT, Sous-officier des Métros"
+BRIGADIER BRUANT FTO (Lieutenant),"AP Spitfire, Chain-colt, D-Charges","Pistol, CC Weapon",1,27,"BRIGADIER JACQUES BRUANT, Sous-officier des Métros"
+WARDRIVER (Hacker [Zero Pain]),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,"WARDRIVERS, Mercenary Hackers"
+"WARDRIVER (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",1,14,"WARDRIVERS, Mercenary Hackers"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+112 MOTORIZED,Light Shotgun,"Pistol, CC Weapon",0,18,"112, Emergency Service (Motorized)"
+WOLFGANG AMADEUS,"MULTI Rifle(+1B), Chain-colt","Heavy Pistol, DA CC Weapon, PARA CC Weapon(-6)",0,35,"WOLFGANG AMADEUS WOLFF, Wulver Bounty Hunter"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

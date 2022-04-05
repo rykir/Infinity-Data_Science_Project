@@ -39,19 +39,19 @@ for fact in faction_sectorial_dict:
         faction_sectorial_dict[fact][1].append(sectorial_section.find_element(By.CLASS_NAME, 'nombre_sectorial').text)  # collect the names of all the sectorials in the current faction
 
 
-driver.find_element(By.ID, 'fac_901').click()  #clicks on the army
+"""driver.find_element(By.ID, 'fac_901').click()  #clicks on the army
 driver.implicitly_wait(0.5)
 sectorial_section = driver.find_element(By.ID, 'opcionSectorial_903')
 sectorial = sectorial_section.find_element(By.CLASS_NAME, 'nombre_sectorial').text
 sectorial_section.click()   #clicks on sectorial
 driver.implicitly_wait(0.5)
-
+"""
 
 ###########################################################################################
 ###################     Executes inside sectorial page      ###############################
 #########           Will run within loop for each sectorial         #######################
 ###########################################################################################
-def collect_army_data():
+def collect_army_data(sect_name):
     principal_panel = driver.find_element(By.ID, "contenedorLogosVertical")   #looks for the 'prinipal' panel where all the units are clickable
     unit_list_panel = principal_panel.find_elements(By.CSS_SELECTOR, '.pastilla_logo_Unidad.ng-star-inserted')  #looks for list of units
     unit_list = []
@@ -135,6 +135,7 @@ def collect_army_data():
                 sub_units[sub_id.find_element(By.CLASS_NAME, 'nombre').text].append(sub_id.find_element(By.CLASS_NAME, 'armasCC').text)
                 sub_units[sub_id.find_element(By.CLASS_NAME, 'nombre').text].append(sub_id.find_element(By.CLASS_NAME, 'cap').text)
                 sub_units[sub_id.find_element(By.CLASS_NAME, 'nombre').text].append(sub_id.find_element(By.CLASS_NAME, 'c').text)
+                sub_units[sub_id.find_element(By.CLASS_NAME, 'nombre').text].append(unit_panel.find_element(By.ID, 'perfil1_nombre').text)
         except:
             print('No sub id')
             pass
@@ -177,19 +178,25 @@ def collect_army_data():
         unit_special.append(value[3])
         unit_characteristics_list.append(value[0])
 
-    return unit_name, sectorial_list, unit_type, unit_classification, unit_mov, unit_cc, unit_bs, unit_ph, unit_wip, unit_arm, unit_bts, unit_w, unit_s, unit_ava, unit_equip, unit_special, unit_characteristics_list
+    army_df = pd.DataFrame(list(zip(unit_name, sectorial_list, unit_type, unit_classification, unit_mov, unit_cc, unit_bs, unit_ph, unit_wip, unit_arm, unit_bts, unit_w, unit_s, unit_ava, unit_equip, unit_special, unit_characteristics_list)), columns = ['Name', 'Sectorial', 'Type', 'Classification', 'MOV', 'CC', 'BS', 'PH', 'WIP', 'ARM', 'BTS', 'W', 'S', 'AVA', 'Equipment', 'Special Skills', 'Characteristics'])
+    print(army_df)
+    sub_df = pd.DataFrame.from_dict(sub_units, orient='index', columns=['Weapon(s)', 'Melee Weapons', 'SWC', 'C', 'Base Name'])
+    sub_df.to_csv(f'{sect_name}_sub-units_dataframe')
+    army_df.to_csv(f'{sect_name}_dataframe')
+
+    return 
 
 
+for fact, sect in faction_sectorial_dict.items():
+    for sectorial in sect[0]:
+        driver.get(url)
+        driver.find_element(By.ID, fact).click()
+        sect_panel = driver.find_element(By.ID, 'sectoriales')
+        sectorial_section = sect_panel.find_element(By.ID, sectorial)
+        sectorial_name = sectorial_section.find_element(By.CLASS_NAME, 'nombre_sectorial').text
+        driver.find_element(By.ID, sectorial).click()
+        collect_army_data(sectorial_name)
+#collect_army_data('Japanese Secessionist Army')
 
-unit_name, sectorial_list, unit_type, unit_classification, unit_mov, unit_cc, unit_bs, unit_ph, unit_wip, unit_arm, unit_bts, unit_w, unit_s, unit_ava, unit_equip, unit_special, unit_characteristics_list = collect_army_data()
-
-"""print(f'Unit characteristics dict: {unit_characteristics}')
-print('\n\n\n\n\n\n')
-print(f'Subunit dictionary: {sub_units}')
-print('\n\n\n\n\n\n')"""
-
-army_df = pd.DataFrame(list(zip(unit_name, sectorial_list, unit_type, unit_classification, unit_mov, unit_cc, unit_bs, unit_ph, unit_wip, unit_arm, unit_bts, unit_w, unit_s, unit_ava, unit_equip, unit_special, unit_characteristics_list)), columns = ['Name', 'Sectorial', 'Type', 'Classification', 'MOV', 'CC', 'BS', 'PH', 'WIP', 'ARM', 'BTS', 'W', 'S', 'AVA', 'Equipment', 'Special Skills', 'Characteristics'])
-print(army_df)
-army_df.to_csv(f'army_dataframe')
 
 driver.quit()

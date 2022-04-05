@@ -1,0 +1,62 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+UNIDRON,Spitfire,"Pistol, PARA CC Weapon(-3)",1,18,UNIDRON BATROIDS
+UNIDRON (Forward Observer),"Plasma Carbine, Flash Pulse","Pistol, PARA CC Weapon(-3)",0,15,UNIDRON BATROIDS
+FRAACTA,"Spitfire, Nanopulser","Pistol, CC Weapon",1.5,33,Jump Form
+"FRAACTA (Hacker, Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,32,Jump Form
+UMBRA LEGATE,"Spitfire, Flash Pulse","Pistol, DA CC Weapon",1.5,42,UMBRA LEGATES
+"UMBRA LEGATE (Hacker, Hacking Device Plus)","Boarding Shotgun, Flash Pulse","Pistol, DA CC Weapon",0.5,41,UMBRA LEGATES
+UMBRA LEGATE (Lieutenant),"Spitfire, Flash Pulse","Pistol, DA CC Weapon",1.5,40,UMBRA LEGATES
+MAAKREP TRACKER,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,32,MAAKREP Trackers Unit
+"MAAKREP TRACKER (Hacker, Hacking Device)","Boarding Shotgun, Grenades","Pistol, CC Weapon",0.5,31,MAAKREP Trackers Unit
+MAAKREP TRACKER (Lieutenant),"Combi Rifle, Light Shotgun","Pistol, CC Weapon",1,27,MAAKREP Trackers Unit
+RODOK,Spitfire,"Heavy Pistol, CC Weapon",1.5,28,"RODOK, Morat Armed Imposition Detachment"
+RODOK (Strategic Deployment),Submachine Gun,"Heavy Pistol, CC Weapon",0,23,"RODOK, Morat Armed Imposition Detachment"
+"RODOK (Hacker, Hacking Device)",Boarding Shotgun,"Heavy Pistol, CC Weapon",0.5,27,"RODOK, Morat Armed Imposition Detachment"
+RODOK (Paramedic),Boarding Shotgun | MediKit,"Heavy Pistol, CC Weapon",0,24,"RODOK, Morat Armed Imposition Detachment"
+MALIGNOS,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,35,MALIGNOS Shasvastii Deep Incursion Corps
+"MALIGNOS (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,39,MALIGNOS Shasvastii Deep Incursion Corps
+MALIGNOS (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,35,MALIGNOS Shasvastii Deep Incursion Corps
+"MALIGNOS (Hacker, Killer Hacking Device)","Submachine Gun, Shock Mines | Dazer","Pistol, CC Weapon",0,31,MALIGNOS Shasvastii Deep Incursion Corps
+MED-TECH OBSIDON MEDCHANOID,"Combi Rifle, D-Charges | GizmoKit, MediKit","Pistol, CC Weapon",0,22,MED-TECH OBSIDON MEDCHANOIDS
+M-DRONE,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,16,M-DRONES
+Q-DRONE,Plasma Rifle,PARA CC Weapon(-3),1,24,Q-DRONES
+T-DRONE,Missile Launcher,PARA CC Weapon(-3),1.5,18,T-DRONES
+R-DRONE,Flash Pulse,PARA CC Weapon(-3),0,7,R-DRONES
+NOCTIFER,Missile Launcher,"Assault Pistol, CC Weapon",1.5,32,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+"NOCTIFER (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,29,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+NOCTIFER (Lieutenant),Combi Rifle,"Pistol, CC Weapon",1,24,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+KURGAT,"Portable Autocannon, D-Charges","Heavy Pistol, CC Weapon",1,30,KURGAT Regiment of Assault Engineers
+KURGAT (BS Attack [+1 Dam]),"Combi Rifle(AP), E/Mitter, D-Charges, AP Mines","Heavy Pistol, CC Weapon",0,27,KURGAT Regiment of Assault Engineers
+SPHINX,"Spitfire, Heavy Flamethrower(+1B)",DA CC Weapon,2,93,Shasvastii Special Armoured Corp SPHINX
+SLAVE DRONE,,PARA CC Weapon(-3),0,3,SLAVE DRONES
+ÍMETRON,,,0,4,ÍMETRON
+SURYAT,"MULTI Rifle, Light Flamethrower","MULTI Pistol, CC Weapon",0,35,SURYAT Assault Heavy Infantry
+SURYAT (Multispectral Visor L1),Heavy Rocket Launcher | TinBot: Firewall [-3],"MULTI Pistol(+1B), CC Weapon",1.5,36,SURYAT Assault Heavy Infantry
+SURYAT (Tactical Awareness),Heavy Machine Gun | TinBot: Firewall [-3],"MULTI Pistol, CC Weapon",1.5,44,SURYAT Assault Heavy Infantry
+SURYAT (Lieutenant [+1 Order]),Heavy Machine Gun | TinBot: Firewall [-3],"MULTI Pistol, CC Weapon",1.5,45,SURYAT Assault Heavy Infantry
+"IKADRON (Baggage, Repeater)","Light Flamethrower(+1B), Flash Pulse","Pistol, PARA CC Weapon(-3)",0,9,IKADRON BATROID
+E-DRONE,Combi Rifle,PARA CC Weapon(-3),0.5,18,E-DRONES
+UMBRA SAMARITAN,"Spitfire, Flash Pulse","Pistol, Vorpal CC Weapon, DA CC Weapon",1,41,UMBRA SAMARITANS
+"UMBRA SAMARITAN (Hacker, Hacking Device [UPGRADE: Trinity])","Plasma Carbine, Flash Pulse","Pistol, Vorpal CC Weapon, DA CC Weapon",0.5,39,UMBRA SAMARITANS
+UMBRA SAMARITAN (Lieutenant),"Spitfire, Flash Pulse","Pistol, Vorpal CC Weapon, DA CC Weapon",1,41,UMBRA SAMARITANS
+NEXUS (Specialist Operative),Combi Rifle,"Pistol, CC Weapon",0,16,NEXUS Operatives
+"NEXUS (Hacker, Hacking Device)","Combi Rifle, E/M Mines","Pistol, CC Weapon",0.5,21,NEXUS Operatives
+"NEXUS (NCO, Nanoscreen)",Spitfire,"Pistol, CC Weapon",1,28,NEXUS Operatives
+"NEXUS (Lieutenant, Specialist Operative)",Combi Rifle,"Pistol, CC Weapon",0,16,NEXUS Operatives
+"NEXUS (Lieutenant, Hacker, Hacking Device)","Combi Rifle, E/M Mines","Pistol, CC Weapon",0.5,21,NEXUS Operatives
+"NEXUS (Engineer, NCO)","Vulkan Shotgun, D-Charges | GizmoKit","Pistol, CC Weapon",0,22,NEXUS Operatives
+XEODRON,"MULTI Marksman Rifle, Blitzen","Heavy Pistol, Shock CC Weapon",0.5,51,XEODRON Batroids
+OVERDRON,"Heavy Rocket Launcher(+1B), Submachine Gun",Shock CC Weapon,1.5,51,OVERDRON Batroids
+"Bit (Hacker [UPGRADE: Oblivion, UPGRADE: Trinity])","Submachine Gun, Pitcher | Deployable Repeater || KISS! (Repeater)","Pistol, CC Weapon",0.5,20,BIT
+"Bit (Hacker], Killer Hacking Device [UPGRADE: Oblivion])","Submachine Gun, Pitcher | Deployable Repeater] || KISS!","Pistol, CC Weapon",0.5,21,BIT
+KERR-NAU,"Plasma Rifle, D-Charges, Pitcher","Breaker Pistol, CC Weapon",0,27,Nexus-7 Operative Kerr-Nau
+"GREIF-OP (Forward Deployment [+8""], Mimetism [-3])",Shock Marksman Rifle,"Breaker Pistol(+1B), CC Weapon",0,24,GREIF OPERATORS
+"GREIF-OP (Surprise Attack [-3], Impersonation [IMP-2])","Combi Rifle, D-Charges","Breaker Pistol(+1B), CC Weapon",0.5,20,GREIF OPERATORS
+NOURKIAS,"Breaker Combi Rifle, Flash Pulse","Pistol, Vorpal CC Weapon, E/M CC Weapon",0,44,"Umbra Samaritan NOURKIAS, Kai'l Rank"
+"NOURKIAS (Hacker, Killer Hacking Device [UPGRADE: Total Control (+1 Damage)])","Breaker Combi Rifle, Flash Pulse","Pistol, Vorpal CC Weapon, E/M CC Weapon",0,47,"Umbra Samaritan NOURKIAS, Kai'l Rank"
+NOURKIAS (Lieutenant),"Breaker Combi Rifle, Flash Pulse","Pistol, Vorpal CC Weapon, E/M CC Weapon",0,42,"Umbra Samaritan NOURKIAS, Kai'l Rank"
+"NOURKIAS (Lieutenant, Hacker, Killer Hacking Device [UPGRADE: Total Control (+1 Damage)])","Breaker Combi Rifle, Flash Pulse","Pistol, Vorpal CC Weapon, E/M CC Weapon",0,45,"Umbra Samaritan NOURKIAS, Kai'l Rank"
+"KO DALI (Parachutist, Combat Jump)","Combi Rifle, Nanopulser, D-Charges","Assault Pistol(+1B), AP CC Weapon",0,39,Special Operative KO DALI
+"KO DALI FTO (Mimetism [-3], Forward Deployment [+4""])","MULTI Rifle, D-Charges, Pulzar","Assault Pistol, AP CC Weapon",0,35,Special Operative KO DALI
+"KO DALI (Infiltration, Mimetism [-3])","MULTI Rifle, Nanopulser, D-Charges","Assault Pistol(+1B), AP CC Weapon",0,41,Special Operative KO DALI
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

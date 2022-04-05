@@ -1,0 +1,86 @@
+,Name,Sectorial,Type,Classification,MOV,CC,BS,PH,WIP,ARM,BTS,W,S,AVA,Equipment,Special Skills,Characteristics
+0,Line Kazaks,opcionSectorial_301,LI,Line Troops,4-4,14,11,11,13,1,0,1,2,Total,[''],[''],['Regular']
+1,Para-Commandos,opcionSectorial_301,LI,Spec. Trained Troops,4-4,14,12,11,14,2,0,1,2,3,[''],"['Mimetism ( -3 )', 'Parachutist', 'Terrain ( Zero-G )']",['Regular']
+2,Dynamo,opcionSectorial_301,LI,Spec. Trained Troops,8-4,15,12,12,13,1,0,1,4,2,"['Motorcycle', 'Smoke Grenade Launcher', 'Mine Dispenser']","['Dodge ( +1"" )', 'Dogged', 'Courage', 'Impetuous']","['Regular', 'Impetuous']"
+3,Kazak Spetsnazs,opcionSectorial_301,LI,Elite Troops,4-4,21,12,12,13,2,0,1,2,2,[''],"['Martial Arts L2', 'BS Attack ( Shock )', 'Courage', 'Marksmanship', 'Stealth']",['Regular']
+4,USAriadna Grunts,opcionSectorial_301,MI,Garrison Troops,4-2,14,11,11,12,3,0,1,2,2,[''],['Immunity ( Shock )'],['Regular']
+5,"Frontoviks, Separate Assault Bat.",opcionSectorial_301,LI,Veteran Troops,4-4,17,12,11,13,2,0,1,2,2,[''],"['Courage', 'Mimetism ( -3 )', 'Veteran']",['Regular']
+6,TankHunters,opcionSectorial_301,MI,Elite Troops,4-4,14,12,12,14,3,0,1,2,3,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Courage', 'Mimetism ( -3 )', 'Stealth']",['Regular']
+7,Minutemen,opcionSectorial_301,HI,Veteran Troops,4-4,20,13,13,12,3,0,1,2,3,[''],"['Dodge ( +1"" )', 'Immunity ( Shock )', 'Terrain ( Total )', 'CC Attack ( -3 )']",['Regular']
+8,Moblots,opcionSectorial_301,HI,Veteran Troops,4-4,16,13,12,13,3,3,1,2,3,[''],"['BS Attack ( Shock )', 'Immunity ( Shock )', 'Terrain ( Jungle )']",['Regular']
+9,Veteran Kazaks,opcionSectorial_301,HI,Elite Troops,4-4,17,13,12,14,4,0,1,2,2,[''],"['Courage', 'Immunity ( Shock )', 'Mimetism ( -3 )', 'Sixth Sense', 'No Wound Incapacitation', 'Veteran']",['Regular']
+10,Foxtrot Rangers,opcionSectorial_301,SK,Spec. Trained Troops,4-4,14,11,13,13,0,0,1,2,3,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Infiltration', 'Mimetism ( -3 )', 'Stealth', 'Terrain ( Total )']",['Regular']
+11,Hardcases,opcionSectorial_301,SK,Spec. Trained Troops,4-4,15,11,13,12,0,0,1,2,2,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Infiltration', 'Mimetism ( -3 )', 'Terrain ( Total )', 'Decoy ( 1 )', 'Stealth']",['Irregular']
+12,S.A.S.,opcionSectorial_301,SK,Spec. Trained Troops,4-4,22,11,13,13,0,0,1,2,2,[''],"['Surprise Attack ( -3 )', 'Martial Arts L2', 'Camouflage', 'Courage', 'Dodge ( +1"" )', 'Infiltration', 'Mimetism ( -3 )', 'Terrain ( Total )', 'Stealth']",['Regular']
+13,Scouts,opcionSectorial_301,SK,Elite Troops,4-4,15,12,13,13,1,0,1,2,3,[''],"['BS Attack ( Shock )', 'Surprise Attack ( -3 )', 'Camouflage', 'Mimetism ( -3 )', 'Terrain ( Total )', 'Stealth', 'Infiltration']",['Regular']
+14,45th Highlanders Rifles,opcionSectorial_301,WB,Line Troops,4-4,21,10,14,14,1,0,1,2,5,[''],"['Berserk ( +3 )', 'Courage', 'Dogged', 'Impetuous']","['Irregular', 'Impetuous']"
+15,Irmandinhos,opcionSectorial_301,WB,Line Troops,4-4,21,10,14,13,1,0,1,2,2,['Deactivator'],"['Booty', 'Engineer', 'Impetuous']","['Irregular', 'Impetuous']"
+16,Antipode Assault Pack,opcionSectorial_301,WB,Support Troops,4-4,13,11,11,13,1,0,1,2,1,[''],['Tactical Awareness'],['Regular']
+17,Varangian Guard,opcionSectorial_301,WB,Mercenary Troops,4-4,23,10,14,13,2,0,1,2,4,[''],"['Berserk ( +3 )', 'Courage', 'Dogged', 'Religious Troop', 'Impetuous']","['Regular', 'Impetuous']"
+18,Dog-Warriors,opcionSectorial_301,WB,Support Troops,4-4,21,10,14,12,1,0,1,2,2,[''],"['Courage', 'Immunity ( Total )', 'Super-Jump', 'Transmutation ( W )', 'Vulnerability ( Viral )', 'Impetuous']","['Irregular', 'Impetuous']"
+19,Kazak Doktor,opcionSectorial_301,LI,Support Troops,4-4,14,11,11,13,1,0,1,2,1,['MediKit'],['Doctor'],['Regular']
+20,Monstruckers,opcionSectorial_301,LI,Mercenary Troops,4-4,16,11,12,13,1,0,1,2,1,"['Deactivator', 'GizmoKit']","['Engineer', 'Climbing Plus']","['Cube', 'Irregular']"
+21,Vassily Plushenko,opcionSectorial_301,MI,Character,4-4,17,13,12,14,3,0,1,2,1,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Mimetism ( -3 )', 'Decoy ( 1 )', 'Stealth', 'Dogged', 'Courage']",['Regular']
+22,Van Zant,opcionSectorial_301,LI,Character,4-4,22,13,13,14,2,0,1,2,1,[''],"['Martial Arts L2', 'Courage', 'Dodge ( +1"" )', 'Parachutist ( Dep. Zone )', 'NCO', 'Dogged', 'Stealth']",['Regular']
+23,"Armand 'Le Muet', Freelance Killer",opcionSectorial_301,MI,Character,4-4,21,13,12,13,2,3,1,2,1,[''],"['CC Attack ( +1 Dam )', 'Forward Deployment ( +4"" )', 'Natural Born Warrior', 'Mimetism ( -6 )', 'Stealth', 'Transmutation ( W )', 'Immunity ( Shock )']","['Cube', 'Regular']"
+24,Pavel Aleksei McMannus,opcionSectorial_301,SK,Character,4-4,23,12,13,13,1,0,1,2,1,[''],"['Martial Arts L2', 'Surprise Attack ( -3 )', 'Camouflage', 'Courage', 'Forward Deployment ( +8"" )', 'Berserk ( +3 )', 'Natural Born Warrior', 'Mimetism ( -3 )', 'Terrain ( Total )', 'Specialist Operative', 'Stealth']",['Regular']
+25,Caledonian Volunteers,opcionSectorial_301,LI,Garrison Troops,4-4,14,10,11,12,1,0,1,2,2,[''],"['Terrain ( Jungle )', 'Terrain ( Mountain )']",['Regular']
+26,"Métros, Troupes Métropolitaines",opcionSectorial_301,LI,Garrison Troops,4-4,14,10,11,12,1,0,1,2,2,[''],['Terrain ( Total )'],['Regular']
+27,Loup-Garous,opcionSectorial_301,LI,Spec. Trained Troops,4-4,16,12,11,13,2,0,1,2,2,['X Visor'],['Courage'],['Regular']
+28,Highlander Caterans,opcionSectorial_301,LI,Spec. Trained Troops,4-4,22,12,13,12,0,0,1,2,1,[''],"['Surprise Attack ( -3 )', 'Camouflage ( 1 Use )', 'Mimetism ( -3 )', 'Stealth', 'Climbing Plus']",['Irregular']
+29,Zouaves,opcionSectorial_301,LI,Spec. Trained Troops,4-4,15,12,10,13,2,0,1,2,2,[''],"['Courage', 'Forward Deployment ( +8"" )', 'Dogged']",['Regular']
+30,3rd Highlander Greys,opcionSectorial_301,HI,Veteran Troops,6-2,21,13,13,12,3,0,1,2,2,[''],"['BS Attack ( +1 Dam )', 'Courage', 'Frenzy', 'Immunity ( Shock )', 'Dogged']",['Regular']
+31,Caledonian Mormaers,opcionSectorial_301,HI,Elite Troops,4-4,17,13,13,13,5,0,1,2,2,[''],"['BS Attack ( +2 Dam )', 'BS Attack ( AP )', 'Courage', 'Immunity ( Critical )', 'Immunity ( Shock )', 'Dogged']",['Regular']
+32,Chasseurs,opcionSectorial_301,SK,Spec. Trained Troops,4-4,14,11,13,13,0,0,1,2,2,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Infiltration', 'Mimetism ( -3 )', 'Sixth Sense', 'Stealth', 'Terrain ( Total )']",['Regular']
+33,9th Wulver Grenadiers,opcionSectorial_301,WB,Line Troops,4-4,23,12,14,13,3,0,2,2,2,[''],"['Martial Arts L1', 'CC Attack ( +1 Dam )', 'Berserk ( +3 )', 'Courage', 'Dodge ( +1"" )', 'Frenzy', 'Natural Born Warrior', 'Immunity ( Shock )', 'Climbing Plus']",['Regular']
+34,"Knauf, Outlaw Sniper",opcionSectorial_301,LI,Character,4-4,21,13,11,13,1,0,1,2,1,['Multispectral Visor L1'],"['BS Attack ( +1B )', 'BS Attack ( Shock )', 'Mimetism ( -3 )', 'Stealth', 'Terrain ( Total )']",['Regular']
+35,2nd Irregular Cameronians Reg.,opcionSectorial_301,WB,Support Troops,6-4,23,10,16,12,4,0,2,6,1,[''],"['Courage', 'Natural Born Warrior', 'Immunity ( Total )', 'Super-Jump', 'Vulnerability ( Viral )', 'Impetuous']","['Irregular', 'Impetuous']"
+36,"112, Emergency Service",opcionSectorial_301,LI,Support Troops,4-4,16,11,12,13,0,0,1,2,1,['MediKit'],"['Doctor', 'Courage']",['Regular']
+37,"Dozers, Field Engineers",opcionSectorial_301,LI,Support Troops,4-4,14,11,11,13,1,0,1,2,1,['Deactivator'],"['Courage', 'Engineer']",['Regular']
+38,Traktor Mul,opcionSectorial_301,REM,Support Troops,4-4,13,10,9,12,2,0,1,4,2,"['Baggage', 'ECM: Guided ( -6 )']","['Remote Presence', 'Courage', 'Immunity ( Shock )', 'BS Attack ( Guided )']","['Regular', 'Hackable']"
+39,Equipe Mirage-5,opcionSectorial_301,HI,Character,4-4,16,14,12,13,3,0,1,2,1,[''],"['BS Attack ( Shock )', 'Immunity ( Shock )', 'Terrain ( Total )', 'Parachutist ( Dep. Zone )']","['Regular', 'Impetuous']"
+40,William Wallace,opcionSectorial_301,WB,Character,6-4,24,13,14,15,3,0,1,2,1,[''],"['CC Attack ( +1 Dam )', 'Berserk ( +3 )', 'Courage', 'Dodge ( +2"" )', 'Natural Born Warrior', 'Immunity ( Shock )', 'Immunity ( Critical )', 'Inspiring Leadership', 'No Wound Incapacitation']","['Cube', 'Regular']"
+41,Briscards,opcionSectorial_301,MI,Veteran Troops,4-4,16,12,11,13,2,0,1,2,2,['Multispectral Visor L1'],"['Courage', 'Terrain ( Mountain )']",['Regular']
+42,Aïda Swanson,opcionSectorial_301,LI,Character,4-4,19,12,11,13,1,3,1,2,1,[''],"['Martial Arts L2', 'Courage', 'Booty', 'Forward Deployment ( +4"" )', 'Mimetism ( -3 )', 'Shasvastii', 'Stealth']","['Cube', 'Regular']"
+43,Brigadier Jacques Bruant,opcionSectorial_301,MI,The Scots Guards,4-4,16,12,12,13,3,0,1,2,2,[''],"['Courage', 'Mimetism ( -3 )', 'Stealth', 'Terrain ( Total )']",['Regular']
+44,Libertos Freedom Fighters,opcionSectorial_301,LI,Character,4-4,15,12,11,13,2,0,1,2,1,['X Visor'],"['Mimetism ( -3 )', 'Specialist Operative', 'Stealth', 'Terrain ( Total )']",['Regular']
+45,Uxía McNeill,opcionSectorial_301,LI,Mercenary Troops,4-4,16,11,10,12,0,0,1,2,1,[''],"['Camouflage ( 1 Use )', 'Courage', 'Forward Deployment ( +8"" )', 'Dodge ( +6 )', 'Dodge ( +1"" )', 'Frenzy', 'Terrain ( Aquatic )', 'Dogged']",['Irregular']
+46,Volunteer Intel Isobel McGregor,opcionSectorial_301,SK,Character,4-4,22,11,13,13,0,0,1,2,1,[''],"['Martial Arts L2', 'Surprise Attack ( -3 )', 'Courage', 'Camouflage', 'Dodge ( +2"" )', 'Infiltration ( +6 )', 'Mimetism ( -3 )', 'Stealth', 'Terrain ( Total )', 'Frenzy']",['Regular']
+47,"Wardrivers, Merc. Hackers",opcionSectorial_301,LI,Character,4-4,13,12,11,13,2,0,1,2,1,['Hacking Device'],"['Courage', 'Hacker']",['Regular']
+48,"Wild Bill, Legendary Gunslinger",opcionSectorial_301,LI,Mercenary Troops,4-4,13,11,10,13,0,3,1,2,1,[''],['Sixth Sense'],"['Cube', 'Regular']"
+49,Mavericks,opcionSectorial_301,LI,Character,6-2,15,13,11,13,1,0,1,2,1,[''],"['BS Attack ( +1 Dam )', 'BS Attack ( Shock )', 'Courage', 'Dodge ( +3 )', 'Marksmanship', 'No Wound Incapacitation']","['Cube', 'Regular']"
+50,"Marauders, 5307th Ranger Unit",opcionSectorial_301,MI,Spec. Trained Troops,8-4,18,12,12,13,3,0,1,4,2,"['Motorcycle', 'Multispectral Visor L1', 'Smoke Grenade Launcher']","['Dodge ( +1"" )', 'Impetuous']","['Regular', 'Impetuous']"
+51,Devil Dog Teams,opcionSectorial_301,MI,Veteran Troops,4-4,15,12,12,13,3,0,1,2,3,[''],"['Forward Deployment ( +4"" )', 'Stealth', 'Terrain ( Jungle )', 'Dogged']",['Regular']
+52,6th AIRBORNE RANGERS Reg.,opcionSectorial_301,WB,Support Troops,6-4,23,10,16,12,4,0,2,6,1,[''],"['Courage', 'Immunity ( Total )', 'Super-Jump', 'Terrain ( Aquatic )', 'Vulnerability ( Viral )', 'Impetuous']","['Irregular', 'Impetuous']"
+53,Desperadoes,opcionSectorial_301,LI,Spec. Trained Troops,4-4,22,12,12,13,1,0,1,2,2,[''],"['Martial Arts L2', 'Courage', 'Dodge ( +1"" )', 'Parachutist', 'Stealth', 'Terrain ( Jungle )']",['Regular']
+54,Authorized Bounty Hunters,opcionSectorial_301,WB,Spec. Trained Troops,8-4,21,11,13,13,1,0,1,4,2,"['Motorcycle', 'Smoke Grenade Launcher']","['Courage', 'Dodge ( +1"" )', 'Sixth Sense', 'Impetuous']","['Irregular', 'Impetuous']"
+55,Col. Yevgueni Voronin,opcionSectorial_301,LI,Mercenary Troops,4-4,16,12,10,13,1,3,1,2,3,[''],"['Booty ( ReRoll )', 'Stealth']","['Cube', 'Regular']"
+56,"Warcors, War Correspondents",opcionSectorial_301,LI,Character,4-4,22,11,13,14,0,0,1,4,1,[''],"['Martial Arts L2', 'Guard', 'Sixth Sense', 'Sensor']",['Regular']
+57,"Miranda Ashcroft, Authorized",opcionSectorial_301,LI,Mercenary Troops,4-4,11,9,11,13,0,0,1,2,1,[''],['Journalist L1 ( +3 )'],"['Cube', 'Irregular']"
+58,Blackjacks,opcionSectorial_301,LI,Character,4-4,19,12,10,13,1,3,1,2,1,[''],"['CC Attack ( -6 )', 'Mimetism ( -6 )', 'Specialist Operative', 'Stealth']","['Cube', 'Regular']"
+59,The Unknown Ranger,opcionSectorial_301,HI,Headquarters Troops,6-4,17,13,17,12,7,3,2,7,1,[''],"['CC Attack ( Antimaterial )', 'BS Attack ( +1 Dam )', 'Booty', 'Dodge ( PH=9 )', 'Gizmokit ( PH=10 )', 'Immunity ( Shock )', 'Tactical Awareness', 'Transmutation ( STR )']","['Cube', 'Regular', 'Hackable']"
+60,Krakot Renegades,opcionSectorial_301,LI,Character,6-2,23,13,13,13,4,0,1,2,1,['Multispectral Visor L1'],"['Martial Arts L2', 'Courage', 'Dodge ( +1"" )', 'Natural Born Warrior', 'Immunity ( Shock )', 'Mimetism ( -3 )', 'Specialist Operative', 'Tactical Awareness', 'Stealth', 'No Wound Incapacitation']",['Regular']
+61,Grunt Intel Rosalind 'Rosie' Munroe,opcionSectorial_301,LI,Mercenary Troops,4-4,23,11,13,12,1,0,1,2,2,[''],"['Berserk', 'Forward Deployment ( +4"" )', 'Dodge ( +1"" )', 'MetaChemistry ( ReRoll )', 'Religious Troop', 'Veteran', 'Impetuous']","['Regular', 'Impetuous']"
+62,Streloks,opcionSectorial_301,MI,Character,4-4,14,12,11,13,3,0,1,2,1,[''],"['Courage', 'Forward Deployment ( +4"" )', 'Immunity ( Shock )', 'Specialist Operative', 'Dogged']",['Regular']
+63,Ratnik,opcionSectorial_301,LI,Spec. Trained Troops,4-4,16,11,11,13,1,0,1,2,1,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Forward Deployment ( +8"" )', 'Mimetism ( -3 )', 'Decoy ( 1 )', 'Stealth']",['Regular']
+64,Cube Jäger,opcionSectorial_301,HI,Headquarters Troops,4-4,16,13,14,13,6,3,1,5,1,['Deactivator'],"['Dodge ( PH=9 )', 'Immunity ( Shock )', 'Transmutation ( W )', 'Courage']","['Regular', 'Hackable']"
+65,"112, Emergency Service (Motorized)",opcionSectorial_301,LI,Mercenary Troops,4-4,16,11,10,13,1,3,1,2,1,['MediKit'],"['Immunity ( Shock )', 'Stealth', 'Parachutist']",['Irregular']
+66,Oktavia Grímsdóttir,opcionSectorial_301,LI,Support Troops,8-4,16,11,12,13,0,0,1,4,1,"['MediKit', 'Motorcycle', 'Smoke Grenade Launcher']","['Doctor', 'Courage']",['Regular']
+67,REM Racers,opcionSectorial_301,LI,Character,4-4,17,12,10,13,2,0,1,2,1,[''],"['BS Attack ( +1B )', 'Courage', 'Sixth Sense', 'Dogged']","['Cube', 'Regular']"
+68,Rokots,opcionSectorial_301,LI,Mercenary Troops,4-4,14,11,10,13,0,6,1,2,1,['Deployable Repeater'],[''],"['Cube', 'Regular']"
+69,Zenit-7 Detachment,opcionSectorial_301,LI,Line Troops,4-4,14,10,11,13,1,0,1,2,3,[''],['Courage'],['Regular']
+70,Volkolak Assault Troopers,opcionSectorial_301,LI,Elite Troops,4-4,14,12,10,13,2,0,1,2,1,[''],"['Surprise Attack ( -3 )', 'BS Attack ( +1 Dam )', 'BS Attack ( Shock )', 'Camouflage', 'Mimetism ( -3 )', 'Decoy ( 1 )', 'Stealth']",['Regular']
+71,Kosmosoldat,opcionSectorial_301,HI,Elite Troops,4-4,22,12,14,12,4,0,1,2,2,[''],"['Courage', 'Dodge ( +1"" )', 'Natural Born Warrior', 'Immunity ( Total )', 'No Wound Incapacitation', 'Super-Jump']",['Regular']
+72,Polaris Team,opcionSectorial_301,HI,Headquarters Troops,4-4,16,13,14,13,6,3,1,2,1,[''],"['Courage', 'Dodge ( PH=11 )', 'Immunity ( Shock )', 'No Wound Incapacitation', 'Terrain ( Zero-G )']","['Regular', 'Hackable']"
+73,Polaris Bearpode,opcionSectorial_301,LI,Support Troops,4-4,14,11,11,13,2,0,1,2,1,[''],[''],['Regular']
+74,"Cadin ""FirstStrike"" Donn",opcionSectorial_301,WB,Support Troops,6-4,24,11,16,12,5,0,2,6,1,[''],"['CC Attack ( +2 Dam )', 'Courage', 'Berserk', 'Immunity ( Total )', 'Dogged', 'Climbing Plus', 'Vulnerability ( Viral )', 'Impetuous']","['Irregular', 'Impetuous']"
+75,Wolfgang Amadeus Wolff,opcionSectorial_301,WB,Character,4-4,23,12,14,13,3,0,2,2,1,[''],"['Frenzy', 'Martial Arts L2', 'CC Attack ( AP )', 'Berserk ( +3 )', 'Courage', 'Dodge ( +2"" )', 'Natural Born Warrior', 'Climbing Plus', 'Immunity ( Shock )']",['Regular']
+76,Motorized Bounty Hunters,opcionSectorial_301,WB,Character,4-4,22,12,14,13,3,3,2,2,1,[''],"['Martial Arts L3', 'Berserk ( +3 )', 'Courage', 'Dodge ( +2"" )', 'Dodge ( +3 )', 'Frenzy', 'Immunity ( Shock )', 'Climbing Plus', 'Terrain ( Zero-G )']",['Regular']
+77,ITS BIKE RECON Motorized Bounty Hunters,opcionSectorial_301,LI,Mercenary Troops,8-6,17,12,10,13,1,3,1,4,1,['Motorcycle'],"['Booty ( ReRoll )', 'Dodge ( +2"" )', 'Impetuous']","['Cube', 'Irregular', 'Impetuous']"
+78,"Diggers, Armed Prospectors",opcionSectorial_301,LI,Mercenary Troops,8-6,17,12,10,13,1,3,1,4,1,['Motorcycle'],"['Booty ( ReRoll )', 'Dodge ( +2"" )', 'Impetuous']","['Cube', 'Irregular', 'Impetuous']"
+79,"Triphammers, Repurposed Industrial TAGs",opcionSectorial_301,HI,Mercenary Troops,4-4,21,11,13,12,0,0,1,2,1,[''],"['CC Attack ( +2 Dam )', 'Natural Born Warrior', 'Mimetism ( -3 )', 'Stealth', 'Super-Jump', 'Terrain ( Total )', 'Religious Troop']","['Cube', 'Irregular']"
+80,Beasthunters Free Guild,opcionSectorial_301,TAG,Mercenary Troops,4-4,10,8,9,12,0,0,1,1,2,[''],"['Courage', 'Immunity ( Shock )', 'Mimetism ( -3 )', 'Peripheral ( Servant )']","['Hackable', 'Peripheral']"
+81,Remontnikbot V-5 Elektronik,opcionSectorial_301,LI,Mercenary Troops,4-4,15,11,11,13,2,0,1,2,2,"['Deactivator', 'GizmoKit']","['Engineer', 'Terrain ( Zero-G )']",['Regular']
+82,"Mekhaniks, Flight Engineers Corps",opcionSectorial_301,REM,Support Troops,4-4,18,12,11,13,3,0,1,2,2,[''],"['Specialist Operative', 'Terrain ( Zero-G )']",['Regular']
+83,Strannik Outer Patrol,opcionSectorial_301,LI,Spec. Trained Troops,6-4,17,14,17,13,8,6,2,7,1,['ECM: Guided ( -3 )'],"['BS Attack ( +1 Dam )', 'Courage', 'Dodge ( PH=9 )', 'Immunity ( Shock )', 'Tactical Awareness', 'Transmutation ( STR )', 'Gizmokit ( PH=9 )']","['Regular', 'Hackable']"
+84,Chernobog Armored Detachment,opcionSectorial_301,MI,Spec. Trained Troops,4-4,16,12,13,13,3,3,1,2,2,[''],"['Courage', 'Dodge ( +1"" )', 'Immunity ( Continous Damage )', 'Immunity ( Shock )', 'Specialist Operative', 'Terrain ( Zero-G )', 'Transmutation ( W )', 'Climbing Plus']","['Cube', 'Regular', 'Hackable']"

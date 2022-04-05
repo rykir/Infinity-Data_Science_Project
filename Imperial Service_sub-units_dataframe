@@ -1,0 +1,88 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+ZHÀNYING,"Missile Launcher, Chain-colt","Pistol, PARA CC Weapon(-6)",1.5,23,ZHÀNYĪNG Imperial Agents
+"ZHÀNYING (Hacker, Hacking Device)","Breaker Combi Rifle, Chain-colt, D-Charges","Pistol, PARA CC Weapon(-6)",0.5,25,ZHÀNYĪNG Imperial Agents
+ZHÀNYING (Forward Observer),"Breaker Combi Rifle, Chain-colt, Flash Pulse","Pistol, PARA CC Weapon(-6)",0,21,ZHÀNYĪNG Imperial Agents
+"ZHÀNYING (Sensor, Triangulated Fire)","Breaker Combi Rifle, Chain-colt","Pistol, PARA CC Weapon(-6)",0,21,ZHÀNYĪNG Imperial Agents
+"ZHÀNYING (Sensor, Triangulated Fire, Minelayer)","Breaker Combi Rifle, Chain-colt, Madtraps","Pistol, PARA CC Weapon(-6)",0,23,ZHÀNYĪNG Imperial Agents
+ZHÀNYING (Lieutenant),"Heavy Machine Gun, Chain-colt","Pistol, PARA CC Weapon(-6)",1,26,ZHÀNYĪNG Imperial Agents
+"ZHÀNYING (Lieutenant, Sensor, Triangulated Fire)","Breaker Combi Rifle, Chain-colt","Pistol, PARA CC Weapon(-6)",0,21,ZHÀNYĪNG Imperial Agents
+WÚ MÍNG,"Panzerfaust, Light Shotgun","Pistol, CC Weapon",0,25,WÚ MÍNG Assault Corps (Those Without Name)
+WÚ MÍNG (Forward Observer),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,30,WÚ MÍNG Assault Corps (Those Without Name)
+DEVA,"MULTI Rifle, Nanopulser","Pistol, CC Weapon",0,25,DEVA Functionaries
+"DEVA (Hacker, Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,28,DEVA Functionaries
+"DEVA (Hacker, Killer Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",0,26,DEVA Functionaries
+"DEVA (Triangulated Fire, Sensor)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0,24,DEVA Functionaries
+DEVA (Forward Observer),"Combi Rifle, Nanopulser, Flash Pulse","Pistol, CC Weapon",0,24,DEVA Functionaries
+DEVA (Multispectral Visor L2),"Spitfire, Nanopulser","Pistol, CC Weapon",1,33,DEVA Functionaries
+DEVA (Lieutenant),"Combi Rifle, Nanopulser || DEVABOT","Pistol, CC Weapon",0,27,DEVA Functionaries
+"DEVA (Lieutenant, Triangulated Fire, Sensor)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0,24,DEVA Functionaries
+HSIEN,"Heavy Machine Gun, Nanopulser","Pistol, AP CC Weapon",1.5,55,HSIEN Warriors
+HSIEN (Specialist Operative]),"MULTI Rifle, Nanopulser(+1B)","Pistol, AP CC Weapon",+1,50,HSIEN Warriors
+HSIEN (Lieutenant),"Heavy Machine Gun, Nanopulser","Pistol, AP CC Weapon",1.5,55,HSIEN Warriors
+"HSIEN (Lieutenant [+1 Order], Specialist Operative])","MULTI Rifle, Nanopulser(+1B)","Pistol, AP CC Weapon",+1,54,HSIEN Warriors
+GARUDA,Spitfire,PARA CC Weapon(-3),1.5,25,GARUDA Tacbots
+GARUDA (Forward Observer),"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,20,GARUDA Tacbots
+DAKINI,MULTI Sniper Rifle,PARA CC Weapon(-3),1.5,20,DAKINI Tacbots
+DAKINI (Paramedic),Combi Rifle | MediKit,PARA CC Weapon(-3),0,15,DAKINI Tacbots
+NINJA,Submachine Gun,"Pistol, DA CC Weapon",0,31,NINJAS
+"NINJA (Hacker, Hacking Device)",Submachine Gun,"Pistol, AP CC Weapon",0.5,35,NINJAS
+"NINJA (Hacker, Killer Hacking Device)",Tactical Bow,"Pistol, DA CC Weapon",0,29,NINJAS
+NINJA (Forward Observer),"Combi Rifle, Flash Pulse","Pistol, DA CC Weapon",0,35,NINJAS
+SOPHOTECT,"Combi Rifle, D-Charges","Pistol, CC Weapon",0,31,SOPHOTECTS
+WÈIBĪNG Yaókòng,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,WÈIBĪNG Yáokòng (Guardian Remote)
+HÙSÒNG Yaókòng,Heavy Machine Gun,PARA CC Weapon(-3),1,24,HÙSÒNG Yáokòng (Escort Remote)
+SON-BAE Yaókòng,Missile Launcher,PARA CC Weapon(-3),1.5,16,SON-BAE Yáokòng
+CHAĪYÌ Yaókòng,Flash Pulse,PARA CC Weapon(-3),0,7,CHAĪYÌ Yáokòng (Messenger Remote)
+SUN TZE,"MULTI Rifle, Nanopulser(+1B), Flash Pulse","Breaker Pistol, CC Weapon",0,56,SUN TZE
+SUN TZE (Lieutenant [+1 Command Token]),"MULTI Rifle, Nanopulser(+1B), Flash Pulse","Breaker Pistol, CC Weapon",0,62,SUN TZE
+YUDBOT,,PARA CC Weapon(-3),0,3,YUDBOTS
+CELESTIAL GUARD,Spitfire,"Pistol, CC Weapon",1,19,CELESTIAL GUARD
+CELESTIAL GUARD Monitor,"Combi Rifle, Smoke Grenade Launcher","Pistol, CC Weapon",0.5,13,CELESTIAL GUARD
+"CELESTIAL GUARD (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,18,CELESTIAL GUARD
+CELESTIAL GUARD (Forward Observer),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,14,CELESTIAL GUARD
+CELESTIAL GUARD (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,13,CELESTIAL GUARD
+CSU,Boarding Shotgun,"Pistol, PARA CC Weapon(-6)",0,12,"CSU, Corporate Security Unit"
+CSU (Specialist Operative),"Breaker Combi Rifle, Nanopulser(+1B)","Pistol, PARA CC Weapon(-6)",0,15,"CSU, Corporate Security Unit"
+KUANG SHI,Boarding Shotgun,"Pistol, CC Weapon",0,12,KUANG SHI
+PHEASANT IMPERIAL AGENT,"Boarding Shotgun, E/Mitter","Breaker Pistol, PARA CC Weapon(-6)",0,25,"IMPERIAL AGENT, Pheasant Rank (Yě Jī)"
+"PHEASANT IMPERIAL AGENT (Hacker, Hacking Device)","Combi Rifle, E/Mitter","Breaker Pistol, PARA CC Weapon(-6)",0.5,30,"IMPERIAL AGENT, Pheasant Rank (Yě Jī)"
+"PHEASANT IMPERIAL AGENT (Hacker, Killer Hacking Device)","Combi Rifle, E/Mitter","Breaker Pistol, PARA CC Weapon(-6)",0,28,"IMPERIAL AGENT, Pheasant Rank (Yě Jī)"
+PHEASANT IMPERIAL AGENT (Minelayer),"Boarding Shotgun, E/Mitter, Madtraps","Breaker Pistol, PARA CC Weapon(-6)",0,27,"IMPERIAL AGENT, Pheasant Rank (Yě Jī)"
+PHEASANT IMPERIAL AGENT (Tactical Awareness),Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",1,31,"IMPERIAL AGENT, Pheasant Rank (Yě Jī)"
+"SFORZA (Surprise Attack [-3], Holoprojector)","Viral Rifle, Adhesive Launcher(+1B), Nanopulser","Heavy Pistol, PARA CC Weapon(-6)",0,28,"FATHER LUCIEN SFORZA, Authorized Bounty Hunter"
+SFORZA FTO,"Viral Rifle, Adhesive Launcher(+1B), Nanopulser","Heavy Pistol, PARA CC Weapon(-6)",0,26,"FATHER LUCIEN SFORZA, Authorized Bounty Hunter"
+"CRANE AGENT (Triangulated Fire, Sensor, X Visor)","MULTI Rifle, Nanopulser(+1B)","Pistol, DA CC Weapon",0,46,"IMPERIAL AGENTS, Crane Rank (Xiān Hè)"
+CRANE AGENT (X Visor),"Spitfire, Nanopulser(+1B)","Pistol, DA CC Weapon",1.5,49,"IMPERIAL AGENTS, Crane Rank (Xiān Hè)"
+"CRANE AGENT (Hacker, Hacking Device, Hacking Device)","MULTI Rifle, Nanopulser(+1B)","Pistol, DA CC Weapon",0.5,46,"IMPERIAL AGENTS, Crane Rank (Xiān Hè)"
+"CRANE AGENT (Lieutenant, Sensor, Triangulated Fire, X Visor)","MULTI Rifle, Nanopulser(+1B)","Pistol, DA CC Weapon",+1.5,46,"IMPERIAL AGENTS, Crane Rank (Xiān Hè)"
+"CRANE AGENT (Lieutenant, X Visor)","Spitfire, Nanopulser(+1B)","Pistol, DA CC Weapon",0,49,"IMPERIAL AGENTS, Crane Rank (Xiān Hè)"
+SÙ-JIÀN,"Heavy Shotgun(+1B), Panzerfaust","Heavy Pistol, CC Weapon",0,50,HIGH MOBILITY FORM
+RUI SHI,Spitfire,PARA CC Weapon(-3),1,23,Yáoxiè RUI SHI
+LÙ DUĀN,"Mk12, Heavy Flamethrower(+1B) | Deployable Repeater",PARA CC Weapon(-3),0,24,Yáoxiè LÙ DUĀN
+"PANGGULING (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,Yáopú PANGGULING
+"PANGGULING (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,Yáopú PANGGULING
+"PANGGULING (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,Yáopú PANGGULING
+PANGGULING FTO (Repeater),Light Shotgun,PARA CC Weapon(-3),0,12,Yáopú PANGGULING
+SUN TZE v2,"MULTI Sniper Rifle, Nanopulser","Pistol, CC Weapon",1.5,45,SUN TZE v.2 (Marksman Leader)
+SUN TZE v2 (Lieutenant [+1 Command Token]),"MULTI Sniper Rifle, Nanopulser","Pistol, CC Weapon",1.5,51,SUN TZE v.2 (Marksman Leader)
+BÀO TROOP,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,29,"BÀO TROOPS, Judicial Watch Unit"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+MIRANDA ASHCROFT,"Combi Rifle, E/Mitter(+1B), Nanopulser","Pistol, Monofilament CC Weapon",0,25,"MIRANDA ASHCROFT, Authorized Bounty Hunter"
+KǍNRÈN,Boarding Shotgun,"Pistol, Monofilament CC Weapon",0,23,KǍNRÈN Counter-insurgency Group
+"KǍNRÈN (Hacker, Killer Hacking Device)","Combi Rifle, Chain-colt","Pistol, Monofilament CC Weapon",0,26,KǍNRÈN Counter-insurgency Group
+"KǍNRÈN (Hacker, Hacking Device)","Combi Rifle, Chain-colt","Pistol, Monofilament CC Weapon",0.5,28,KǍNRÈN Counter-insurgency Group
+KǍNRÈN (Minelayer),"Combi Rifle, Chain-colt, Madtraps","Pistol, Monofilament CC Weapon",0,25,KǍNRÈN Counter-insurgency Group
+KǍNRÈN (Forward Observer),"Boarding Shotgun, Flash Pulse","Pistol, Monofilament CC Weapon",0,24,KǍNRÈN Counter-insurgency Group
+XI ZHUANG,"Combi Rifle, Light Flamethrower(+1B), Flash Pulse, Madtraps","Pistol, CC Weapon, PARA CC Weapon(-6)",0,21,Guǐ Fēng XI ZHUANG
+MAJOR LUNAH,VIRAL Sniper Rifle,"Pistol, CC Weapon",1.5,29,"MAJOR LUNAH, ex-Aristeia! Sniper"
+KUNAI NINJA,MULTI Sniper Rifle,"Pistol, Shock CC Weapon",1.5,34,KUNAI SOLUTIONS Ninjas
+"KUNAI NINJA (Forward Deployment [+4""])",Shock Marksman Rifle,"Pistol, Shock CC Weapon",0.5,31,KUNAI SOLUTIONS Ninjas
+"ADIL (Specialist Operative, Veteran)","Breaker Combi Rifle, Nanopulser(+1B)","Pistol, Monofilament CC Weapon, PARA CC Weapon(-6)",0,32,"Imperial Agent ADIL MEHMUT, Special Division"
+ADIL (Chain of Command),"Breaker Combi Rifle, Nanopulser(+1B)","Pistol, Monofilament CC Weapon, PARA CC Weapon(-6)",0,35,"Imperial Agent ADIL MEHMUT, Special Division"
+TÁOWÙ,"Contender, Nanopulser(+2B), Flash Pulse(+1B)","Viral Pistol(+1B), Monofilament CC Weapon",0,26,"TÁOWÙ, Mastermind and schemer"
+TÁOWÙ (Counterintelligence),"Nanopulser(+2B), Flash Pulse(+1B)","Viral Pistol(+1B), Monofilament CC Weapon",0,25,"TÁOWÙ, Mastermind and schemer"
+ADIL CRANE RANK,"Breaker Combi Rifle, Nanopulser","Pistol, Monofilament CC Weapon",0,45,Imperial Agent ADIL MEHMUT (Crane Rank Armor)
+ADIL CRANE RANK (Lieutenant),"Breaker Combi Rifle, Nanopulser","Pistol, Monofilament CC Weapon",0,43,Imperial Agent ADIL MEHMUT (Crane Rank Armor)
+MOTORIZED BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0.5,15,Motorized Bounty Hunters

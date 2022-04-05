@@ -1,0 +1,70 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+GHULAM,"Rifle, Light Shotgun, E/M Mines | Deployable Repeater","Pistol, CC Weapon",0,13,GHULAM Infantry
+"GHULAM (Hacker, Hacking Device)","Rifle, Light Shotgun","Pistol, CC Weapon",0.5,16,GHULAM Infantry
+GHULAM (Doctor [+3]),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,15,GHULAM Infantry
+GHULAM (Forward Observer),"Rifle, Light Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,GHULAM Infantry
+GHULAM (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,11,GHULAM Infantry
+GHULAM (NCO),"Rifle, Grenade Launcher, Smoke Grenade Launcher","Pistol, CC Weapon",1,15,GHULAM Infantry
+GHULAM (Number 2),"Rifle, Light Shotgun, Panzerfaust","Pistol, CC Weapon",0,13,GHULAM Infantry
+GHULAM (Lieutenant [+1 Command Token]),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,GHULAM Infantry
+GOVAD,"Missile Launcher, Light Shotgun","Breaker Pistol, CC Weapon",1.5,30,HASSASSIN GOVADS
+"GOVAD (Hacker, Hacking Device)",Boarding Shotgun,"Breaker Pistol, CC Weapon",0.5,26,HASSASSIN GOVADS
+"GOVAD (Hacker, Killer Hacking Device)",Boarding Shotgun,"Breaker Pistol, CC Weapon",0,24,HASSASSIN GOVADS
+GOVAD (Lieutenant),"Rifle, Light Shotgun","Breaker Pistol, CC Weapon",0,20,HASSASSIN GOVADS
+RAGIK,Spitfire,"Pistol, CC Weapon",1.5,33,HASSASSIN RAGIKS
+"RAGIK (Hacker, Hacking Device)","Rifle, Light Shotgun","Pistol, CC Weapon",0.5,31,HASSASSIN RAGIKS
+FIDAY,"Boarding Shotgun, Smoke Grenades","Pistol, AP CC Weapon",0,26,HASSASSIN FIDAY
+NAJJARUN Engineer,"Rifle, Light Shotgun, D-Charges","Pistol, CC Weapon",0,15,NAJJARUN Engineer
+RAFIQ REMOTE,"Rifle, Light Shotgun, Flash Pulse",PARA CC Weapon(-3),0,14,RAFIQ REMOTES
+RAFIQ REMOTE FTO,"Red Fury, Flash Pulse",PARA CC Weapon(-3),0.5,20,RAFIQ REMOTES
+SHIHAB REMOTE,Heavy Machine Gun,PARA CC Weapon(-3),1,24,SHIHAB REMOTES
+SHAYTANIYAH REMOTE,Missile Launcher,PARA CC Weapon(-3),1.5,16,SHAYTANIYAH REMOTES
+FANOUS REMOTE,Flash Pulse,PARA CC Weapon(-3),0,7,FANOUS REMOTES
+DAYLAMI,Marksman Rifle,"Pistol, CC Weapon",0,10,DAYLAMI Infantry
+"DAYLAMI (Camouflage [1 Use], Infiltration)","Light Shotgun, Panzerfaust","Pistol, CC Weapon",0,8,DAYLAMI Infantry
+AVICENNA,"Combi Rifle, Flash Pulse","Pistol, CC Weapon",0,27,"AVICENNA, Mercenary Doctor"
+MUYIB,"Rifle, Grenade Launcher, Smoke Grenade Launcher","Pistol, CC Weapon",1,24,HASSASSIN MUYIBS
+MUYIB (Minelayer),"Rifle, Light Shotgun, Panzerfaust, Viral Mines","Pistol, CC Weapon",0,26,HASSASSIN MUYIBS
+"MUYIB (Tactical Awareness, X Visor)","Heavy Rocket Launcher, D-Charges","Pistol, CC Weapon",1.5,25,HASSASSIN MUYIBS
+MUYIB (Doctor [+3]),"Rifle, Light Shotgun, Panzerfaust | MediKit","Pistol, CC Weapon",0,27,HASSASSIN MUYIBS
+MUYIB (Forward Observer),"Rifle, Light Shotgun, Panzerfaust, Flash Pulse","Pistol, CC Weapon",0,24,HASSASSIN MUYIBS
+MUYIB (Lieutenant),"Rifle, Grenade Launcher, Smoke Grenade Launcher","Pistol, CC Weapon",1,24,HASSASSIN MUYIBS
+LASIQ,VIRAL Sniper Rifle,"Pistol, CC Weapon",1.5,25,HASSASSIN LASIQS
+LASIQ (BS Attack [+1 Dam]),VIRAL Sniper Rifle,"Pistol, CC Weapon",1.5,27,HASSASSIN LASIQS
+"LASIQ (BS Attack [+1 Dam], X Visor)","Viral Rifle, Light Shotgun","Pistol, CC Weapon",0,26,HASSASSIN LASIQS
+"LASIQ (Forward Observer, X Visor)","Viral Rifle, Light Shotgun, Flash Pulse","Pistol, CC Weapon",0,25,HASSASSIN LASIQS
+ASAWIRA,"AP Spitfire, Nanopulser","Pistol, Shock CC Weapon",1.5,39,ASAWIRA Regiment
+ASAWIRA (Doctor [+3]),Boarding Shotgun | MediKit,"Pistol, DA CC Weapon",0,36,ASAWIRA Regiment
+ASAWIRA (Lieutenant),"AP Spitfire, Nanopulser","Pistol, Shock CC Weapon",1.5,39,ASAWIRA Regiment
+FARZAN (Chain of Command),"Boarding Shotgun, Shock Mines","Pistol, CC Weapon",0,28,HASSASSIN FARZANS
+FARZAN (Minelayer),"Boarding Shotgun, Shock Mines","Pistol, CC Weapon",0,24,HASSASSIN FARZANS
+FARZAN (Forward Observer),"Rifle, Light Shotgun, Flash Pulse, Shock Mines, D-Charges","Pistol, CC Weapon",0,23,HASSASSIN FARZANS
+NASMAT,,PARA CC Weapon(-3),0,3,NASMAT Remotes
+"KAMEEL (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,KAMEEL Remotes
+"KAMEEL (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,KAMEEL Remotes
+"KAMEEL (Total Reaction, Repeater)","Rifle, Light Shotgun",PARA CC Weapon(-3),0,18,KAMEEL Remotes
+AL-DJABEL,"Rifle, Light Shotgun, Smoke Grenades","Pistol, Viral CC Weapon",0,33,"HUSSEIN AL-DJABEL, Hassassin Fiday"
+"BARID (Hacker, Hacking Device)","Rifle, Pitcher","Pistol, CC Weapon",0.5,17,HASSASSIN BARID
+"BARID (Hacker, Killer Hacking Device [UPGRADE: Trinity (-3)])","Rifle, Pitcher","Pistol, CC Weapon",0,15,HASSASSIN BARID
+BARID (Forward Observer),"Rifle, Pitcher, Flash Pulse","Pistol, CC Weapon",0,13,HASSASSIN BARID
+"BARID (Lieutenant, Hacker, Hacking Device)","Rifle, Pitcher","Pistol, CC Weapon",1,17,HASSASSIN BARID
+"BARID (Lieutenant, Forward Observer)","Rifle, Pitcher, Flash Pulse","Pistol, CC Weapon",0,13,HASSASSIN BARID
+MUTTAWI'AH,"Boarding Shotgun, Jammer, Smoke Grenades","Pistol, CC Weapon",0,10,GHAZI MUTTAWI'AH
+HASSASSIN HUSAM YASBIR FTO,"Rifle, Light Shotgun(+1B)","Pistol, Viral CC Weapon",0,27,HASSASSIN HUSAM YASBIR
+"HASSASSIN HUSAM YASBIR (Surprise Attack [-3], Infiltration, Holoprojector)","Rifle, Smoke Grenades, Light Shotgun(+1B)","Pistol, Viral CC Weapon",0,34,HASSASSIN HUSAM YASBIR
+ÁYYĀR,Sniper Rifle,"Viral Pistol(+1B), CC Weapon",0.5,41,Hassassin ÁYYĀR
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+LEILA SHARIF (Hacker),"Shock Marksman Rifle, E/M Mines, D-Charges","Breaker Pistol, CC Weapon",0,20,Husam Operative LEILA SHARIF
+NADHIR,AP Marksman Rifle,"Pistol, CC Weapon",0.5,27,Hassassin Nadhir
+NADHIR (Forward Observer),"Submachine Gun, Marksman Rifle","Pistol, CC Weapon",0,31,Hassassin Nadhir
+NADHIR (Minelayer),"AP Marksman Rifle, AP Mines","Pistol, CC Weapon",0.5,29,Hassassin Nadhir
+SHAKUSH,"AP Spitfire, Heavy Flamethrower",AP CC Weapon,1.5,58,SHAKUSH Light Armored Unit
+SHUJAE,"Submachine Gun, Flammenspeer, E/M Mines","Breaker Pistol, CC Weapon",0,24,Hassassin SHUJAE
+YARA HADDAD,AP Marksman Rifle,"Heavy Pistol(+1B), CC Weapon",0,25,"YARA HADDAD, Intel Ops Mutafawiq Officer"
+YARA HADDAD (Strategic Deployment),AP Marksman Rifle,"Heavy Pistol(+1B), CC Weapon",0,28,"YARA HADDAD, Intel Ops Mutafawiq Officer"
+YARA HADDAD (Lieutenant),AP Marksman Rifle,"Heavy Pistol(+1B), CC Weapon",0,25,"YARA HADDAD, Intel Ops Mutafawiq Officer"
+"YARA HADDAD (Lieutenant, Strategic Deployment)",AP Marksman Rifle,"Heavy Pistol(+1B), CC Weapon",0,28,"YARA HADDAD, Intel Ops Mutafawiq Officer"
+Fiddler FTO (Super-Jump),"Contender(+1B), Drop Bears, D-Charges","Breaker Pistol, PARA CC Weapon(-3)",0,28,"Fiddler, Aristeia!'s ex-toymaker"
+FIDDLER (Climbing Plus),"Contender(+1B), Drop Bears, D-Charges || 2x JACKBOT","Breaker Pistol, PARA CC Weapon(-3)",0,42,"Fiddler, Aristeia!'s ex-toymaker"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

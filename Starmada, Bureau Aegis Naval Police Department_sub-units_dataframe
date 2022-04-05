@@ -1,0 +1,72 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+KAPPA,Missile Launcher,"Pistol, CC Weapon",1.5,17,KAPPA UNIT
+"KAPPA (Hacker, Hacking Device)",Submachine Gun,"Pistol, CC Weapon",0.5,12,KAPPA UNIT
+KAPPA (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,14,KAPPA UNIT
+KAPPA (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,14,KAPPA UNIT
+KAPPA (Lieutenant),Combi Rifle,"Pistol, CC Weapon",1,12,KAPPA UNIT
+EPSILON,"Shock Marksman Rifle, Nanopulser","Pistol, CC Weapon",0.5,30,EPSILON UNIT
+BETATROOPER,"Spitfire, Nanopulser(+1B) | TinBot: Firewall [-3]","Pistol, CC Weapon",1.5,41,"BETATROOPERS, Remote Activity Unit Beta"
+"BETATROOPER (Hacker, Killer Hacking Device)","Submachine Gun, Nanopulser(+1B)","Pistol, CC Weapon",0,33,"BETATROOPERS, Remote Activity Unit Beta"
+BETATROOPER (Doctor),Boarding Shotgun | MediKit,"Pistol, CC Weapon",0,36,"BETATROOPERS, Remote Activity Unit Beta"
+BETATROOPER (Specialist Operative),"MULTI Rifle, Nanopulser(+1B), D-Charges","Pistol, CC Weapon",0,37,"BETATROOPERS, Remote Activity Unit Beta"
+ZETA,"Hyper-Rapid Magnetic Cannon, Heavy Riotstopper",AP CC Weapon,1.5,77,ZETA UNIT
+ZETA (NCO),"Hyper-Rapid Magnetic Cannon, Heavy Riotstopper",AP CC Weapon,2,81,ZETA UNIT
+ZETA (Lieutenant),"Hyper-Rapid Magnetic Cannon, Heavy Riotstopper",AP CC Weapon,2,77,ZETA UNIT
+VARANGIAN,"Submachine Gun, Chain Rifle, Smoke Grenades","Heavy Pistol, Trench-Hammer",0,13,VARANGIAN GUARD
+"CYBERGHOSTS (Hacker, Hacking Device Plus)","Combi Rifle, Pitcher","Breaker Pistol, PARA CC Weapon(-3)",0.5,21,"CYBERGHOSTS, Quantronic Intervention Unit"
+"CYBERGHOSTS (Hacker, Killer Hacking Device)","Combi Rifle, Pitcher","Breaker Pistol, PARA CC Weapon(-3)",0,18,"CYBERGHOSTS, Quantronic Intervention Unit"
+"LAMBDA (Engineer, Deactivator)","Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,16,Specialized Support Unit LAMBDA
+LAMBDA (Doctor),Combi Rifle | MediKit,"Pistol, CC Weapon",0,16,Specialized Support Unit LAMBDA
+OKO,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,16,OKO COPPERBOTS
+PEELER,Heavy Machine Gun,PARA CC Weapon(-3),1,25,PEELER COPPERBOTS
+MILLICENT,Missile Launcher,PARA CC Weapon(-3),1.5,17,MILLICENT COPPERBOTS
+YUDBOT,,PARA CC Weapon(-3),0,3,YUDBOTS
+KYTTÄ,Flash Pulse,PARA CC Weapon(-3),0,7,KYTTÄ COPPERBOTS
+"FUZZBOT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,FUZZBOTS
+"FUZZBOT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,FUZZBOTS
+"FUZZBOT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,FUZZBOTS
+KNIGHT OF SANTIAGO (Specialist Operative),"Spitfire, Nanopulser, E/M Grenades, D-Charges","Pistol, DA CC Weapon",1.5,43,Sacred Military Order of KNIGHTS OF SANTIAGO
+"KNIGHT OF SANTIAGO (Hacker, Killer Hacking Device)","Combi Rifle, Nanopulser, D-Charges | TinBot: Firewall [-3]","Pistol, DA CC Weapon",0,39,Sacred Military Order of KNIGHTS OF SANTIAGO
+"KNIGHT OF SANTIAGO (Combat Jump, Hacker, Killer Hacking Device)","Boarding Shotgun, D-Charges, Shock Mines","Pistol, DA CC Weapon",0,45,Sacred Military Order of KNIGHTS OF SANTIAGO
+"KNIGHT OF SANTIAGO (Lieutenant, Specialist Operative)","Spitfire, Nanopulser, E/M Grenades, D-Charges","Pistol, DA CC Weapon",0,43,Sacred Military Order of KNIGHTS OF SANTIAGO
+CHAKSA LONGARM,"Mk12, Pulzar, AP Mines","Pistol, CC Weapon",0,25,CHAKSA LONGARMS
+HECTOR,"Spitfire, Nanopulser, Grenades | TinBot: Firewall [-3]","Heavy Pistol, EXP CC Weapon",1.5,63,"HECTOR, Homeridae's Champion"
+HECTOR (Lieutenant [+1 Order]),"Spitfire, Nanopulser, Grenades | TinBot: Firewall [-3]","Heavy Pistol, EXP CC Weapon",0.5,67,"HECTOR, Homeridae's Champion"
+ANDROMEDA,"Boarding Shotgun, Flash Pulse, D-Charges","Breaker Pistol, DA CC Weapon",0,34,"ANDROMEDA, Sophistes of the Steel Phalanx"
+ANDROMEDA (Infiltration [+3]),"Boarding Shotgun, Flash Pulse, D-Charges","Breaker Pistol, DA CC Weapon",0,36,"ANDROMEDA, Sophistes of the Steel Phalanx"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+CASANOVA,"Submachine Gun, Nanopulser(+1B), Shock Mines","Pistol, Monofilament CC Weapon(-3)",0,33,"CASANOVA, NOC Operative"
+SHONA CARANO,"Submachine Gun, Nanopulser(+1B), Flash Pulse","Pistol, EXP CC Weapon",0,27,"SHONA CARANO, Special Instructor and Aristeia! Swordmaster"
+PSI-COp,"Combi Rifle, Nanopulser(+1B)","Heavy Pistol, CC Weapon",0,19,PSI-Cops
+PSI-COp (Multispectral Visor L1),"Nanopulser(+1B), MULTI Marksman Rifle","Heavy Pistol, CC Weapon",0,25,PSI-Cops
+"PSI-COp (Discover [+3], Biometric Visor)","Nanopulser(+1B), MULTI Marksman Rifle","Heavy Pistol, CC Weapon",0,24,PSI-Cops
+"PSI-COp (Hacker, Hacking Device)","Combi Rifle, Nanopulser(+1B)","Heavy Pistol, CC Weapon",0.5,24,PSI-Cops
+"PSI-COp (Hacker, Killer Hacking Device)","Combi Rifle, Nanopulser(+1B)","Heavy Pistol, CC Weapon",0,22,PSI-Cops
+"CRUSHER (Forward Deployment [+8""])","Submachine Gun, Light Rocket Launcher, Nanopulser, D-Charges","Pistol, E/M CC Weapon",1,35,"CRUSHERS, Special Naval Demolition Team"
+"CRUSHER (Combat Jump, Parachutist)","Boarding Shotgun, Panzerfaust, D-Charges","Pistol, E/M CC Weapon",0,36,"CRUSHERS, Special Naval Demolition Team"
+CHO (Chain of Command),"Combi Rifle, Nanopulser","Pistol, CC Weapon",0,20,"Ensign KATHERINE CHO, Psi Unit"
+CHO (Lieutenant),"Combi Rifle, Nanopulser","Pistol, CC Weapon",0,15,"Ensign KATHERINE CHO, Psi Unit"
+BLUECOAT,"Shock Marksman Rifle, Light Riotstopper","Pistol, Shock CC Weapon, PARA CC Weapon(-6)",0,23,"BLUECOATS, Naval Security Detachments"
+BLUECOAT (Lieutenant),"Submachine Gun, Heavy Riotstopper","Pistol, Shock CC Weapon, PARA CC Weapon(-6)",0,16,"BLUECOATS, Naval Security Detachments"
+LAWKEEPER,"Red Fury, Chain Rifle","MULTI Pistol, PARA CC Weapon(-3)",1,27,LAWKEEPERS (Mounted)
+LAWKEEPER (Specialist Operative),"Combi Rifle, Chain Rifle || SIDEBOT","MULTI Pistol, PARA CC Weapon(-3)",0,27,LAWKEEPERS (Mounted)
+NYOKA,"Heavy Rocket Launcher, Chain-colt","Pistol, Shock CC Weapon",1,19,NYOKA Assault Troops
+NYOKA (Forward Observer),"MULTI Rifle, Chain-colt","Pistol, Shock CC Weapon",0,23,NYOKA Assault Troops
+"NYOKA (Forward Observer, Parachutist)","MULTI Rifle, Chain-colt","Pistol, Shock CC Weapon",0,27,NYOKA Assault Troops
+NYOKA (Parachutist),"Red Fury, Chain-colt","Pistol, Shock CC Weapon",1,29,NYOKA Assault Troops
+BRONZE,Red Fury(+1 Dam),"Pistol, E/M CC Weapon, PARA CC Weapon(-6)",1,56,"BRONZES, Deep Space Peacemaker Corps"
+BRONZE (Paramedic),"Heavy Shotgun, Akrylat-Kanone | MediKit","Pistol, E/M CC Weapon, PARA CC Weapon(-6)",0,53,"BRONZES, Deep Space Peacemaker Corps"
+BRONZE (Specialist Operative),"MULTI Rifle, Light Riotstopper","Pistol, E/M CC Weapon, PARA CC Weapon(-6)",0,53,"BRONZES, Deep Space Peacemaker Corps"
+RAPTOR,"Spitfire, Light Flamethrower || DEVABOT","Pistol, CC Weapon",1.5,43,RAPTOR Boarding Squad
+RAPTOR (Forward Observer),"MULTI Rifle, Light Flamethrower || DEVABOT","Pistol, CC Weapon",0,40,RAPTOR Boarding Squad
+"RAPTOR (Hacker, Killer Hacking Device)","MULTI Rifle, Light Flamethrower || DEVABOT","Pistol, CC Weapon",0,42,RAPTOR Boarding Squad
+PARVATI,"Submachine Gun(+1B), Flash Pulse | GizmoKit, MediKit","Pistol, CC Weapon",0,38,"PARVATI, Circle League star"
+SALADIN (Lieutenant [+1 Command Token]),"Combi Rifle, Nanopulser(+1B)","Pistol, Shock CC Weapon",0,34,"SALADIN, Naval Liaison Officer"
+TIAN GǑU FTO,"Boarding Shotgun, Grenades, Jammer","Pistol, CC Weapon",0,23,"TIAN GǑU, Orbital Activity Squad"
+"TIAN GǑU FTO (Hacker, Killer Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0,23,"TIAN GǑU, Orbital Activity Squad"
+"TIAN GǑU (Surprise Attack [-3], Minelayer], Holoprojector)","Red Fury, Madtraps","Pistol, CC Weapon",1,29,"TIAN GǑU, Orbital Activity Squad"
+"TIAN GǑU (Surprise Attack [-3], Minelayer, Hacker], Killer Hacking Device, Holoprojector)","Combi Rifle, Nanopulser, Madtraps","Pistol, CC Weapon",0,27,"TIAN GǑU, Orbital Activity Squad"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+RAVENEYE,"Submachine Gun, E/Marat, Flash Pulse, Cybermines","Pistol, CC Weapon",0,12,RAVENEYE Officers
+RAVENEYE (Lieutenant),"Submachine Gun, E/Marat, Flash Pulse, E/M Mines","Pistol, CC Weapon",0,12,RAVENEYE Officers

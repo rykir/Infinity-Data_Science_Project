@@ -1,0 +1,160 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+GRENZER,Red Fury,"Pistol, Breaker Pistol, CC Weapon",1,30,"GRENZERS, Grenz Security Team"
+"GRENZER (Forward Observer, Sensor, NCO)","Combi Rifle, Light Flamethrower(+1B), Flash Pulse","Pistol, Breaker Pistol, CC Weapon",0,29,"GRENZERS, Grenz Security Team"
+"GRENZER (Discover [+3], Biometric Visor)","Combi Rifle, Light Flamethrower(+1B)","Pistol, Breaker Pistol, CC Weapon",0,28,"GRENZERS, Grenz Security Team"
+GRENZER (Marksmanship),MULTI Sniper Rifle,"Pistol, Breaker Pistol, CC Weapon",1.5,35,"GRENZERS, Grenz Security Team"
+"GRENZER (Lieutenant, Discover [+3], Biometric Visor)","Combi Rifle, Light Flamethrower(+1B)","Pistol, Breaker Pistol, CC Weapon",0,28,"GRENZERS, Grenz Security Team"
+HELLCAT,Combi Rifle | Deployable Repeater,"Pistol, CC Weapon",0.5,24,HELLCATS
+"HELLCAT (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,29,HELLCATS
+HELLCAT (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,26,HELLCATS
+ZONDNAUT,Boarding Shotgun || ZONDMATE,"Pistol, CC Weapon",0,24,ZONDNAUTICA Rapid Offensive Unit
+"ZONDNAUT (Hacker, Hacking Device)",Combi Rifle || ZONDMATE,"Pistol, CC Weapon",0.5,26,ZONDNAUTICA Rapid Offensive Unit
+INTRUDER,"Heavy Machine Gun, Grenades","Pistol, CC Weapon",1.5,41,"INTRUDERS, Corregidor Assault Commandos"
+"INTRUDER (Hacker, Killer Hacking Device)",Shock Marksman Rifle,"Pistol, CC Weapon",0,38,"INTRUDERS, Corregidor Assault Commandos"
+INTRUDER (X Visor),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,42,"INTRUDERS, Corregidor Assault Commandos"
+HOLLOW MEN,"Combi Rifle, Chain-colt | TinBot: Firewall [-3]","Breaker Pistol, CC Weapon",0,29,"THE HOLLOW MEN, Tactical Assault Team"
+"HOLLOW MEN (Hacker, Hacking Device)","Combi Rifle, Chain-colt | TinBot: Firewall [-3]","Breaker Pistol, CC Weapon",0.5,34,"THE HOLLOW MEN, Tactical Assault Team"
+HOLLOW MEN (Specialist Operative),Boarding Shotgun,"Breaker Pistol, CC Weapon",0,29,"THE HOLLOW MEN, Tactical Assault Team"
+REVEREND MOIRA,"MULTI Rifle, E/M Grenade Launcher, Zapper","Pistol, Shock CC Weapon",1,35,REVEREND MOIRAS
+"REVEREND MOIRA (Hacker, Hacking Device)","MULTI Rifle, Zapper","Pistol, Shock CC Weapon",0.5,36,REVEREND MOIRAS
+REVEREND MOIRA (Lieutenant),"MULTI Rifle, Zapper","Pistol, Shock CC Weapon",1,29,REVEREND MOIRAS
+REVEREND HEALER,Boarding Shotgun,"Pistol, EXP CC Weapon",0,33,REVEREND HEALERS
+HECKLER,Red Fury,"Pistol, CC Weapon",1,24,HECKLERS
+"HECKLER (Hacker, Killer Hacking Device)","Combi Rifle, Cybermines","Assault Pistol, CC Weapon",0,22,HECKLERS
+LIZARD,"MULTI Heavy Machine Gun, Heavy Flamethrower",CC Weapon,1.5,72,LIZARD SQUAD
+BANDIT,"Combi Rifle, Shock Mines | Deployable Repeater","Pistol, DA CC Weapon",0,28,CORREGIDOR BANDITS
+"BANDIT (Hacker, Hacking Device)","Light Shotgun, Adhesive Launcher","Pistol, DA CC Weapon",0.5,27,CORREGIDOR BANDITS
+"BANDIT (Hacker, Killer Hacking Device)","Light Shotgun, Adhesive Launcher","Pistol, DA CC Weapon",0,25,CORREGIDOR BANDITS
+BANDIT (Forward Observer),"Light Shotgun, Adhesive Launcher, Flash Pulse","Pistol, DA CC Weapon",0,23,CORREGIDOR BANDITS
+PUPPET MASTERS,Submachine Gun,"Pistol, CC Weapon",0,12,PUPPET MASTERS
+PUPPET MASTERS (Minelayer),"Submachine Gun, Shock Mines","Pistol, CC Weapon",0.5,14,PUPPET MASTERS
+"PUPPET MASTERS (Hacker, Hacking Device)",Submachine Gun,"Pistol, CC Weapon",0.5,17,PUPPET MASTERS
+ZERO,"Combi Rifle, E/M Mines | Deployable Repeater","Pistol, CC Weapon",0,20,ZEROS
+"ZERO (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,24,ZEROS
+"ZERO (Hacker, Killer Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0,22,ZEROS
+ZERO (Minelayer),"Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,20,ZEROS
+ZERO (Forward Observer),"Combi Rifle, Shock Mines, Flash Pulse","Pistol, CC Weapon",0,20,ZEROS
+ALGUACIL,Missile Launcher,"Pistol, CC Weapon",1.5,15,CORREGIDOR ALGUACILES
+"ALGUACIL (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,15,CORREGIDOR ALGUACILES
+ALGUACIL (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,12,CORREGIDOR ALGUACILES
+ALGUACIL (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,12,CORREGIDOR ALGUACILES
+ALGUACIL (Lieutenant),Combi Rifle,"Pistol, CC Weapon",1,10,CORREGIDOR ALGUACILES
+MARY PROBLEMS (Hacker),"Submachine Gun, Zapper, Pitcher","Pistol, CC Weapon",0.5,28,"MARY PROBLEMS, Tactical ÜberHacker"
+SPEKTR,"Combi Rifle, E/M Mines | Deployable Repeater","Pistol, CC Weapon",0,32,SPEKTRS
+"SPEKTR (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,35,SPEKTRS
+SPEKTR (Forward Observer),"Combi Rifle, Shock Mines, Flash Pulse","Pistol, CC Weapon",0,32,SPEKTRS
+MORLOCK,"Combi Rifle, Smoke Grenade Launcher","Pistol, DA CC Weapon",1,12,DIE MORLOCK GRUPPE
+JAGUAR,"Adhesive Launcher, Panzerfaust","Pistol, DA CC Weapon",0,11,CORREGIDOR JAGUARS
+PERSEUS FTO,"Breaker Combi Rifle(+1 Dam), Nanopulser, Smoke Grenades","Heavy Pistol(+1B), DA CC Weapon",0,32,"PERSEUS, Rogue Myrmidon"
+PERSEUS FTO-2 (Super-Jump),"Breaker Combi Rifle(+1 Dam), Nanopulser, Smoke Grenades","Heavy Pistol(+1B), DA CC Weapon",0,33,"PERSEUS, Rogue Myrmidon"
+DAKTARI,Combi Rifle | MediKit,"Pistol, CC Weapon",0,14,"DAKTARIS (Daks, Campaign Doctors)"
+CLOCKMAKER,"Combi Rifle, D-Charges | GizmoKit [+1B]","Pistol, CC Weapon",0,18,Bakunin CLOCKMAKERS
+MOBILE BRIGADA,"MULTI Rifle, Light Flamethrower | TinBot: Firewall [-6]","Pistol, CC Weapon",0,37,MOBILE BRIGADA
+"MOBILE BRIGADA (Hacker, Hacking Device)","Combi Rifle, D-Charges | TinBot: Firewall [-6]","Pistol, CC Weapon",0.5,39,MOBILE BRIGADA
+MOBILE BRIGADA (Lieutenant),Boarding Shotgun,"Pistol, CC Weapon",0,32,MOBILE BRIGADA
+"INTERVENTOR (Hacker, Hacking Device Plus)",Boarding Shotgun | FastPanda,"Pistol, CC Weapon",0.5,26,Tunguska INTERVENTORS
+"INTERVENTOR (Lieutenant, Hacker, Hacking Device Plus)",Combi Rifle | FastPanda,"Pistol, CC Weapon",0.5,26,Tunguska INTERVENTORS
+INTERVENTOR (Killer Hacking Device [UPGRADE: Trinity (-3)]),Boarding Shotgun | FastPanda,"Pistol, CC Weapon",0,22,Tunguska INTERVENTORS
+IGUANA,"Heavy Machine Gun, Heavy Flamethrower",CC Weapon,1.5,65,'IGUANA' SQUADRON
+MONSTRUCKER,"Submachine Gun, Chain Rifle, Drop Bears","Pistol, CC Weapon",0,12,MONSTRUCKERS
+MONSTRUCKER (360º Visor),"Rifle, Light Shotgun, Akrylat-Kanone, D-Charges","Pistol, CC Weapon",0,17,MONSTRUCKERS
+STEMPLER ZOND,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,16,STEMPLER ZONDS
+ARMAND (Minelayer),"MULTI Sniper Rifle, Nanopulser, Shock Mines","Breaker Pistol(+1B), Shock CC Weapon",1.5,38,"ARMAND 'LE MUET', FREELANCE KILLER"
+ARMAND (Multispectral Visor L1),"MULTI Sniper Rifle, Nanopulser","Breaker Pistol(+1B), Shock CC Weapon",1.5,39,"ARMAND 'LE MUET', FREELANCE KILLER"
+REAKTION ZOND,Heavy Machine Gun,PARA CC Weapon(-3),1,25,REAKTION ZONDS
+VERTIGO ZOND,Missile Launcher,PARA CC Weapon(-3),1.5,17,VERTIGO ZONDS
+METEOR ZOND,"Boarding Shotgun, Flash Pulse",PARA CC Weapon(-3),0.5,21,METEOR ZONDS
+TRANSDUCTOR ZOND,Flash Pulse,PARA CC Weapon(-3),0,7,TRANSDUCTOR ZONDS
+ZOE (Hacker),"Combi Rifle, D-Charges","Pistol, PARA CC Weapon(-3)",0,25,ZOE
+MODERATOR,"Combi Rifle, Pitcher","Pistol, PARA CC Weapon(-6)",0,10,MODERATORS from Bakunin
+"MODERATOR (Hacker, Hacking Device)",Combi Rifle,"Pistol, PARA CC Weapon(-6)",0.5,14,MODERATORS from Bakunin
+MODERATOR (Paramedic),Combi Rifle | MediKit,"Pistol, PARA CC Weapon(-6)",0,11,MODERATORS from Bakunin
+MODERATOR (Lieutenant),Combi Rifle,"Pistol, PARA CC Weapon(-6)",0,9,MODERATORS from Bakunin
+TOMCAT,"Combi Rifle, Light Flamethrower | Deployable Repeater","Pistol, CC Weapon",0.5,19,"TOMCATS, Emergency and Rescue Special Team"
+TOMCAT (Engineer),"Combi Rifle, Light Flamethrower, D-Charges | GizmoKit || ZONDCAT","Pistol, CC Weapon",0,26,"TOMCATS, Emergency and Rescue Special Team"
+TOMCAT (Doctor),"Combi Rifle, Light Flamethrower | MediKit || ZONDCAT","Pistol, CC Weapon",0,26,"TOMCATS, Emergency and Rescue Special Team"
+"REVEREND CUSTODIER (Hacker, Hacking Device [UPGRADE: Carbonite (+1 B)])","Combi Rifle, Pitcher","Pistol, CC Weapon",0.5,30,REVEREND CUSTODIERS
+"REVEREND CUSTODIER (Hacker, Hacking Device Plus)",Boarding Shotgun,"Pistol, CC Weapon",0.5,30,REVEREND CUSTODIERS
+REVEREND CUSTODIER (Hacking Device Plus),"Combi Rifle, Pitcher","Pistol, CC Weapon",0.5,31,REVEREND CUSTODIERS
+"REVEREND CUSTODIER (Lieutenant, Hacker, Hacking Device Plus)","Combi Rifle, Pitcher","Pistol, CC Weapon",0.5,31,REVEREND CUSTODIERS
+PROWLER,"Spitfire, Nanopulser, D-Charges","Pistol, CC Weapon",1.5,39,PROWLERS
+"PROWLER (Hacker, Killer Hacking Device)","Boarding Shotgun, D-Charges","Pistol, CC Weapon",0,36,PROWLERS
+SIN-EATER,Spitfire,"Pistol, CC Weapon",1.5,30,SIN-EATER OBSERVANTS
+KNAUF,MULTI Sniper Rifle,"AP Heavy Pistol, CC Weapon",1.5,32,"KNAUF, Outlaw Sniper"
+SZALAMANDRA,"Hyper-Rapid Magnetic Cannon, Heavy Flamethrower",CC Weapon,2,72,'SZALAMANDRA' SQUADRON
+"MORAN (Surprise Attack [-3], Camouflage [1 Use])","Boarding Shotgun, Flash Pulse, Crazykoala","Pistol, CC Weapon",0.5,18,"MORAN, Maasai Hunter"
+MORAN (Repeater),"Boarding Shotgun, Flash Pulse, Crazykoala","Pistol, CC Weapon",0.5,17,"MORAN, Maasai Hunter"
+CHIMERA,"Combi Rifle, Nanopulser, Eclipse Grenades || 3x PUPNIK","Viral CC Weapon, Pistol",0,20,CHIMERA
+TSYKLON,"Feuerbach, Pitcher",PARA CC Weapon(-6),1,36,TSYKLON Sputnik
+LUNOKHOD,"Heavy Shotgun, Akrylat-Kanone, D-Charges, Crazykoala",PARA CC Weapon(-3),0,25,LUNOKHOD Sputnik
+ZONDBOT,,PARA CC Weapon(-3),0,3,ZONDBOTS
+AÏDA SWANSON (Minelayer),"Submachine Gun(+1B), Viral Mines","Viral Pistol, Shock CC Weapon",0.5,23,"AÏDA SWANSON, Submondo Smuggler"
+AÏDA SWANSON FTO (Minelayer),"Submachine Gun, Viral Mines","Viral Pistol, Shock CC Weapon",0,20,"AÏDA SWANSON, Submondo Smuggler"
+"SALYUT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,SALYUT Zonds
+"SALYUT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,SALYUT Zonds
+"SALYUT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,SALYUT Zonds
+CARLOTA KOWALSKY,"Breaker Combi Rifle, Light Flamethrower, Adhesive Launcher(+1B), D-Charges || MORIARTY","Pistol, CC Weapon",0,34,"CARLOTA KOWALSKY, Tomcats Sergeant"
+LIBERTO,"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,8,LIBERTOS Freedom Fighters
+LIBERTO (Minelayer),"Light Shotgun, Shock Mines","Pistol, CC Weapon",1,8,LIBERTOS Freedom Fighters
+BRAN DO CASTRO,"Combi Rifle, E/Mitter","Pistol, DA CC Weapon",0,33,"BRAN DO CASTRO, Triple Zero"
+KUSANAGI,Spitfire,"Pistol, Shock CC Weapon",1.5,42,Reverend Superior CASSANDRA KUSANAGI
+KUSANAGI (Lieutenant),Spitfire,"Pistol, Shock CC Weapon",1.5,42,Reverend Superior CASSANDRA KUSANAGI
+WILDCAT,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,23,"WILDCATS, Polyvalent Tactical Unit"
+"WILDCAT (Hacker, Hacking Device)","Combi Rifle, Light Flamethrower, D-Charges","Pistol, CC Weapon",0.5,29,"WILDCATS, Polyvalent Tactical Unit"
+"WILDCAT (Hacker, Killer Hacking Device)","Combi Rifle, D-Charges, Light Flamethrower","Pistol, CC Weapon",0,27,"WILDCATS, Polyvalent Tactical Unit"
+"WILDCAT (Engineer, Deactivator)","Combi Rifle, Light Flamethrower, D-Charges | GizmoKit","Pistol, CC Weapon",0,28,"WILDCATS, Polyvalent Tactical Unit"
+WILDCAT (NCO),Spitfire,"Pistol, CC Weapon",1.5,31,"WILDCATS, Polyvalent Tactical Unit"
+WILDCAT (Lieutenant),"Combi Rifle, Light Flamethrower, D-Charges","Pistol, CC Weapon",0,24,"WILDCATS, Polyvalent Tactical Unit"
+RIOT GRRL,Spitfire,"Pistol, CC Weapon",1.5,33,RIOT GRRLS
+RIOT GRRL (Specialist Operative),"Combi Rifle, Blitzen","Pistol, CC Weapon",0,29,RIOT GRRLS
+GECKO,"Mk12, Chain Rifle, Blitzen",CC Weapon,0.5,51,'GECKO' SQUADRON
+LUPE BALBOA,"Combi Rifle, Nanopulser, Panzerfaust, Smoke Grenades","Pistol, CC Weapon",0,22,ALGUACIL VORTEX LUPE BALBOA
+WILD BILL,Rifle,"MULTI Pistol(+1B), CC Weapon",0,25,"WILD BILL, Legendary Gunslinger"
+SECURITATE,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,20,SECURITATE
+SECURITATE (Repeater),Combi Rifle,"Pistol, CC Weapon",0,16,SECURITATE
+"SECURITATE (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,18,SECURITATE
+SECURITATE (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,15,SECURITATE
+SECURITATE (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,13,SECURITATE
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+TASKMASTER,"Heavy Rocket Launcher, Light Shotgun, Crazykoala","Heavy Pistol, DA CC Weapon",1.5,42,"TASKMASTERS, Bakunin SWAST Team"
+TASKMASTER (Lieutenant),"Red Fury, Pulzar, Crazykoala | TinBot: Firewall [-3]","Heavy Pistol, DA CC Weapon",1,47,"TASKMASTERS, Bakunin SWAST Team"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+MIRANDA ASHCROFT,"Combi Rifle, E/Mitter(+1B), Nanopulser","Pistol, Monofilament CC Weapon",0,25,"MIRANDA ASHCROFT, Authorized Bounty Hunter"
+KRAKOT RENEGADE,"Red Fury, Chest Mines","Shock CC Weapon, Heavy Pistol",1,24,"KRAKOT RENEGADES, MORAT FUGITIVES"
+KRIZA BORAC,Heavy Machine Gun,"Heavy Pistol, CC Weapon",1.5,54,"KRIZA BORACS, Special Crisis Unit"
+KRIZA BORAC (360º Visor),"Mk12, Submachine Gun","Heavy Pistol, CC Weapon",0,57,"KRIZA BORACS, Special Crisis Unit"
+KRIZA BORAC (Lieutenant),Heavy Machine Gun,"Heavy Pistol, CC Weapon",1.5,54,"KRIZA BORACS, Special Crisis Unit"
+"KRIZA BORAC (Lieutenant, 360º Visor)","Mk12, Submachine Gun","Heavy Pistol, CC Weapon",0,57,"KRIZA BORACS, Special Crisis Unit"
+CUBE JÄGER (Paramedic),Boarding Shotgun,"Pistol, Monofilament CC Weapon",0.5,21,"Cube Jäger, Mercenary Recoverers"
+OKTAVIA,"Missile Launcher, Contender","Heavy Pistol, CC Weapon",1.5,28,"OKTAVIA GRÍMSDÓTTIR, Icebreaker's Harpooner"
+"REM RACER (Hacker, RemDriver [+1 BS], Hacking Device)",Submachine Gun,"Pistol, PARA CC Weapon(-3)",0.5,21,"REM RACERS, Mercenary Hacker-Pilots"
+REM RACER (RemDriver [+1 BS]),Light Shotgun,"Pistol, PARA CC Weapon(-3)",0,15,"REM RACERS, Mercenary Hacker-Pilots"
+"REM RACER (RemDriver [+1 Dam, +1 WIP, +3 BTS])",Light Shotgun,"Pistol, PARA CC Weapon(-3)",0,12,"REM RACERS, Mercenary Hacker-Pilots"
+"REM RACER (RemDriver [+1 ARM, +3 PH, +9 CC])",Light Shotgun,"Pistol, PARA CC Weapon(-3)",0,12,"REM RACERS, Mercenary Hacker-Pilots"
+CHEERKILLER,"AP Rifle, Nanopulser","MULTI Pistol(+1B), Shock CC Weapon",0,19,Tunguska CHEERKILLERS
+CHEERKILLER (Specialist Operative),"Submachine Gun, Nanopulser","Pistol, Shock CC Weapon",0,15,Tunguska CHEERKILLERS
+CHEERKILLER (Multispectral Visor L2),"Shock Marksman Rifle, Nanopulser","Pistol, Shock CC Weapon",0,25,Tunguska CHEERKILLERS
+SOMBRA,Red Fury,"Pistol, CC Weapon",1.5,39,"SOMBRAS, Forward Interdiction Team"
+"SOMBRA (Hacker, Hacking Device)","MULTI Rifle, Light Shotgun","Pistol, CC Weapon",0.5,43,"SOMBRAS, Forward Interdiction Team"
+"SOMBRA (Hacker, Killer Hacking Device)","MULTI Rifle, Light Shotgun","Pistol, CC Weapon",0,41,"SOMBRAS, Forward Interdiction Team"
+SOMBRA (Specialist Operative),"Breaker Combi Rifle, Light Shotgun, AP Mines","Pistol, CC Weapon",0,39,"SOMBRAS, Forward Interdiction Team"
+EVADER,"Feuerbach, D-Charges | TinBot: Firewall [-3]","Pistol, CC Weapon",1.5,31,"EVADERS, EVA Tactical Group"
+EVADER (Engineer),"AP Spitfire, D-Charges | GizmoKit, TinBot: Firewall [-3]","Pistol, CC Weapon",1.5,34,"EVADERS, EVA Tactical Group"
+VOSTOK (Mimetism [-6]),Mk12(+1 Dam),PARA CC Weapon(-3),0,44,VOSTOK Sputniks
+JELENA KOVAČ,"Breaker Combi Rifle, Chain-colt","Pistol, CC Weapon",0,20,"JELENA KOVAČ, Securitate DI"
+JAZZ (Hacker),"Submachine Gun, Pitcher, Cybermines","Pistol, PARA CC Weapon(-3)",0.5,18,"JAZZ & BILLIE, Tactical Hacking Team"
+"JAZZ FTO (Hacker, Number 2)","Combi Rifle, Pitcher, Cybermines","Pistol, PARA CC Weapon(-3)",0.5,22,"JAZZ & BILLIE, Tactical Hacking Team"
+Fiddler FTO (Super-Jump),"Contender(+1B), Drop Bears, D-Charges","Breaker Pistol, PARA CC Weapon(-3)",0,28,"Fiddler, Aristeia!'s ex-toymaker"
+FIDDLER (Climbing Plus),"Contender(+1B), Drop Bears, D-Charges || 2x JACKBOT","Breaker Pistol, PARA CC Weapon(-3)",0,42,"Fiddler, Aristeia!'s ex-toymaker"
+MOTORIZED BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0.5,15,Motorized Bounty Hunters
+DIGGER,"Chain Rifle(+1B), Grenades","Pistol, AP CC Weapon(+1B)",0,14,FULL POWER
+TRIPHAMMER,"Heavy Shotgun, Flammenspeer(+1B), Panzerfaust(+1B)",AP CC Weapon,0,52,FULL POWER
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower, Panzerfaust(+1 Dam), Flammenspeer(+1 Dam)","Pistol, DA CC Weapon",0,16,BEASTHUNTERS Free Guild
+DIABLO,"Combi Rifle, Flammenspeer","Pistol, Shock CC Weapon, Trench-Hammer",0,20,The DIABLOS of D-Block
+LOBO,"Combi Rifle, Light Shotgun, Adhesive Launcher(+1B)","Breaker Pistol, PARA CC Weapon(-6)",0,23,"LOBOS, Correctional Response Group"
+LOBO (Specialist Operative),"Breaker Combi Rifle, Heavy Riotstopper, Flash Pulse(+1B)","Breaker Pistol, PARA CC Weapon(-6)",0,25,"LOBOS, Correctional Response Group"
+LOBO (NCO),"Red Fury, Flash Pulse(+1B)","Breaker Pistol, PARA CC Weapon(-6)",1,33,"LOBOS, Correctional Response Group"
+GATOR,"MULTI Heavy Machine Gun, Chain Rifle(+1B), Mine Dispenser",E/M CC Weapon,1.5,74,'GATOR' SQUADRON
+GATOR (NCO),"MULTI Heavy Machine Gun, Chain Rifle(+1B), Mine Dispenser",E/M CC Weapon,1.5,76,'GATOR' SQUADRON

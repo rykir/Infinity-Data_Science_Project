@@ -1,0 +1,64 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+CLIPSOS,Sniper Rifle,"Pistol, CC Weapon",1,26,CLIPSOS Infiltrators
+CLIPSOS (Minelayer),"Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,25,CLIPSOS Infiltrators
+CLIPSOS (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,25,CLIPSOS Infiltrators
+KUMOTAIL,"Combi Rifle, D-Charges","Pistol, CC Weapon",0,21,KUMOTAIL Bioengineers
+"CHAKSA AUXILIAR (Neurocinetics, 360º Visor)",Heavy Machine Gun,"Pistol, CC Weapon",1,24,CHAKSA AUXILIARS
+CHAKSA AUXILIAR (BS Attack [Guided]),"Heavy Rocket Launcher, Light Shotgun","Pistol, CC Weapon",1,15,CHAKSA AUXILIARS
+"CHAKSA AUXILIAR FTO (Sensor, Baggage)",Heavy Flamethrower(+1 Dam),"Pistol, CC Weapon",0,10,CHAKSA AUXILIARS
+CHAKSA SERVANT,,PARA CC Weapon(-3),0,3,CHAKSA SERVANT
+NEEMA,"Spitfire, Nanopulser","Viral Pistol, Shock CC Weapon",1.5,38,"NEEMA SAATAR, Ectros Regiment Officer"
+NEEMA (Lieutenant [+1 Order]),"Breaker Combi Rifle, Panzerfaust, Nanopulser","Viral Pistol, Shock CC Weapon",+1,39,"NEEMA SAATAR, Ectros Regiment Officer"
+NEEMA (Lieutenant [+1 Command Token]),"Spitfire, Nanopulser","Viral Pistol, Shock CC Weapon",1.5,42,"NEEMA SAATAR, Ectros Regiment Officer"
+"DIPLOMATIC (CC Attack [-3], Specialist Operative])","Nanopulser, Flash Pulse, Pheroware Tactics: Eraser","Pistol, CC Weapon",0,5,TOHAA DIPLOMATIC DELEGATES
+"DIPLOMATIC (CC Attack [-3], Journalist L1 [+3])","Nanopulser, Flash Pulse, Pheroware Tactics: Eraser","Pistol, CC Weapon",0,5,TOHAA DIPLOMATIC DELEGATES
+HATAIL AELIS KEESAN (Hacker),"K1 Combi Rifle, Nanopulser, Flash Pulse, D-Charges","Pistol, CC Weapon",0,29,HATAIL AELIS KEESAN
+BRAWLER,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,16,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Multispectral Visor L2),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,27,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Hacker, Hacking Device)",Submachine Gun,"Pistol, CC Weapon",0.5,17,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Engineer, Deactivator)","Rifle, Light Shotgun, D-Charges | GizmoKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Doctor),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,"BRAWLERS, Mercenary Enforcers"
+ANACONDA,"Heavy Machine Gun, Chain-colt, Panzerfaust",AP CC Weapon,1.5,55,"ANACONDA, Mercenary TAG Squad"
+MONSTRUCKER,"Submachine Gun, Chain Rifle, Drop Bears","Pistol, CC Weapon",0,12,MONSTRUCKERS
+MONSTRUCKER (360º Visor),"Rifle, Light Shotgun, Akrylat-Kanone, D-Charges","Pistol, CC Weapon",0,17,MONSTRUCKERS
+ARMAND (Minelayer),"MULTI Sniper Rifle, Nanopulser, Shock Mines","Breaker Pistol(+1B), Shock CC Weapon",1.5,38,"ARMAND 'LE MUET', FREELANCE KILLER"
+ARMAND (Multispectral Visor L1),"MULTI Sniper Rifle, Nanopulser","Breaker Pistol(+1B), Shock CC Weapon",1.5,39,"ARMAND 'LE MUET', FREELANCE KILLER"
+IGAO,"Combi Rifle, Nanopulser, Pheroware Tactics: Mirrorball","Pistol, DA CC Weapon",0.5,28,IGAO UNIT
+KAELTAR,"Combi Rifle, Flash Pulse, SymbioBomb | SymbioMate","Pistol, PARA CC Weapon(-3)",0,20,KAELTAR Specialists
+KAELTAR (Chain of Command),"Combi Rifle, Flash Pulse | 2x SymbioMate","Pistol, PARA CC Weapon(-3)",0.5,28,KAELTAR Specialists
+KOSUIL (Engineer),"Boarding Shotgun, D-Charges, Panzerfaust | GizmoKit","Pistol, CC Weapon",0,25,KOSUIL Assault Pioneers
+KOSUIL (Minelayer),"K1 Combi Rifle, D-Charges, Shock Mines","Pistol, CC Weapon",0,26,KOSUIL Assault Pioneers
+KAAURI Sentinel,"Combi Rifle, E/M Mines, Pheroware Tactics: Mirrorball","Pistol, PARA CC Weapon(-6)",0.5,16,KAAURI Sentinels
+KAAURI Sentinel FTO (Paramedic),"Combi Rifle, E/M Mines | MediKit [+1B]","Pistol, PARA CC Weapon(-6)",0,16,KAAURI Sentinels
+TAAGMA,"Breaker Combi Rifle, Nanopulser","Pistol, CC Weapon",0,16,TAAGMA Schemers
+TAAGMA (Hacker [Zero Pain]),"Breaker Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,18,TAAGMA Schemers
+TAAGMA (Tri-Core),"Breaker Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,20,TAAGMA Schemers
+TAAGMA (Multispectral Visor L2),VIRAL Sniper Rifle,"Pistol, CC Weapon",1.5,24,TAAGMA Schemers
+TAAGMA (Lieutenant),"Breaker Combi Rifle, Nanopulser","Pistol, CC Weapon",0,16,TAAGMA Schemers
+"TAAGMA (Lieutenant, Hacker [Zero Pain])","Breaker Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,18,TAAGMA Schemers
+"TAAGMA (Lieutenant, Multispectral Visor L2)",VIRAL Sniper Rifle,"Pistol, CC Weapon",1.5,24,TAAGMA Schemers
+KIEL-SAAN,"Mk12, Panzerfaust","Heavy Pistol, DA CC Weapon",0,46,KIEL-SAAN Covert Assault Unit
+DRAAL,"Submachine Gun, Pulzar, D-Charges, Shock Mines","Viral Pistol, CC Weapon",0,33,DRAAL Saboteurs
+DRAAL (Minelayer),"AP Marksman Rifle, D-Charges, Shock Mines","Viral Pistol, CC Weapon",1,40,DRAAL Saboteurs
+KRIIGEL,"Breaker Combi Rifle, Smoke Grenade Launcher, Pheroware Tactics: Eraser, Pheroware Tactics: Mirrorball","Viral Pistol, CC Weapon",0.5,20,KRIIGEL Agents
+KRIIGEL (Lieutenant),"Breaker Combi Rifle, Smoke Grenade Launcher, Pheroware Tactics: Eraser, Pheroware Tactics: Mirrorball","Viral Pistol, CC Weapon",0,20,KRIIGEL Agents
+REEX,Spitfire,"Pistol, PARA CC Weapon(-3)",1,16,REEX Escorts
+REEX (BS Attack [Shock]),K1 Marksman Rifle,"Pistol, PARA CC Weapon(-3)",0,18,REEX Escorts
+WARDRIVER (Hacker [Zero Pain]),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,"WARDRIVERS, Mercenary Hackers"
+"WARDRIVER (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",1,14,"WARDRIVERS, Mercenary Hackers"
+KIIUTAN,"Submachine Gun, E/Mitter, E/M Mines","Viral Pistol, CC Weapon",1,28,KIIUTAN Imposters
+CHAKSA LONGARM,"Mk12, Pulzar, AP Mines","Pistol, CC Weapon",0,25,CHAKSA LONGARMS
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+CUBE JÄGER (Paramedic),Boarding Shotgun,"Pistol, Monofilament CC Weapon",0.5,21,"Cube Jäger, Mercenary Recoverers"
+"GREIF-OP (Forward Deployment [+8""], Mimetism [-3])",Shock Marksman Rifle,"Breaker Pistol(+1B), CC Weapon",0,24,GREIF OPERATORS
+"GREIF-OP (Surprise Attack [-3], Impersonation [IMP-2])","Combi Rifle, D-Charges","Breaker Pistol(+1B), CC Weapon",0.5,20,GREIF OPERATORS
+HELOT MILITIAMAN (Decoy [1]),"Submachine Gun, Light Rocket Launcher","Pistol, CC Weapon",0.5,9,HELOT MILITIA
+HELOT MILITIAMAN (Camouflage [1 Use]),"Submachine Gun, Light Rocket Launcher","Pistol, CC Weapon",0.5,9,HELOT MILITIA
+RASAIL,Spitfire || CHAKSA PERIPHERAL,"Pistol, CC Weapon",1.5,39,RASAIL Boarding Team
+RASAIL (Lieutenant),Spitfire || CHAKSA PERIPHERAL,"Pistol, CC Weapon",1.5,39,RASAIL Boarding Team
+KERAIL PRECEPTOR,"Combi Rifle, Nanopulser || MUTAN SYMBIOBEAST","Pistol, PARA CC Weapon(-3)",0,33,KERAIL Preceptors
+JAAN STAAR,"Light Shotgun, Shock Mines","Viral Pistol(+1B), CC Weapon",1,31,JAAN STAAR Kiiutan Imposter
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+DIGGER,"Chain Rifle(+1B), Grenades","Pistol, AP CC Weapon(+1B)",0,14,FULL POWER

@@ -1,0 +1,66 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+PARA-COMMANDO,AP Spitfire,"Pistol, CC Weapon",1,31,1er Régiment de PARA-COMMANDOS
+PARA-COMMANDO (Forward Observer),"Boarding Shotgun, Flash Pulse, D-Charges","Pistol, CC Weapon",0,24,1er Régiment de PARA-COMMANDOS
+"PARA-COMMANDO (BS Attack [+1 Dam], Forward Observer)","Boarding Shotgun, Flash Pulse, D-Charges","Pistol, CC Weapon",0,26,1er Régiment de PARA-COMMANDOS
+PARA-COMMANDO (Paramedic),Submachine Gun | MediKit,"Pistol, CC Weapon",0,21,1er Régiment de PARA-COMMANDOS
+FRONTOVIK,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,21,"FRONTOVIKS, Separate Assault Bat."
+"FRONTOVIK (Engineer, Deactivator)","T2 Rifle, Light Rocket Launcher, D-Charges","Assault Pistol, CC Weapon",0.5,29,"FRONTOVIKS, Separate Assault Bat."
+FRONTOVIK (Paramedic),T2 Rifle | MediKit,"Assault Pistol, CC Weapon",0,24,"FRONTOVIKS, Separate Assault Bat."
+FRONTOVIK (Multispectral Visor L1),AP Sniper Rifle,"Assault Pistol, CC Weapon",0.5,30,"FRONTOVIKS, Separate Assault Bat."
+FRONTOVIK (Lieutenant),T2 Rifle,"Assault Pistol, CC Weapon",0,22,"FRONTOVIKS, Separate Assault Bat."
+S.A.S.,Boarding Shotgun,"Pistol, AP + Shock CC Weapon",0,25,1st Highlanders S.A.S.
+S.A.S. (Forward Observer),"Chain Rifle, Light Shotgun, Flash Pulse, D-Charges","Pistol, AP + Shock CC Weapon",0,21,1st Highlanders S.A.S.
+S.A.S. (Specialist Operative),Boarding Shotgun,"Pistol, AP + Shock CC Weapon",0,26,1st Highlanders S.A.S.
+IRMANDINHO,"Submachine Gun, D-Charges, Smoke Grenades","Pistol, AP CC Weapon",0,13,IRMANDINHOS
+VARANGIAN,"Submachine Gun, Chain Rifle, Smoke Grenades","Heavy Pistol, Trench-Hammer",0,13,VARANGIAN GUARD
+KAZAK DOKTOR,Rifle,"Pistol, CC Weapon",0,13,KAZAK DOKTOR
+PAVEL McMANNUS,"Ohotnik, Chain-colt, Shock Mines, D-Charges","Pistol, T2 CC Weapon",0,32,"PAVEL ALEKSEI McMANNUS, Spetsgruppa G"
+CATERAN,Sniper Rifle,"Pistol, AP CC Weapon",0.5,21,HIGHLANDER CATERANS
+112 FTO,Light Shotgun,"Pistol, CC Weapon",0,12,"112, Emergency Service"
+DOZER,"Rifle, Akrylat-Kanone | GizmoKit","Pistol, CC Weapon",0,14,"DOZERS, Field Engineers"
+TRAKTOR MUL (Deactivator),,PARA CC Weapon(-3),0,5,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL,Katyusha MRL,PARA CC Weapon(-3),1,9,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL (Total Reaction),Uragan MRL,PARA CC Weapon(-3),1,16,"TRAKTOR MUL, Artillery and Support Regiment"
+MARGOT,"AP Rifle, Grenade Launcher, Light Shotgun","Pistol, CC Weapon",0,37,Lieutenant MARGOT BERTHIER
+WALLACE,"T2 Rifle(+1 Dam), Light Shotgun, Smoke Grenades","Pistol, EXP CC Weapon",0,35,WILLIAM WALLACE
+WALLACE (Lieutenant),"T2 Rifle(+1 Dam), Light Shotgun, Smoke Grenades","Pistol, EXP CC Weapon",0,35,WILLIAM WALLACE
+SCOT GUARD FTO,Missile Launcher,"Assault Pistol, CC Weapon",1.5,30,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+SCOT GUARD FTO (Lieutenant),Shock Marksman Rifle,"Pistol, CC Weapon",0,25,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+"SCOT GUARD FTO (Forward Observer, NCO)","Submachine Gun(+1B), Panzerfaust, Flash Pulse, D-Charges","Pistol, CC Weapon",0,25,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+"SCOT GUARD (Surprise Attack [-3], Camouflage, NCO)","Submachine Gun(+1B), Panzerfaust, D-Charges","Pistol, CC Weapon",0,29,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+"SCOT GUARD (Surprise Attack [-3], Camouflage)",Missile Launcher,"Assault Pistol, CC Weapon",1.5,35,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+UXÍA McNEILL (Multispectral Visor L1),"Boarding Shotgun, Grenades, Smoke Grenades","Pistol, AP CC Weapon",0,26,"UXÍA 'CHERRY' McNEILL, Corporal of 1st Highlanders S.A.S."
+UXÍA McNEILL (Specialist Operative),"Boarding Shotgun, D-Charges, Smoke Grenades","Assault Pistol(+1B), AP CC Weapon",0,27,"UXÍA 'CHERRY' McNEILL, Corporal of 1st Highlanders S.A.S."
+WARDRIVER (Hacker [Zero Pain]),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,"WARDRIVERS, Mercenary Hackers"
+"WARDRIVER (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",1,14,"WARDRIVERS, Mercenary Hackers"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+UNKNOWN RANGER,"AP Spitfire, Chain-colt","Heavy Pistol, T2 CC Weapon",1,47,THE UNKNOWN RANGER
+112 MOTORIZED,Light Shotgun,"Pistol, CC Weapon",0,18,"112, Emergency Service (Motorized)"
+ROKOT,"Submachine Gun, Grenades, D-Charges","Pistol, CC Weapon",0,9,ROKOTS
+ROKOT (Forward Observer),"Submachine Gun, Grenades, Flash Pulse, D-Charges","Pistol, CC Weapon",0,10,ROKOTS
+ROKOT (Paramedic),"Submachine Gun, Grenades | MediKit","Pistol, CC Weapon",0,11,ROKOTS
+"ROKOT (Infiltration, Camouflage [1 Use])","Submachine Gun, Grenades, D-Charges","Pistol, CC Weapon",0,10,ROKOTS
+ROKOT (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,11,ROKOTS
+ZENIT-7,AP Marksman Rifle,"Pistol, CC Weapon",0.5,27,ZENIT-7 Detachment
+ZENIT-7 (Chain of Command),AP Marksman Rifle,"Pistol, CC Weapon",0.5,32,ZENIT-7 Detachment
+ZENIT-7 (Forward Observer),"AP Sniper Rifle, Light Shotgun","Pistol, CC Weapon",1,33,ZENIT-7 Detachment
+VOLKOLAK,"Missile Launcher, Chain-colt(+1B), Grenades","Heavy Pistol, AP CC Weapon",1.5,40,VOLKOLAK Assault Troopers
+KOSMOSOLDAT,AP Heavy Machine Gun(+1 Dam),"AP Heavy Pistol, CC Weapon",1.5,45,"Armata-4 Proyekt ""KOSMOSOLDAT"""
+KOSMOSOLDAT (Multispectral Visor L1),Portable Autocannon,"AP Heavy Pistol, CC Weapon",1.5,48,"Armata-4 Proyekt ""KOSMOSOLDAT"""
+KOSMOSOLDAT (Specialist Operative),"T2 Rifle(+1B), Heavy Flamethrower, Panzerfaust","AP Heavy Pistol, CC Weapon",0,37,"Armata-4 Proyekt ""KOSMOSOLDAT"""
+KOSMOSOLDAT (Lieutenant),AP Heavy Machine Gun(+1 Dam),"AP Heavy Pistol, CC Weapon",1.5,45,"Armata-4 Proyekt ""KOSMOSOLDAT"""
+"KOSMOSOLDAT (Lieutenant, Multispectral Visor L1)",Portable Autocannon,"AP Heavy Pistol, CC Weapon",1.5,48,"Armata-4 Proyekt ""KOSMOSOLDAT"""
+CONTROLLER,Light Shotgun,"Pistol, CC Weapon",0,9,POLARIS CONTROLLER
+BEARPODE,"Heavy Shotgun(+1 Dam), Smoke Grenades","AP CC Weapon, Trench-Hammer",0,31,POLARIS BEARPODE
+"""FIRSTSTRIKE"" DONN","T2 Rifle, Grenades","Heavy Pistol, T2 CC Weapon",0,32,"CADIN ""FIRSTSTRIKE"" DONN, Point-man of the Grenadiers Reg."
+WOLFGANG AMADEUS,"MULTI Rifle(+1B), Chain-colt","Heavy Pistol, DA CC Weapon, PARA CC Weapon(-6)",0,35,"WOLFGANG AMADEUS WOLFF, Wulver Bounty Hunter"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+ELEKTRONIK,,PARA CC Weapon(-3),0,2,Remontnikbot V-5 ELEKTRONIK
+MEKHANIK,"Rifle, D-Charges, Panzerfaust","AP Heavy Pistol, CC Weapon",0,17,"MEKHANIKS, Flight Engineers Corps"
+MEKHANIK (Minelayer),"Submachine Gun, D-Charges, E/M Mines","AP Heavy Pistol, CC Weapon",0,17,"MEKHANIKS, Flight Engineers Corps"
+STRANNIK,"Submachine Gun, Flash Pulse, Adhesive Launcher(+1B)","Pistol, CC Weapon",0,19,STRANNIK Outer Patrol
+STRANNIK (Doctor),"Submachine Gun, Flash Pulse, Light Riotstopper | MediKit","Pistol, CC Weapon",0,19,STRANNIK Outer Patrol
+CHERNOBOG,"AP Heavy Machine Gun, Heavy Flamethrower, Chest Mines",AP CC Weapon,1.5,65,CHERNOBOG Armored Detachment
+PATCHER,"Heavy Flamethrower(+1B), Adhesive Launcher(+1B), Grenades(Continous Damage)","Heavy Pistol, AP CC Weapon",0,22,"PATCHERS, Structural Response Team"
+RAVENEYE,"Submachine Gun, E/Marat, Flash Pulse, Cybermines","Pistol, CC Weapon",0,12,RAVENEYE Officers

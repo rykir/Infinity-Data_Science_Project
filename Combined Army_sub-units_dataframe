@@ -1,0 +1,164 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+MORAT VANGUARD,Missile Launcher,"Heavy Pistol, CC Weapon",1.5,19,MORAT VANGUARD INFANTRY
+MORAT VANGUARD (Forward Observer),"Combi Rifle, Flash Pulse","Heavy Pistol, CC Weapon",0,15,MORAT VANGUARD INFANTRY
+MORAT VANGUARD (Paramedic),Combi Rifle | MediKit,"Heavy Pistol, CC Weapon",0,16,MORAT VANGUARD INFANTRY
+MORAT VANGUARD (Lieutenant),Combi Rifle,"Heavy Pistol, CC Weapon",1,14,MORAT VANGUARD INFANTRY
+UNIDRON,Spitfire,"Pistol, PARA CC Weapon(-3)",1,18,UNIDRON BATROIDS
+UNIDRON (Forward Observer),"Plasma Carbine, Flash Pulse","Pistol, PARA CC Weapon(-3)",0,15,UNIDRON BATROIDS
+FRAACTA,"Spitfire, Nanopulser","Pistol, CC Weapon",1.5,33,Jump Form
+"FRAACTA (Hacker, Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,32,Jump Form
+UMBRA LEGATE,"Spitfire, Flash Pulse","Pistol, DA CC Weapon",1.5,42,UMBRA LEGATES
+"UMBRA LEGATE (Hacker, Hacking Device Plus)","Boarding Shotgun, Flash Pulse","Pistol, DA CC Weapon",0.5,41,UMBRA LEGATES
+UMBRA LEGATE (Lieutenant),"Spitfire, Flash Pulse","Pistol, DA CC Weapon",1.5,40,UMBRA LEGATES
+MAAKREP TRACKER,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,32,MAAKREP Trackers Unit
+"MAAKREP TRACKER (Hacker, Hacking Device)","Boarding Shotgun, Grenades","Pistol, CC Weapon",0.5,31,MAAKREP Trackers Unit
+MAAKREP TRACKER (Lieutenant),"Combi Rifle, Light Shotgun","Pistol, CC Weapon",1,27,MAAKREP Trackers Unit
+RODOK,Spitfire,"Heavy Pistol, CC Weapon",1.5,28,"RODOK, Morat Armed Imposition Detachment"
+RODOK (Strategic Deployment),Submachine Gun,"Heavy Pistol, CC Weapon",0,23,"RODOK, Morat Armed Imposition Detachment"
+"RODOK (Hacker, Hacking Device)",Boarding Shotgun,"Heavy Pistol, CC Weapon",0.5,27,"RODOK, Morat Armed Imposition Detachment"
+RODOK (Paramedic),Boarding Shotgun | MediKit,"Heavy Pistol, CC Weapon",0,24,"RODOK, Morat Armed Imposition Detachment"
+CHARONTID (Multispectral Visor L3),"Heavy Machine Gun, Nanopulser","Heavy Pistol, Shock CC Weapon",1.5,70,THE CHARONTIDS
+CHARONTID,"Plasma Rifle, Sepsitor Plus | TinBot: Firewall [-3]","Heavy Pistol, Shock CC Weapon",0.5,64,THE CHARONTIDS
+"CHARONTID (Hacker, Hacking Device Plus [UPGRADE: (+1 Damage)])","Plasma Rifle, Nanopulser","Heavy Pistol, Shock CC Weapon",0.5,63,THE CHARONTIDS
+"CHARONTID (Lieutenant, Multispectral Visor L3)","Heavy Machine Gun, Nanopulser","Heavy Pistol, Shock CC Weapon",1,70,THE CHARONTIDS
+CHARONTID (Lieutenant),"Plasma Rifle, Sepsitor Plus | TinBot: Firewall [-3]","Heavy Pistol, Shock CC Weapon",0,64,THE CHARONTIDS
+"CHARONTID (Lieutenant, Hacker, Hacking Device Plus [UPGRADE: (+1 Damage)])","Plasma Rifle, Nanopulser","Heavy Pistol, Shock CC Weapon",0.5,63,THE CHARONTIDS
+CHARONTID (Lieutenant [+1 Order]),"Plasma Rifle, Sepsitor Plus","Heavy Pistol, Shock CC Weapon",0,67,THE CHARONTIDS
+RAICHO,"MULTI Heavy Machine Gun, Heavy Shotgun, Mine Dispenser",AP CC Weapon,1.5,82,RAICHO Armored Brigade
+RAICHO (NCO),"MULTI Heavy Machine Gun, Heavy Flamethrower",AP CC Weapon,2,77,RAICHO Armored Brigade
+AVATAR (Lieutenant [+1 Command Token]),"MULTI Heavy Machine Gun, Sepsitor Plus",DA CC Weapon,2.5,114,AVATAR
+"AVATAR (Lieutenant [+1 Order, +1 Command Token])","MULTI Heavy Machine Gun, Sepsitor Plus",DA CC Weapon,2.5,118,AVATAR
+SHROUDED,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,25,'THE SHROUDED' Shasvastii Pioneer Corps
+"SHROUDED (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,27,'THE SHROUDED' Shasvastii Pioneer Corps
+SHROUDED (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,23,'THE SHROUDED' Shasvastii Pioneer Corps
+SHROUDED (Minelayer),Boarding Shotgun | Dazer,"Pistol, CC Weapon",0.5,23,'THE SHROUDED' Shasvastii Pioneer Corps
+"SHROUDED (Hacker, Killer Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0,25,'THE SHROUDED' Shasvastii Pioneer Corps
+MALIGNOS,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,35,MALIGNOS Shasvastii Deep Incursion Corps
+"MALIGNOS (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,39,MALIGNOS Shasvastii Deep Incursion Corps
+MALIGNOS (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,35,MALIGNOS Shasvastii Deep Incursion Corps
+"MALIGNOS (Hacker, Killer Hacking Device)","Submachine Gun, Shock Mines | Dazer","Pistol, CC Weapon",0,31,MALIGNOS Shasvastii Deep Incursion Corps
+SPECULO KILLER,"Boarding Shotgun, Smoke Grenades","Pistol, Monofilament CC Weapon",1,32,SPECULO KILLERS
+DĀTURAZI,"Combi Rifle, Smoke Grenade Launcher","Heavy Pistol, Shock CC Weapon",0.5,18,DĀTURAZI Witch-Soldiers
+GAKI,,AP CC Weapon,0,4,THE HUNGRIES: 'GAKIS'
+PRETA,Chain Rifle,AP CC Weapon,0,7,THE HUNGRIES: 'PRETAS'
+MED-TECH OBSIDON MEDCHANOID,"Combi Rifle, D-Charges | GizmoKit, MediKit","Pistol, CC Weapon",0,22,MED-TECH OBSIDON MEDCHANOIDS
+M-DRONE,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,16,M-DRONES
+ARMAND (Minelayer),"MULTI Sniper Rifle, Nanopulser, Shock Mines","Breaker Pistol(+1B), Shock CC Weapon",1.5,38,"ARMAND 'LE MUET', FREELANCE KILLER"
+ARMAND (Multispectral Visor L1),"MULTI Sniper Rifle, Nanopulser","Breaker Pistol(+1B), Shock CC Weapon",1.5,39,"ARMAND 'LE MUET', FREELANCE KILLER"
+Q-DRONE,Plasma Rifle,PARA CC Weapon(-3),1,24,Q-DRONES
+T-DRONE,Missile Launcher,PARA CC Weapon(-3),1.5,18,T-DRONES
+R-DRONE,Flash Pulse,PARA CC Weapon(-3),0,7,R-DRONES
+SEED-SOLDIER,"Combi Rifle, Grenade Launcher","Pistol, CC Weapon",1,19,Seed-Embryo
+SEED-SOLDIER (Forward Observer),"Combi Rifle, Panzerfaust","Pistol, CC Weapon",0,17,Seed-Embryo
+SEED-SOLDIER (Paramedic),"Combi Rifle, Panzerfaust | MediKit","Pistol, CC Weapon",0,18,Seed-Embryo
+CADMUS-SOLDIER,Red Fury,"Pistol, Shock CC Weapon",1,26,Cadmus-Seed
+"CADMUS-SOLDIER (Hacker, Killer Hacking Device)",Boarding Shotgun,"Pistol, Shock CC Weapon",0,24,Cadmus-Seed
+HAIDUK,AP Marksman Rifle,"Pistol, CC Weapon",0.5,22,Shasvastii Light Support Unit HAIDUKS
+NOCTIFER,Missile Launcher,"Assault Pistol, CC Weapon",1.5,32,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+"NOCTIFER (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,29,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+NOCTIFER (Lieutenant),Combi Rifle,"Pistol, CC Weapon",1,24,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+KURGAT,"Portable Autocannon, D-Charges","Heavy Pistol, CC Weapon",1,30,KURGAT Regiment of Assault Engineers
+KURGAT (BS Attack [+1 Dam]),"Combi Rifle(AP), E/Mitter, D-Charges, AP Mines","Heavy Pistol, CC Weapon",0,27,KURGAT Regiment of Assault Engineers
+YAOGAT,Spitfire,"Heavy Pistol, CC Weapon",1.5,32,YAOGAT Strike Infantry
+"YAOGAT (Hacker, Hacking Device)","Combi Rifle, Panzerfaust","Heavy Pistol, CC Weapon",0.5,32,YAOGAT Strike Infantry
+RASYAT,"Spitfire, D-Charges, Eclipse Grenades","Heavy Pistol, DA CC Weapon",1.5,37,RASYAT Diplomatic Division
+RASYAT (Specialist Operative),"Combi Rifle, E/Mitter, D-Charges, Eclipse Grenades","Heavy Pistol, DA CC Weapon",0,34,RASYAT Diplomatic Division
+SKIÁVORO,"Plasma Rifle, Sepsitor Plus, Nanopulser","Heavy Pistol, Shock CC Weapon",0,57,SKIÁVOROS
+"SKIÁVORO (Hacker, Hacking Device Plus [UPGRADE: Oblivion (+1B)])","Plasma Rifle, Nanopulser","Pistol, Shock CC Weapon",0.5,57,SKIÁVOROS
+"SKIÁVORO (Lieutenant [+1 Command Token], Strategos L1])","Spitfire, Nanopulser","Heavy Pistol, Shock CC Weapon",1.5,53,SKIÁVOROS
+SOGARAT,"Feuerbach(+1B), Pulzar","Heavy Pistol, DA CC Weapon",1.5,60,SOGARAT Tempest Regiment
+SOGARAT (NCO),"Feuerbach(+1B), Pulzar","Heavy Pistol, DA CC Weapon",1.5,62,SOGARAT Tempest Regiment
+SOGARAT (Lieutenant),"Feuerbach(+1B), Pulzar","Heavy Pistol, DA CC Weapon",1.5,60,SOGARAT Tempest Regiment
+ANATHEMATIC,"Plasma Rifle, Sepsitor, Nanopulser","Pistol, Monofilament CC Weapon",0.5,77,THE ANATHEMATICS
+"ANATHEMATIC (Hacker, Hacking Device, Hacking Device [UPGRADE: Trinity (+1B)])","Plasma Rifle, Nanopulser","Pistol, Shock CC Weapon",0.5,76,THE ANATHEMATICS
+ANATHEMATIC (Lieutenant),"Plasma Rifle, Nanopulser","Pistol, Monofilament CC Weapon",0,71,THE ANATHEMATICS
+"ANATHEMATIC (Lieutenant, Hacker, Hacking Device [UPGRADE: Trinity (+1B)])","Plasma Rifle, Nanopulser","Pistol, Shock CC Weapon",0.5,76,THE ANATHEMATICS
+SPHINX,"Spitfire, Heavy Flamethrower(+1B)",DA CC Weapon,2,93,Shasvastii Special Armoured Corp SPHINX
+ZERAT (BS Attack [+1 Dam]),MULTI Marksman Rifle,"Heavy Pistol, CC Weapon",1,26,ZERAT Special Missions Regiment
+"ZERAT (Hacker, Hacking Device)","Combi Rifle, D-Charges, Light Flamethrower","Heavy Pistol, CC Weapon",0.5,29,ZERAT Special Missions Regiment
+"ZERAT (Hacker, Killer Hacking Device)","Combi Rifle, Light Flamethrower, D-Charges","Heavy Pistol, CC Weapon",0,27,ZERAT Special Missions Regiment
+ZERAT (Minelayer),"Boarding Shotgun, Shock Mines","Heavy Pistol, CC Weapon",0,25,ZERAT Special Missions Regiment
+ZERAT (Forward Observer),"Boarding Shotgun, Flash Pulse, Shock Mines","Heavy Pistol, CC Weapon",0,25,ZERAT Special Missions Regiment
+AÏDA SWANSON (Minelayer),"Submachine Gun(+1B), Viral Mines","Viral Pistol, Shock CC Weapon",0.5,23,"AÏDA SWANSON, Submondo Smuggler"
+AÏDA SWANSON FTO (Minelayer),"Submachine Gun, Viral Mines","Viral Pistol, Shock CC Weapon",0,20,"AÏDA SWANSON, Submondo Smuggler"
+SLAVE DRONE,,PARA CC Weapon(-3),0,3,SLAVE DRONES
+ÍMETRON,,,0,4,ÍMETRON
+LIBERTO,"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,8,LIBERTOS Freedom Fighters
+LIBERTO (Minelayer),"Light Shotgun, Shock Mines","Pistol, CC Weapon",1,8,LIBERTOS Freedom Fighters
+CALIBAN,"Boarding Shotgun, D-Charges","Pistol, CC Weapon",0,27,Sabotage and Destruction Unit CALIBAN
+CALIBAN (Chain of Command),"Submachine Gun, Pulzar, D-Charges","Pistol, CC Weapon",0,29,Sabotage and Destruction Unit CALIBAN
+"CALIBAN (Engineer, Deactivator)","Submachine Gun, Pulzar, D-Charges | GizmoKit","Pistol, CC Weapon",0,28,Sabotage and Destruction Unit CALIBAN
+CALIBAN (Forward Observer),"Boarding Shotgun, D-Charges, Flash Pulse","Pistol, CC Weapon",0,28,Sabotage and Destruction Unit CALIBAN
+CALIBAN (Multispectral Visor L1),"Spitfire, D-Charges","Pistol, CC Weapon",1.5,38,Sabotage and Destruction Unit CALIBAN
+RAKTORAK,Red Fury,"Heavy Pistol, CC Weapon",1,26,"RAKTORAK, Morat Sergeant Major"
+RAKTORAK (NCO),Vulkan Shotgun,"Heavy Pistol, CC Weapon",0,24,"RAKTORAK, Morat Sergeant Major"
+SURYAT,"MULTI Rifle, Light Flamethrower","MULTI Pistol, CC Weapon",0,35,SURYAT Assault Heavy Infantry
+SURYAT (Multispectral Visor L1),Heavy Rocket Launcher | TinBot: Firewall [-3],"MULTI Pistol(+1B), CC Weapon",1.5,36,SURYAT Assault Heavy Infantry
+SURYAT (Tactical Awareness),Heavy Machine Gun | TinBot: Firewall [-3],"MULTI Pistol, CC Weapon",1.5,44,SURYAT Assault Heavy Infantry
+SURYAT (Lieutenant [+1 Order]),Heavy Machine Gun | TinBot: Firewall [-3],"MULTI Pistol, CC Weapon",1.5,45,SURYAT Assault Heavy Infantry
+OZNAT FTO,"Vulkan Shotgun, Smoke Grenades","Heavy Pistol, DA CC Weapon",0,18,"OZNAT, Morat Hunting Regiment"
+OZNAT (Sensor),"Vulkan Shotgun, Smoke Grenades || SYNC PRETA","DA CC Weapon, Heavy Pistol",0,26,"OZNAT, Morat Hunting Regiment"
+"IKADRON (Baggage, Repeater)","Light Flamethrower(+1B), Flash Pulse","Pistol, PARA CC Weapon(-3)",0,9,IKADRON BATROID
+SHESKIIN,"Red Fury, Pulzar, D-Charges","Pistol, DA CC Weapon",1,54,Cadmus-Naish Agent SHESKIIN
+SHESKIIN (Lieutenant),"Red Fury, Pulzar, D-Charges","Pistol, DA CC Weapon",1,54,Cadmus-Naish Agent SHESKIIN
+KORNAK,"Mk12, Light Flamethrower","DA CC Weapon, Heavy Pistol",0,38,"KORNAK Gazarot, Superior Warrior-Officer"
+ANYAT,"K1 Combi Rifle, Chain-colt, Smoke Grenades, E/M Grenades","CC Weapon, Heavy Pistol",0,24,TREITAK ANYAT
+CORAX HASHT,Spitfire,"Breaker Pistol, CC Weapon",1,33,SHASVASTII CORAX HASHT
+E-DRONE,Combi Rifle,PARA CC Weapon(-3),0.5,18,E-DRONES
+UMBRA SAMARITAN,"Spitfire, Flash Pulse","Pistol, Vorpal CC Weapon, DA CC Weapon",1,41,UMBRA SAMARITANS
+"UMBRA SAMARITAN (Hacker, Hacking Device [UPGRADE: Trinity])","Plasma Carbine, Flash Pulse","Pistol, Vorpal CC Weapon, DA CC Weapon",0.5,39,UMBRA SAMARITANS
+UMBRA SAMARITAN (Lieutenant),"Spitfire, Flash Pulse","Pistol, Vorpal CC Weapon, DA CC Weapon",1,41,UMBRA SAMARITANS
+NEXUS (Specialist Operative),Combi Rifle,"Pistol, CC Weapon",0,16,NEXUS Operatives
+"NEXUS (Hacker, Hacking Device)","Combi Rifle, E/M Mines","Pistol, CC Weapon",0.5,21,NEXUS Operatives
+"NEXUS (NCO, Nanoscreen)",Spitfire,"Pistol, CC Weapon",1,28,NEXUS Operatives
+"NEXUS (Lieutenant, Hacker, Hacking Device)","Combi Rifle, E/M Mines","Pistol, CC Weapon",0.5,21,NEXUS Operatives
+"NEXUS (Engineer, NCO)","Vulkan Shotgun, D-Charges | GizmoKit","Pistol, CC Weapon",0,22,NEXUS Operatives
+XEODRON,"MULTI Marksman Rifle, Blitzen","Heavy Pistol, Shock CC Weapon",0.5,51,XEODRON Batroids
+KRAKOT RENEGADE,"Red Fury, Chest Mines","Shock CC Weapon, Heavy Pistol",1,24,"KRAKOT RENEGADES, MORAT FUGITIVES"
+OVERDRON,"Heavy Rocket Launcher(+1B), Submachine Gun",Shock CC Weapon,1.5,51,OVERDRON Batroids
+"Bit (Hacker [UPGRADE: Oblivion, UPGRADE: Trinity])","Submachine Gun, Pitcher | Deployable Repeater || KISS! (Repeater)","Pistol, CC Weapon",0.5,20,BIT
+"Bit (Hacker], Killer Hacking Device [UPGRADE: Oblivion])","Submachine Gun, Pitcher | Deployable Repeater] || KISS!","Pistol, CC Weapon",0.5,21,BIT
+KERR-NAU,"Plasma Rifle, D-Charges, Pitcher","Breaker Pistol, CC Weapon",0,27,Nexus-7 Operative Kerr-Nau
+NOX,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,20,Shasvastii Nox Troops
+"NOX (Hacker, Hacking Device)","Combi Rifle, Zapper","Pistol, CC Weapon",0.5,19,Shasvastii Nox Troops
+NOX (Forward Observer),"Combi Rifle, Zapper, Flash Pulse","Pistol, CC Weapon",0,15,Shasvastii Nox Troops
+NOX (Paramedic),"Combi Rifle, Zapper | MediKit","Pistol, CC Weapon",0,16,Shasvastii Nox Troops
+MENTOR,Shock Marksman Rifle,"Pistol, CC Weapon",0,26,Shasvastii Tactical Monitoring Company Mentor
+"MENTOR (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",0.5,28,Shasvastii Tactical Monitoring Company Mentor
+MENTOR (Lieutenant),Shock Marksman Rifle,"Pistol, CC Weapon",1,26,Shasvastii Tactical Monitoring Company Mentor
+JAYTH CUTTHROATS,"Red Fury, E/M Grenades","Pistol, DA CC Weapon",1,38,JAYTH CUTTHROATS
+JAYTH CUTTHROATS (Specialist Operative),"Vulkan Shotgun, E/M Grenades","Pistol, DA CC Weapon",0,35,JAYTH CUTTHROATS
+TAIGHA,Chain-colt,DA CC Weapon,0,6,TAIGHA Creatures
+CUBE JÄGER (Paramedic),Boarding Shotgun,"Pistol, Monofilament CC Weapon",0.5,21,"Cube Jäger, Mercenary Recoverers"
+"GREIF-OP (Forward Deployment [+8""], Mimetism [-3])",Shock Marksman Rifle,"Breaker Pistol(+1B), CC Weapon",0,24,GREIF OPERATORS
+"GREIF-OP (Surprise Attack [-3], Impersonation [IMP-2])","Combi Rifle, D-Charges","Breaker Pistol(+1B), CC Weapon",1,20,GREIF OPERATORS
+"VICTOR MESSER (Hacker, Hacking Device Plus)","Boarding Shotgun, D-Charges, Cybermines","Breaker Pistol, CC Weapon",0.5,30,"VICTOR MESSER, Autonomous Agent of Chaos"
+TENSHO,Boarding Shotgun,"Pistol, CC Weapon",0,16,TENSHO Experts
+OKTAVIA,"Missile Launcher, Contender","Heavy Pistol, CC Weapon",1.5,28,"OKTAVIA GRÍMSDÓTTIR, Icebreaker's Harpooner"
+SHESKIIN BOARDING,"Red Fury, Pulzar, D-Charges","Pistol, DA CC Weapon",1.5,63,Boarding Action Cadmus-Naish Agent SHESKIIN.
+SHESKIIN BOARDING (Lieutenant),"Red Fury, Pulzar, D-Charges","Pistol, DA CC Weapon",1.5,63,Boarding Action Cadmus-Naish Agent SHESKIIN.
+NOURKIAS,"Breaker Combi Rifle, Flash Pulse","Pistol, Vorpal CC Weapon, E/M CC Weapon",0,44,"Umbra Samaritan NOURKIAS, Kai'l Rank"
+"NOURKIAS (Hacker, Killer Hacking Device [UPGRADE: Total Control (+1 Damage)])","Breaker Combi Rifle, Flash Pulse","Pistol, Vorpal CC Weapon, E/M CC Weapon",0,47,"Umbra Samaritan NOURKIAS, Kai'l Rank"
+NOURKIAS (Lieutenant),"Breaker Combi Rifle, Flash Pulse","Pistol, Vorpal CC Weapon, E/M CC Weapon",0,42,"Umbra Samaritan NOURKIAS, Kai'l Rank"
+"NOURKIAS (Lieutenant, Hacker, Killer Hacking Device [UPGRADE: Total Control (+1 Damage)])","Breaker Combi Rifle, Flash Pulse","Pistol, Vorpal CC Weapon, E/M CC Weapon",0,45,"Umbra Samaritan NOURKIAS, Kai'l Rank"
+AGENT DUKASH,"MULTI Rifle, Nanopulser","Viral Pistol, Shock CC Weapon",0,39,"Agent DUKASH, Vashar Special Corps"
+AGENT DUKASH (Lieutenant),"MULTI Rifle, Nanopulser","Viral Pistol, Shock CC Weapon",0,39,"Agent DUKASH, Vashar Special Corps"
+SARGOSH,"MULTI Rifle, Light Shotgun, D-Charges","Breaker Pistol, DA CC Weapon",0,37,"SARGOSH, Tunnel-crumbler of the Jayth Cutthroats"
+"KO DALI (Parachutist, Combat Jump)","Combi Rifle, Nanopulser, D-Charges","Assault Pistol(+1B), AP CC Weapon",0,39,Special Operative KO DALI
+"KO DALI FTO (Mimetism [-3], Forward Deployment [+4""])","MULTI Rifle, D-Charges, Pulzar","Assault Pistol, AP CC Weapon",0,35,Special Operative KO DALI
+"KO DALI (Infiltration, Mimetism [-3])","MULTI Rifle, Nanopulser, D-Charges","Assault Pistol(+1B), AP CC Weapon",0,41,Special Operative KO DALI
+DROPSUIT TARYOT,Red Fury,"Heavy Pistol, CC Weapon",1,27,Dropsuit TARYOT
+DROPSUIT TARYOT (Paramedic),Boarding Shotgun | MediKit,"Heavy Pistol, CC Weapon",0,24,Dropsuit TARYOT
+MOTORIZED BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0.5,15,Motorized Bounty Hunters
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+TYROK,"T2 Rifle, Shock Mines","Heavy Pistol(+1B), Trench-Hammer(+1 Dam)",0,21,Tyrok Hunters
+TYROK (Minelayer),"T2 Rifle, Shock Mines","Heavy Pistol(+1B), Trench-Hammer(+1 Dam)",0.5,22,Tyrok Hunters
+DARTOK (Hacker),"Combi Rifle, Pitcher, Cybermines","Heavy Pistol, CC Weapon",0.5,25,DARTOK Cybercombat Team
+KAITOK,"Breaker Combi Rifle, E/Marat","Heavy Pistol(+1B), CC Weapon",0,31,KAITOK Shock Regiment
+KAITOK (Multispectral Visor L1),Feuerbach,"Heavy Pistol(+1B), CC Weapon",1.5,36,KAITOK Shock Regiment
+KYOSOT,Submachine Gun,"Heavy Pistol, Shock CC Weapon",0,25,KYOSOT Killing Platoon
+KYOSOT (Multispectral Visor L1),"Submachine Gun, Chain-colt","Heavy Pistol, Shock CC Weapon",0,29,KYOSOT Killing Platoon
+RINDAK FTO (Paramedic),"Submachine Gun, Flash Pulse(+1B)","Heavy Pistol, PARA CC Weapon",0,27,RINDAK Emergency Brigade
+"RINDAK (Paramedic, Forward Deployment [+8""])","Submachine Gun, Flash Pulse(+1B)","Heavy Pistol, PARA CC Weapon",0,31,RINDAK Emergency Brigade
+ZABUK,"Submachine Gun, Heavy Riotstopper, Flash Pulse","Heavy Pistol, PARA CC Weapon(-9)",0,15,"ZABUK, Morat Enslavers"
+BULTRAK,Portable Autocannon(+1B),"Heavy Pistol, CC Weapon(+1B)",1.5,75,"BULTRAK, Mobile Armored Regiment"

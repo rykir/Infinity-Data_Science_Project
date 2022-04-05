@@ -1,0 +1,77 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+FUSILIER,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,17,FUSILIERS
+"FUSILIER (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,15,FUSILIERS
+FUSILIER (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,12,FUSILIERS
+FUSILIER (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,12,FUSILIERS
+FUSILIER (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,10,FUSILIERS
+NISSE,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,33,Svalarheima NISSES
+"NISSE (Hacker, Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0.5,33,Svalarheima NISSES
+NISSE (Paramedic),"Combi Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,30,Svalarheima NISSES
+NISSE (Lieutenant),"Combi Rifle, Light Shotgun","Pistol, CC Weapon",1,28,Svalarheima NISSES
+ORC,Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,30,ORC TROOPS
+"ORC (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,34,ORC TROOPS
+ORC (Lieutenant),Heavy Machine Gun,"Pistol, CC Weapon",1,37,ORC TROOPS
+"ORC Varuna Div. (Stealth], Terrain [Aquatic/Jungle])",Feuerbach,"Pistol, CC Weapon",1.5,39,ORC TROOPS
+"ORC Varuna Div. (Stealth, Terrain [Aquatic/Jungle])",Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,31,ORC TROOPS
+"ORC WinterFor (Terrain [Mountain], Climbing Plus])",Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,32,ORC TROOPS
+KNIGHT HOSPITALLER,Combi Rifle,"Pistol, DA CC Weapon",0,29,Holy Order of HOSPITALLER KNIGHTS of Saint John of Skovorodino
+KNIGHT HOSPITALLER (Doctor),MULTI Rifle | MediKit,"Pistol, DA CC Weapon",0,35,Holy Order of HOSPITALLER KNIGHTS of Saint John of Skovorodino
+KNIGHT HOSPITALLER (Lieutenant),MULTI Rifle,"Pistol, DA CC Weapon",0,31,Holy Order of HOSPITALLER KNIGHTS of Saint John of Skovorodino
+"KNIGHT HOSPITALLER (Forward Deployment [+8""])","Boarding Shotgun, D-Charges","Pistol, DA CC Weapon",0,36,Holy Order of HOSPITALLER KNIGHTS of Saint John of Skovorodino
+TRAUMA-DOC,Combi Rifle,"Pistol, CC Weapon",0,14,'TRAUMA-DOCS'
+MACHINIST,"Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,15,MACHINISTS
+"MACHINIST WinterFor (Mimetism [-3], Terrain [Total])","Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,18,MACHINISTS
+PATHFINDER DRONBOT,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,PATHFINDER DRONBOTS
+SIERRA DRONBOT,Heavy Machine Gun,PARA CC Weapon(-3),1,24,'SIERRA' DRONBOTS
+CLIPPER DRONBOT,Missile Launcher,PARA CC Weapon(-3),1.5,16,'CLIPPER' DRONBOTS
+FUGAZI DRONBOT,Flash Pulse,PARA CC Weapon(-3),0,7,FUGAZI DRONBOTS
+BULLETEER,Spitfire,PARA CC Weapon(-3),1,23,BULLETEER ARMBOTS
+PEACEMAKER,Spitfire || AUXBOT_3,PARA CC Weapon(-3),1,26,PEACEMAKER ARMBOTS
+PALBOT,,PARA CC Weapon(-3),0,3,PALBOTS
+"MULEBOT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,MULEBOTS
+"MULEBOT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,MULEBOTS
+"MULEBOT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,MULEBOTS
+CHAKSA LONGARM,"Mk12, Pulzar, AP Mines","Pistol, CC Weapon",0,25,CHAKSA LONGARMS
+JOTUM,"MULTI Heavy Machine Gun, Heavy Flamethrower, Panzerfaust",AP CC Weapon,1.5,87,"JOTUMS, Svalarheima Armoured Cuirassiers"
+JOTUM (Lieutenant),"MULTI Heavy Machine Gun, Heavy Flamethrower, Panzerfaust",AP CC Weapon,2.5,87,"JOTUMS, Svalarheima Armoured Cuirassiers"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+LOCUST,"Submachine Gun, D-Charges, WildParrot","Pistol, DA CC Weapon",0,25,"LOCUST, Clandestine Action Team"
+"LOCUST (Hacker, Hacking Device)","Breaker Combi Rifle, D-Charges","Pistol, Shock CC Weapon",0.5,34,"LOCUST, Clandestine Action Team"
+"LOCUST (Hacker, Killer Hacking Device)","Breaker Combi Rifle, D-Charges","Pistol, Shock CC Weapon",0,32,"LOCUST, Clandestine Action Team"
+NØKK,Spitfire,"Pistol, CC Weapon",1.5,29,"Nøkken, Special Intervention and Recon Team"
+"NØKK (Hacker, Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0.5,30,"Nøkken, Special Intervention and Recon Team"
+"NØKK (Hacker, Killer Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0,28,"Nøkken, Special Intervention and Recon Team"
+NØKK (Minelayer),"Combi Rifle, Light Shotgun, Shock Mines","Pistol, CC Weapon",0.5,27,"Nøkken, Special Intervention and Recon Team"
+NØKK (Forward Observer),"Boarding Shotgun, Panzerfaust, Flash Pulse","Pistol, CC Weapon",0,25,"Nøkken, Special Intervention and Recon Team"
+NØKK (Multispectral Visor L1),Boarding Shotgun,"Pistol, CC Weapon",0,24,"Nøkken, Special Intervention and Recon Team"
+KARHU,"Feuerbach(+1B), AP Mines","Pistol, CC Weapon",1.5,35,KARHU Special Group
+"KARHU (Engineer, Deactivator)","MULTI Rifle, Blitzen, D-Charges | GizmoKit","Pistol, CC Weapon",0,29,KARHU Special Group
+KARHU (Paramedic),"MULTI Rifle, Blitzen, AP Mines | MediKit","Pistol, CC Weapon",0,28,KARHU Special Group
+VARG,Spitfire,"Pistol, CC Weapon",1.5,29,VARGAR Maximum Security Team
+"VARG (Triangulated Fire, Sensor)","Combi Rifle, Heavy Flamethrower, WildParrot","Pistol, CC Weapon",0,28,VARGAR Maximum Security Team
+VARG (Minelayer),"K1 Marksman Rifle, Shock Mines","Pistol, CC Weapon",0.5,30,VARGAR Maximum Security Team
+VARG (Forward Observer),"Heavy Rocket Launcher, Light Shotgun, Flash Pulse","Pistol, CC Weapon",1.5,25,VARGAR Maximum Security Team
+INFIRMARER,Boarding Shotgun,"Pistol, Monofilament CC Weapon",0,25,INFIRMARERS of Saint Lazarus
+KNIGHT OF JUSTICE,Spitfire,"Heavy Pistol, DA CC Weapon",1.5,47,KNIGHT OF JUSTICE (KOJ) of Military Order
+"KNIGHT OF JUSTICE (Hacker, Hacking Device)","Combi Rifle, D-Charges","Heavy Pistol, DA CC Weapon",0.5,46,KNIGHT OF JUSTICE (KOJ) of Military Order
+KNIGHT OF JUSTICE (Forward Observer),"Combi Rifle, Flash Pulse, D-Charges","Heavy Pistol, DA CC Weapon",0,43,KNIGHT OF JUSTICE (KOJ) of Military Order
+KNIGHT OF JUSTICE (Lieutenant),Spitfire,"Heavy Pistol, DA CC Weapon",1.5,47,KNIGHT OF JUSTICE (KOJ) of Military Order
+"KNIGHT OF JUSTICE (Forward Deployment [+4""])","Spitfire, D-Charges","Heavy Pistol, DA CC Weapon",1.5,50,KNIGHT OF JUSTICE (KOJ) of Military Order
+QUINN,"Shock Marksman Rifle, Flash Pulse","Pistol, CC Weapon",0,23,FUSILIER INDIGO RICHARD QUINN
+"UMA SØRENSEN (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Submachine Gun(+1B), E/M Mines","Pistol, CC Weapon",0,30,Indigo Spec-Ops Captain UMA SØRENSEN
+UMA SØRENSEN FTO,Breaker Combi Rifle(+1 Dam),"Pistol, CC Weapon",0,27,Indigo Spec-Ops Captain UMA SØRENSEN
+UMA SØRENSEN FTO (Lieutenant),Breaker Combi Rifle(+1 Dam),"Pistol, CC Weapon",0,27,Indigo Spec-Ops Captain UMA SØRENSEN
+LIANG KAI,"Chain Rifle, Light Shotgun, Flash Pulse","Pistol, EXP CC Weapon",0,21,"LIANG KAI, Wandering Shaolin Monk"
+OKTAVIA,"Missile Launcher, Contender","Heavy Pistol, CC Weapon",1.5,28,"OKTAVIA GRÍMSDÓTTIR, Icebreaker's Harpooner"
+KUNAI NINJA,MULTI Sniper Rifle,"Pistol, Shock CC Weapon",1.5,34,KUNAI SOLUTIONS Ninjas
+"KUNAI NINJA (Forward Deployment [+4""])",Shock Marksman Rifle,"Pistol, Shock CC Weapon",0.5,31,KUNAI SOLUTIONS Ninjas
+AGNES,"Submachine Gun, Nanopulser","Pistol, CC Weapon",0,14,Flight Officer AGNES FERREIRA
+SHONA CARANO,"Submachine Gun, Nanopulser(+1B), Flash Pulse","Pistol, EXP CC Weapon",0,27,"SHONA CARANO, Special Instructor and Aristeia! Swordmaster"
+BØYG,Mk12,"Heavy Pistol, Shock CC Weapon",0,47,BØYG SOLDIERS
+GUNNAR,"MULTI Rifle(+1 Dam), Chain-colt","Pistol, Trench-Hammer, Shock CC Weapon",0,34,Troll-hunter GUNNAR LUNDMARK
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower(+1B), Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,17,BEASTHUNTERS Free Guild
+HAWKINS,MULTI Marksman Rifle,"MULTI Pistol, DA CC Weapon",0,36,Knight Hospitaller KYLE HAWKINS
+CURATOR,"Combi Rifle, D-Charges, AP Mines | GizmoKit","Pistol, CC Weapon",0,17,Military Order CURATORS

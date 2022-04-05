@@ -1,0 +1,132 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+ASURA,"Spitfire, Nanopulser","Pistol, AP CC Weapon",1.5,63,ASURAS
+"ASURA (Hacker, Hacking Device Plus [UPGRADE: Trinity (+2 Damage)])","MULTI Rifle, Nanopulser","Pistol, AP CC Weapon",0.5,65,ASURAS
+ASURA (Lieutenant [+1 Order]),"Spitfire, Nanopulser","Pistol, AP CC Weapon",1,67,ASURAS
+MARUT,"MULTI Heavy Machine Gun, Heavy Flamethrower, Nanopulser",AP CC Weapon,1.5,95,MARUTS
+"MARUT (Lieutenant, Strategos L2)","MULTI Heavy Machine Gun, Heavy Flamethrower, Nanopulser",AP CC Weapon,2,99,MARUTS
+DASYU,"MULTI Sniper Rifle, Nanopulser","Pistol, CC Weapon",1.5,37,DASYUS
+"DASYU (Hacker, Killer Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",0,37,DASYUS
+"DASYU (Hacker, Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,39,DASYUS
+DASYU (Forward Observer),"Combi Rifle, Nanopulser, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,36,DASYUS
+NAGA,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,29,NAGAS
+NAGA (Minelayer),"Boarding Shotgun, Shock Mines","Pistol, CC Weapon",0.5,28,NAGAS
+"NAGA (Hacker, Killer Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0,30,NAGAS
+"NAGA (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,32,NAGAS
+NAGA (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,28,NAGAS
+MYRMIDON,"Boarding Shotgun, Smoke Grenades","Pistol, AP CC Weapon",0,24,MYRMIDONS
+"MYRMIDON (Hacker, Hacking Device)","Combi Rifle, Nanopulser, Smoke Grenades","Pistol, AP CC Weapon",0.5,29,MYRMIDONS
+DEVA,"MULTI Rifle, Nanopulser","Pistol, CC Weapon",0,25,DEVA Functionaries
+"DEVA (Hacker, Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,28,DEVA Functionaries
+"DEVA (Hacker, Killer Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",0,26,DEVA Functionaries
+"DEVA (Triangulated Fire, Sensor)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0,24,DEVA Functionaries
+DEVA (Forward Observer),"Combi Rifle, Nanopulser, Flash Pulse","Pistol, CC Weapon",0,24,DEVA Functionaries
+DEVA (Multispectral Visor L2),"Spitfire, Nanopulser","Pistol, CC Weapon",1,33,DEVA Functionaries
+DEVA (Lieutenant),"Combi Rifle, Nanopulser || DEVABOT","Pistol, CC Weapon",0,27,DEVA Functionaries
+"DEVA (Lieutenant, Triangulated Fire, Sensor)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0,24,DEVA Functionaries
+GARUDA,Spitfire,PARA CC Weapon(-3),1.5,25,GARUDA Tacbots
+GARUDA (Forward Observer),"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,20,GARUDA Tacbots
+DALETH Rebot,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,17,DALETH Rebots
+DAKINI,MULTI Sniper Rifle,PARA CC Weapon(-3),1.5,20,DAKINI Tacbots
+DAKINI (Paramedic),Combi Rifle | MediKit,PARA CC Weapon(-3),0,15,DAKINI Tacbots
+ZAYIN Rebot,Heavy Machine Gun,PARA CC Weapon(-3),1,25,ZAYIN Rebots
+SAMEKH Rebot,Missile Launcher,PARA CC Weapon(-3),1.5,18,SAMEKH Rebots
+SOPHOTECT,"Combi Rifle, D-Charges","Pistol, CC Weapon",0,31,SOPHOTECTS
+LAMEDH Rebot,Flash Pulse,PARA CC Weapon(-3),0,7,LAMEDH Rebots
+NETROD,,,0,4,NETRODS
+"PROBOT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,PROBOTS
+"PROBOT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,PROBOTS
+"PROBOT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,PROBOTS
+"PROXY Mk.1 (Hacker, Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,14,PROXY Mk.1
+"PROXY Mk.1 (Engineer, Deactivator)","Combi Rifle, Nanopulser, D-Charges | GizmoKit","Pistol, CC Weapon",0,13,PROXY Mk.1
+PROXY Mk.1 (Doctor),"Combi Rifle, Nanopulser | MediKit","Pistol, CC Weapon",0,13,PROXY Mk.1
+MONSTRUCKER,"Submachine Gun, Chain Rifle, Drop Bears","Pistol, CC Weapon",0,12,MONSTRUCKERS
+MONSTRUCKER (360º Visor),"Rifle, Light Shotgun, Akrylat-Kanone, D-Charges","Pistol, CC Weapon",0,17,MONSTRUCKERS
+ARMAND (Minelayer),"MULTI Sniper Rifle, Nanopulser, Shock Mines","Breaker Pistol(+1B), Shock CC Weapon",1.5,38,"ARMAND 'LE MUET', FREELANCE KILLER"
+ARMAND (Multispectral Visor L1),"MULTI Sniper Rifle, Nanopulser","Breaker Pistol(+1B), Shock CC Weapon",1.5,39,"ARMAND 'LE MUET', FREELANCE KILLER"
+SHAKTI (Hacker),"Mk12, E/Marat","Heavy Pistol, CC Weapon",0,41,"SHAKTI, Yadu Officer"
+"SHAKTI (Lieutenant, Hacker)","Mk12, E/Marat","Heavy Pistol, CC Weapon",0,41,"SHAKTI, Yadu Officer"
+THORAKITES (360º Visor),"Submachine Gun, Chain Rifle","Pistol, CC Weapon",0,12,THORAKITAI
+THORAKITES,"Feuerbach, Nanopulser","Pistol, CC Weapon",1.5,23,THORAKITAI
+"THORAKITES (Engineer, Deactivator)","Combi Rifle, Nanopulser, D-Charges | GizmoKit","Pistol, CC Weapon",0,18,THORAKITAI
+"THORAKITES (Forward Observer, 360º Visor)","Submachine Gun, Chain Rifle, Flash Pulse","Pistol, CC Weapon",0,13,THORAKITAI
+"THORAKITES (Paramedic, 360º Visor)","Submachine Gun, Chain Rifle | MediKit","Pistol, CC Weapon",0,14,THORAKITAI
+YUDBOT,,PARA CC Weapon(-3),0,3,YUDBOTS
+MYRMIDON OFFICER (Chain of Command),"Combi Rifle, Nanopulser, Smoke Grenades","Pistol, AP CC Weapon",1,34,MYRMIDON Officer
+MYRMIDON OFFICER (Lieutenant),"Combi Rifle, Nanopulser, Smoke Grenades","Pistol, AP CC Weapon",0.5,29,MYRMIDON Officer
+AGÊMA Marksman,Missile Launcher,"Breaker Pistol, CC Weapon",1.5,30,AGÊMA Marksmen
+AGÊMA Marksman (X Visor),Mk12,"Breaker Pistol, CC Weapon",0,32,AGÊMA Marksmen
+EKDROMOS,Boarding Shotgun,"Pistol, DA CC Weapon",0,28,EKDROMOI
+"EKDROMOS (Hacker, Hacking Device)",Chain Rifle(+1B),"Pistol, DA CC Weapon",0.5,25,EKDROMOI
+ALKÊ (NCO),"Spitfire, Nanopulser","Pistol, CC Weapon",1.5,28,"NESAIE ALKÊ, Thorakitai Warrant Officer"
+ALKÊ (Lieutenant),"Spitfire, Nanopulser","Pistol, CC Weapon",1.5,26,"NESAIE ALKÊ, Thorakitai Warrant Officer"
+ATALANTA,MULTI Sniper Rifle | TinBot: Discover [+3],"Pistol, CC Weapon",1.5,39,"ATALANTA, Agêma's NCO"
+ATALANTA (Total Reaction),MULTI Sniper Rifle | TinBot: Discover [+3],"Pistol, CC Weapon",1.5,44,"ATALANTA, Agêma's NCO"
+RUDRA,"Red Fury(+1 Dam), Mine Dispenser","Heavy Pistol, PARA CC Weapon(-3)",1,40,RUDRAS GunBots
+HIPPOLYTA,"Breaker Combi Rifle, Nanopulser, Flash Pulse, Eclipse Grenades","Pistol, EXP CC Weapon",0,38,"HIPPOLYTA, Amazon Officer"
+DIOMEDES,"MULTI Rifle, Nanopulser","Assault Pistol, DA CC Weapon",0,40,"DIOMEDES, Ekdromoi Officer"
+MACHAON,"Combi Rifle, Nanopulser, Eclipse Grenades","Pistol, DA CC Weapon",0.5,36,"MACHAON, Myrmidon Doctor-Officer"
+MACHAON (Lieutenant),"Combi Rifle, Nanopulser, Eclipse Grenades","Pistol, DA CC Weapon",0.5,36,"MACHAON, Myrmidon Doctor-Officer"
+KNAUF,MULTI Sniper Rifle,"AP Heavy Pistol, CC Weapon",1.5,32,"KNAUF, Outlaw Sniper"
+PHOENIX,"Heavy Rocket Launcher, Nanopulser, Smoke Grenades","DA CC Weapon, Heavy Pistol",1.5,35,"PHOENIX, Veteran Myrmidon Officer"
+PHOENIX (Lieutenant),"Heavy Rocket Launcher, Nanopulser, Smoke Grenades","DA CC Weapon, Heavy Pistol",1.5,35,"PHOENIX, Veteran Myrmidon Officer"
+EUDOROS,"Mk12, Nanopulser(+1B), Eclipse Grenades","Pistol, DA CC Weapon",0,41,"EUDOROS, MYRMIDON Officer"
+EUDOROS (Lieutenant),"Mk12, Nanopulser(+1B), Eclipse Grenades","Pistol, DA CC Weapon",0,41,"EUDOROS, MYRMIDON Officer"
+AJAX,"Combi Rifle, Nanopulser","AP Heavy Pistol, EXP CC Weapon",0,39,"AJAX the Great, MYRMIDON Officer"
+"AJAX (Forward Deployment [+8""])","Combi Rifle, Nanopulser","AP Heavy Pistol, EXP CC Weapon",0,46,"AJAX the Great, MYRMIDON Officer"
+AJAX (Lieutenant),"Combi Rifle, Nanopulser","AP Heavy Pistol, EXP CC Weapon",0,39,"AJAX the Great, MYRMIDON Officer"
+PENTHESILEA,"Combi Rifle, Nanopulser(+1B)","Pistol, Monofilament CC Weapon",0,37,"PENTHESILEA, Amazon Warrioress"
+THAMYRIS (Hacker),"Pitcher, Pulzar, Flash Pulse(+1B)","Assault Pistol, CC Weapon",0.5,23,THAMYRIS the Aoidos
+ACHILLES,"Spitfire, Nanopulser","Pistol, EXP CC Weapon",2,75,ACHILLES
+ACHILLES (Lieutenant),"Spitfire, Nanopulser","Pistol, EXP CC Weapon",2,75,ACHILLES
+PATROCLUS,"Heavy Machine Gun, Pulzar(+1B), Smoke Grenades","Heavy Pistol, EXP CC Weapon",1.5,55,PATROCLUS
+AÏDA SWANSON (Minelayer),"Submachine Gun(+1B), Viral Mines","Viral Pistol, Shock CC Weapon",0.5,23,"AÏDA SWANSON, Submondo Smuggler"
+AÏDA SWANSON FTO (Minelayer),"Submachine Gun, Viral Mines","Viral Pistol, Shock CC Weapon",0,20,"AÏDA SWANSON, Submondo Smuggler"
+THRASYMEDES (Infiltration),"Submachine Gun, Zapper","Pistol, Shock CC Weapon",0,29,CHANDRA SERGEANT THRASYMEDES
+THRASYMEDES FTO,"Submachine Gun, Light Rocket Launcher, Zapper","Pistol, Shock CC Weapon",0,30,CHANDRA SERGEANT THRASYMEDES
+"DACTYL (Engineer, Deactivator)","Combi Rifle, Flammenspeer, D-Charges | GizmoKit","Breaker Pistol(+1B), CC Weapon",0,20,DACTYLS
+DACTYL (Doctor),"Combi Rifle, Adhesive Launcher | MediKit","Breaker Pistol(+1B), CC Weapon",0,20,DACTYLS
+LIBERTO,"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,8,LIBERTOS Freedom Fighters
+LIBERTO (Minelayer),"Light Shotgun, Shock Mines","Pistol, CC Weapon",1,8,LIBERTOS Freedom Fighters
+TEUCER (Multispectral Visor L2),"K1 Sniper Rifle, Nanopulser","Pistol, CC Weapon",1.5,37,"Teucer, Agêma Warrant Officer"
+WILD BILL,Rifle,"MULTI Pistol(+1B), CC Weapon",0,25,"WILD BILL, Legendary Gunslinger"
+DRAKIOS,"Red Fury, Light Flamethrower || 2x DEVABOT KYDOIMOS","Pistol, Shock CC Weapon",1,45,"DRAKIOS, Steel Phalanx's NCO"
+"SCYLLA (Hacker, Hacking Device [UPGRADE: Trinity (+2 Damage)])","Boarding Shotgun, Pitcher || 2x DEVABOT CHARYBDIS","Pistol, Shock CC Weapon",0.5,41,"SCYLLA, Steel Phalanx's NCO"
+"SCYLLA (Hacker, EVO Hacking Device [UPGRADE: Trinity (+2 Damage)])","Boarding Shotgun, Pitcher || 2x DEVABOT CHARYBDIS","Pistol, Shock CC Weapon",0.5,41,"SCYLLA, Steel Phalanx's NCO"
+ACMON,"Combi Rifle, Panzerfaust, D-Charges","Breaker Pistol(+1B), CC Weapon",0,31,"ACMON, Sergeant of DACTYLS"
+ACHILLES v2,"AP Spitfire, Nanopulser","Pistol, EXP CC Weapon",2,66,ACHILLES v2 (Hoplite Armor)
+ACHILLES v2 (Lieutenant),"AP Spitfire, Nanopulser","Pistol, EXP CC Weapon",2,66,ACHILLES v2 (Hoplite Armor)
+HECTOR,"Spitfire, Nanopulser, Grenades | TinBot: Firewall [-3]","Heavy Pistol, EXP CC Weapon",1.5,63,"HECTOR, Homeridae's Champion"
+HECTOR (Lieutenant [+1 Order]),"Spitfire, Nanopulser, Grenades | TinBot: Firewall [-3]","Heavy Pistol, EXP CC Weapon",0.5,67,"HECTOR, Homeridae's Champion"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+ANDROMEDA,"Boarding Shotgun, Flash Pulse, D-Charges","Breaker Pistol, DA CC Weapon",0,34,"ANDROMEDA, Sophistes of the Steel Phalanx"
+ANDROMEDA (Infiltration [+3]),"Boarding Shotgun, Flash Pulse, D-Charges","Breaker Pistol, DA CC Weapon",0,36,"ANDROMEDA, Sophistes of the Steel Phalanx"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+MIRANDA ASHCROFT,"Combi Rifle, E/Mitter(+1B), Nanopulser","Pistol, Monofilament CC Weapon",0,25,"MIRANDA ASHCROFT, Authorized Bounty Hunter"
+KRAKOT RENEGADE,"Red Fury, Chest Mines","Shock CC Weapon, Heavy Pistol",1,24,"KRAKOT RENEGADES, MORAT FUGITIVES"
+"DANAVAS (Hacker, Hacking Device Plus [UPGRADE: Oblivion (+1B)])","Combi Rifle, Pitcher","Breaker Pistol, CC Weapon",0.5,22,DANAVAS Hackers
+SHUKRA (Chain of Command),"MULTI Rifle, Nanopulser","Pistol, CC Weapon",0,26,Shukra CONSULTANTS
+YADU,"Heavy Rocket Launcher, Submachine Gun","Heavy Pistol, CC Weapon",1.5,32,"YADU Troopers, Tactical Assault Teams"
+"YADU (Hacker, Hacking Device [UPGRADE: Carbonite (+1 Damage)])",Boarding Shotgun,"Heavy Pistol, CC Weapon",0.5,35,"YADU Troopers, Tactical Assault Teams"
+YADU (Forward Observer),"MULTI Rifle, E/Marat, Flash Pulse","Heavy Pistol, CC Weapon",0,35,"YADU Troopers, Tactical Assault Teams"
+YADU (NCO),Heavy Machine Gun,"Heavy Pistol, CC Weapon",1.5,40,"YADU Troopers, Tactical Assault Teams"
+YADU (Lieutenant),"MULTI Rifle, E/Marat, Drop Bears","Heavy Pistol, CC Weapon",0,34,"YADU Troopers, Tactical Assault Teams"
+DART,"Submachine Gun, Tactical Bow, Shock Mines","Pistol, Shock CC Weapon",0,34,"DART, Optimate Huntress"
+APSARA (Killer Hacking Device),Boarding Shotgun,"Pistol, CC Weapon",0,19,APSARAS
+"APSARA (RemDriver [CC=15, BS=13, WIP=14])",Submachine Gun,"Pistol, CC Weapon",1,22,APSARAS
+CUBE JÄGER (Paramedic),Boarding Shotgun,"Pistol, Monofilament CC Weapon",0.5,21,"Cube Jäger, Mercenary Recoverers"
+ARJUNA,"Spitfire, D-Charges || 2x KIRANBOT","Breaker Pistol, CC Weapon",1.5,39,ARJUNA Troops
+OKTAVIA,"Missile Launcher, Contender","Heavy Pistol, CC Weapon",1.5,28,"OKTAVIA GRÍMSDÓTTIR, Icebreaker's Harpooner"
+"REM RACER (Hacker, RemDriver [+1 BS], Hacking Device)",Submachine Gun,"Pistol, PARA CC Weapon(-3)",0.5,21,"REM RACERS, Mercenary Hacker-Pilots"
+REM RACER (RemDriver [+1 BS]),Light Shotgun,"Pistol, PARA CC Weapon(-3)",0,15,"REM RACERS, Mercenary Hacker-Pilots"
+"REM RACER (RemDriver [+1 Dam, +1 WIP, +3 BTS])",Light Shotgun,"Pistol, PARA CC Weapon(-3)",0,12,"REM RACERS, Mercenary Hacker-Pilots"
+"REM RACER (RemDriver [+1 ARM, +3 PH, +9 CC])",Light Shotgun,"Pistol, PARA CC Weapon(-3)",0,12,"REM RACERS, Mercenary Hacker-Pilots"
+PARVATI,"Submachine Gun(+1B), Flash Pulse | GizmoKit, MediKit","Pistol, CC Weapon",0,38,"PARVATI, Circle League star"
+HAWKWOOD,"Red Fury, Nanopulser(+1B)","MULTI Pistol, Monofilament CC Weapon",1,40,"JOHN HAWKWOOD, Mercenary Officer"
+HAWKWOOD (Chain of Command),"Red Fury, Nanopulser(+1B)","MULTI Pistol, Monofilament CC Weapon",1,45,"JOHN HAWKWOOD, Mercenary Officer"
+TRISHA,"Breaker Combi Rifle, Nanopulser, D-Charges, E/M Mines","Pistol, CC Weapon",0,26,Chandra Specialist Operative TRISHA N33
+MOTORIZED BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0.5,15,Motorized Bounty Hunters
+DIGGER,"Chain Rifle(+1B), Grenades","Pistol, AP CC Weapon(+1B)",0,14,FULL POWER
+TRIPHAMMER,"Heavy Shotgun, Flammenspeer(+1B), Panzerfaust(+1B)",AP CC Weapon,0,52,FULL POWER
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,15,BEASTHUNTERS Free Guild

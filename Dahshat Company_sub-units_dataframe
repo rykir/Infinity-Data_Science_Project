@@ -1,0 +1,73 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+GHULAM,"Rifle, Light Shotgun, E/M Mines | Deployable Repeater","Pistol, CC Weapon",0,13,GHULAM Infantry
+"GHULAM (Hacker, Hacking Device)","Rifle, Light Shotgun","Pistol, CC Weapon",0.5,16,GHULAM Infantry
+GHULAM (Doctor [+3]),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,15,GHULAM Infantry
+GHULAM (Forward Observer),"Rifle, Light Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,GHULAM Infantry
+GHULAM (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,11,GHULAM Infantry
+GHULAM (NCO),"Rifle, Grenade Launcher, Smoke Grenade Launcher","Pistol, CC Weapon",1,15,GHULAM Infantry
+GHULAM (Number 2),"Rifle, Light Shotgun, Panzerfaust","Pistol, CC Weapon",0,13,GHULAM Infantry
+GHULAM (Lieutenant [+1 Command Token]),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,GHULAM Infantry
+ZÚYǑNG,"Missile Launcher, Light Shotgun","CC Weapon, Breaker Pistol(+1B)",1.5,35,"ZÚYǑNG Invincibles, Terra-Cotta Soldiers"
+ZÚYǑNG (Tactical Awareness),Heavy Machine Gun,"CC Weapon, Breaker Pistol(+1B)",1.5,37,"ZÚYǑNG Invincibles, Terra-Cotta Soldiers"
+ZÚYǑNG (Forward Observer),"Combi Rifle, Flash Pulse","Breaker Pistol(+1B), CC Weapon",0,27,"ZÚYǑNG Invincibles, Terra-Cotta Soldiers"
+ZÚYǑNG (Regeneration),Heavy Machine Gun,"CC Weapon, Breaker Pistol(+1B)",1.5,36,"ZÚYǑNG Invincibles, Terra-Cotta Soldiers"
+ZÚYǑNG (Paramedic),Combi Rifle | MediKit,"CC Weapon, Breaker Pistol(+1B)",0,28,"ZÚYǑNG Invincibles, Terra-Cotta Soldiers"
+ZÚYǑNG (Lieutenant),Combi Rifle,"CC Weapon, Breaker Pistol(+1B)",0,26,"ZÚYǑNG Invincibles, Terra-Cotta Soldiers"
+"ZÚYǑNG (Lieutenant, Regeneration)",Heavy Machine Gun,"CC Weapon, Breaker Pistol(+1B)",1,36,"ZÚYǑNG Invincibles, Terra-Cotta Soldiers"
+SAITO TOGAN,"Combi Rifle, Smoke Grenades","Pistol, EXP CC Weapon",0,36,"SAITO TŌGAN, Mercenary Ninja"
+MAGHARIBA,"MULTI Heavy Machine Gun, Heavy Flamethrower(+1B), Mine Dispenser","AP Heavy Pistol, CC Weapon",1.5,85,MAGHARIBA GUARD
+HUNZAKUT,"Sniper Rifle, Shock Mines","Pistol, CC Weapon",0.5,21,HUNZAKUTS
+HUNZAKUT (Forward Observer),"Boarding Shotgun, D-Charges","Pistol, CC Weapon",0,18,HUNZAKUTS
+KUM,"Rifle, Light Shotgun, Smoke Grenades","Pistol, E/M CC Weapon",0,10,KUM Motorized Troops
+NAJJARUN Engineer,"Rifle, Light Shotgun, D-Charges","Pistol, CC Weapon",0,15,NAJJARUN Engineer
+BRAWLER,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,16,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Multispectral Visor L2),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,27,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Hacker, Hacking Device)",Submachine Gun,"Pistol, CC Weapon",0.5,17,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Engineer, Deactivator)","Rifle, Light Shotgun, D-Charges | GizmoKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Doctor),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,"BRAWLERS, Mercenary Enforcers"
+RAFIQ REMOTE,"Rifle, Light Shotgun, Flash Pulse",PARA CC Weapon(-3),0,14,RAFIQ REMOTES
+RAFIQ REMOTE FTO,"Red Fury, Flash Pulse",PARA CC Weapon(-3),0.5,20,RAFIQ REMOTES
+McMURROUGH,"Chain Rifle(+1B), Grenades, Smoke Grenades",AP + DA CC Weapon,0,27,"McMURROUGH, Mercenary Dog-Warrior"
+SHIHAB REMOTE,Heavy Machine Gun,PARA CC Weapon(-3),1,24,SHIHAB REMOTES
+MONSTRUCKER,"Submachine Gun, Chain Rifle, Drop Bears","Pistol, CC Weapon",0,12,MONSTRUCKERS
+MONSTRUCKER (360º Visor),"Rifle, Light Shotgun, Akrylat-Kanone, D-Charges","Pistol, CC Weapon",0,17,MONSTRUCKERS
+SHAYTANIYAH REMOTE,Missile Launcher,PARA CC Weapon(-3),1.5,16,SHAYTANIYAH REMOTES
+FANOUS REMOTE,Flash Pulse,PARA CC Weapon(-3),0,7,FANOUS REMOTES
+ODALISQUE (Sixth Sense),"Submachine Gun, Nanopulser, Flash Pulse(+1B)","MULTI Pistol, PARA CC Weapon",0,22,ODALISQUES
+ODALISQUE (360º Visor),"Submachine Gun, Nanopulser, Flash Pulse(+1B)","MULTI Pistol, PARA CC Weapon",0,22,ODALISQUES
+BASHI BAZOUK,"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,12,BASHI BAZOUKS
+BASHI BAZOUK (Specialist Operative),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,BASHI BAZOUKS
+"SFORZA (Surprise Attack [-3], Holoprojector)","Viral Rifle, Adhesive Launcher(+1B), Nanopulser","Heavy Pistol, PARA CC Weapon(-6)",0,28,"FATHER LUCIEN SFORZA, Authorized Bounty Hunter"
+SFORZA FTO,"Viral Rifle, Adhesive Launcher(+1B), Nanopulser","Heavy Pistol, PARA CC Weapon(-6)",0,26,"FATHER LUCIEN SFORZA, Authorized Bounty Hunter"
+VALERYA GROMOZ (Hacker),"Combi Rifle, Zapper, Pitcher","Pistol, CC Weapon",0.5,21,"VALERYA GROMOZ, Mercenary Hacker"
+112 FTO,Light Shotgun,"Pistol, CC Weapon",0,12,"112, Emergency Service"
+DOZER,"Rifle, Akrylat-Kanone | GizmoKit","Pistol, CC Weapon",0,14,"DOZERS, Field Engineers"
+TRAKTOR MUL (Deactivator),,PARA CC Weapon(-3),0,5,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL,Katyusha MRL,PARA CC Weapon(-3),1,9,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL (Total Reaction),Uragan MRL,PARA CC Weapon(-3),1,16,"TRAKTOR MUL, Artillery and Support Regiment"
+NASMAT,,PARA CC Weapon(-3),0,3,NASMAT Remotes
+"KAMEEL (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,KAMEEL Remotes
+"KAMEEL (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,KAMEEL Remotes
+"KAMEEL (Total Reaction, Repeater)","Rifle, Light Shotgun",PARA CC Weapon(-3),0,18,KAMEEL Remotes
+LIBERTO,"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,8,LIBERTOS Freedom Fighters
+LIBERTO (Mimetism [-3]),"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,9,LIBERTOS Freedom Fighters
+"LIBERTO (Mimetism [-3], Minelayer])","Light Shotgun, Shock Mines","Pistol, CC Weapon",1,9,LIBERTOS Freedom Fighters
+LIBERTO (Minelayer),"Light Shotgun, Shock Mines","Pistol, CC Weapon",1,8,LIBERTOS Freedom Fighters
+RUI SHI,Spitfire,PARA CC Weapon(-3),1,23,Yáoxiè RUI SHI
+LÙ DUĀN,"Mk12, Heavy Flamethrower(+1B) | Deployable Repeater",PARA CC Weapon(-3),0,24,Yáoxiè LÙ DUĀN
+FASID,"Heavy Rocket Launcher(+1B), Submachine Gun, Shock Mines","Heavy Pistol, CC Weapon",1.5,45,AL FASID Regiment
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+MIRANDA ASHCROFT,"Combi Rifle, E/Mitter(+1B), Nanopulser","Pistol, Monofilament CC Weapon",0,25,"MIRANDA ASHCROFT, Authorized Bounty Hunter"
+"HÚLÁNG (Forward Deployment [+8""])","Combi Rifle, Light Flamethrower, E/M Grenades, D-Charges","Pistol, Monofilament CC Weapon",0,41,HÚLÁNG Shocktroopers
+"HÚLÁNG (Forward Deployment [+8""], Minelayer])","Submachine Gun(+1B), E/M Grenades, D-Charges, Crazykoala","Pistol, Monofilament CC Weapon",0,42,HÚLÁNG Shocktroopers
+HÚLÁNG FTO,"MULTI Rifle, Light Flamethrower, D-Charges","Pistol, Monofilament CC Weapon",0,39,HÚLÁNG Shocktroopers
+112 MOTORIZED,Light Shotgun,"Pistol, CC Weapon",0,18,"112, Emergency Service (Motorized)"
+ZHĒNCHÁ (Forward Observer),"Submachine Gun, Panzerfaust, Shock Mines","Pistol, CC Weapon",0,35,"ZHĒNCHÁ, Armored Reconnaissance Regiment"
+"ZHĒNCHÁ (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",0.5,41,"ZHĒNCHÁ, Armored Reconnaissance Regiment"
+Fiddler FTO (Super-Jump),"Contender(+1B), Drop Bears, D-Charges","Breaker Pistol, PARA CC Weapon(-3)",0,28,"Fiddler, Aristeia!'s ex-toymaker"
+FIDDLER (Climbing Plus),"Contender(+1B), Drop Bears, D-Charges || 2x JACKBOT","Breaker Pistol, PARA CC Weapon(-3)",0,42,"Fiddler, Aristeia!'s ex-toymaker"
+MOTORIZED BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0.5,15,Motorized Bounty Hunters
+DIGGER,"Chain Rifle(+1B), Grenades","Pistol, AP CC Weapon(+1B)",0,14,FULL POWER

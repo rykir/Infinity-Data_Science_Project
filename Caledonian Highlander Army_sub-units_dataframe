@@ -1,0 +1,41 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+S.A.S.,Boarding Shotgun,"Pistol, AP + Shock CC Weapon",0,25,1st Highlanders S.A.S.
+S.A.S. (Forward Observer),"Chain Rifle, Light Shotgun, Flash Pulse, D-Charges","Pistol, AP + Shock CC Weapon",0,21,1st Highlanders S.A.S.
+S.A.S. (Specialist Operative),Boarding Shotgun,"Pistol, AP + Shock CC Weapon",0,26,1st Highlanders S.A.S.
+HIGHLANDER,"Boarding Shotgun, Smoke Grenades","Pistol, AP CC Weapon",0,13,45th HIGHLANDERS RIFLES 'Galwegian'
+McMURROUGH,"Chain Rifle(+1B), Grenades, Smoke Grenades",AP + DA CC Weapon,0,27,"McMURROUGH, Mercenary Dog-Warrior"
+VOLUNTEER,"Light Shotgun, Grenade Launcher","Pistol, CC Weapon",0.5,10,CALEDONIAN VOLUNTEERS CORPS
+"VOLUNTEER (Camouflage [1 Use], Infiltration])","Light Shotgun, Grenade Launcher","Pistol, CC Weapon",1,13,CALEDONIAN VOLUNTEERS CORPS
+VOLUNTEER (Paramedic),Rifle | MediKit,"Pistol, CC Weapon",0,10,CALEDONIAN VOLUNTEERS CORPS
+VOLUNTEER (Lieutenant),Rifle,"Pistol, CC Weapon",0,8,CALEDONIAN VOLUNTEERS CORPS
+CATERAN,Sniper Rifle,"Pistol, AP CC Weapon",0.5,21,HIGHLANDER CATERANS
+HIGHLANDER GREY,"T2 Boarding Shotgun, Grenades, Smoke Grenades, D-Charges","Pistol, AP CC Weapon",0,20,3rd HIGHLANDER GREY RIFLES
+HIGHLANDER GREY (Lieutenant),"T2 Rifle, Light Shotgun(+1B), Grenades, Smoke Grenades","Pistol, AP CC Weapon",0,25,3rd HIGHLANDER GREY RIFLES
+"CALEDONIAN MORMAER (NCO, X Visor)","T2 Rifle, Chain-colt","Heavy Pistol, AP CC Weapon",0,36,CALEDONIAN MORMAERS
+CALEDONIAN MORMAER,"Heavy Machine Gun, Chain-colt","Heavy Pistol, AP CC Weapon",1.5,40,CALEDONIAN MORMAERS
+"CALEDONIAN MORMAER (Lieutenant, X Visor)","T2 Rifle, Chain-colt","Heavy Pistol, AP CC Weapon",0,34,CALEDONIAN MORMAERS
+CALEDONIAN MORMAER (Lieutenant),"Heavy Machine Gun, Chain-colt","Heavy Pistol, AP CC Weapon",1.5,40,CALEDONIAN MORMAERS
+WULVER,"AP Spitfire, Grenades","Pistol, AP + Shock CC Weapon",1,36,9th WULVER Grenadiers Reg.
+CAMERONIAN,"Chain Rifle(+1B), Grenades, Smoke Grenades",AP CC Weapon,0,20,2nd Irregular CAMERONIANS Reg.
+112 FTO,Light Shotgun,"Pistol, CC Weapon",0,12,"112, Emergency Service"
+DOZER,"Rifle, Akrylat-Kanone | GizmoKit","Pistol, CC Weapon",0,14,"DOZERS, Field Engineers"
+TRAKTOR MUL (Deactivator),,PARA CC Weapon(-3),0,5,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL,Katyusha MRL,PARA CC Weapon(-3),1,9,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL (Total Reaction),Uragan MRL,PARA CC Weapon(-3),1,16,"TRAKTOR MUL, Artillery and Support Regiment"
+WALLACE,"T2 Rifle(+1 Dam), Light Shotgun, Smoke Grenades","Pistol, EXP CC Weapon",0,35,WILLIAM WALLACE
+WALLACE (Lieutenant),"T2 Rifle(+1 Dam), Light Shotgun, Smoke Grenades","Pistol, EXP CC Weapon",0,35,WILLIAM WALLACE
+SCOT GUARD FTO,Missile Launcher,"Assault Pistol, CC Weapon",1.5,30,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+SCOT GUARD FTO (Lieutenant),Shock Marksman Rifle,"Pistol, CC Weapon",0,25,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+"SCOT GUARD FTO (Forward Observer, NCO)","Submachine Gun(+1B), Panzerfaust, Flash Pulse, D-Charges","Pistol, CC Weapon",0,25,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+"SCOT GUARD (Surprise Attack [-3], Camouflage, NCO)","Submachine Gun(+1B), Panzerfaust, D-Charges","Pistol, CC Weapon",0,29,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+"SCOT GUARD (Surprise Attack [-3], Camouflage)",Missile Launcher,"Assault Pistol, CC Weapon",1.5,35,"The SCOTS GUARDS, 6th Caledonian Infantry Regiment"
+UXÍA McNEILL (Multispectral Visor L1),"Boarding Shotgun, Grenades, Smoke Grenades","Pistol, AP CC Weapon",0,26,"UXÍA 'CHERRY' McNEILL, Corporal of 1st Highlanders S.A.S."
+UXÍA McNEILL (Specialist Operative),"Boarding Shotgun, D-Charges, Smoke Grenades","Assault Pistol(+1B), AP CC Weapon",0,27,"UXÍA 'CHERRY' McNEILL, Corporal of 1st Highlanders S.A.S."
+ISOBEL McGREGOR,"T2 Rifle, D-Charges, E/M Mines, Flash Pulse","Assault Pistol, CC Weapon",0.5,24,VOLUNTEER INTEL ISOBEL McGREGOR
+WARDRIVER (Hacker [Zero Pain]),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,"WARDRIVERS, Mercenary Hackers"
+"WARDRIVER (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",1,14,"WARDRIVERS, Mercenary Hackers"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+112 MOTORIZED,Light Shotgun,"Pistol, CC Weapon",0,18,"112, Emergency Service (Motorized)"
+"""FIRSTSTRIKE"" DONN","T2 Rifle, Grenades","Heavy Pistol, T2 CC Weapon",0,32,"CADIN ""FIRSTSTRIKE"" DONN, Point-man of the Grenadiers Reg."
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

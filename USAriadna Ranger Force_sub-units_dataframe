@@ -1,0 +1,44 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+GRUNT,"Rifle, Grenade Launcher","Pistol, CC Weapon",1,14,"USAriadna GRUNTS, Line Rangers Regiments"
+GRUNT (BS Attack [Shock]),AP Sniper Rifle(+1 Dam),"Pistol, CC Weapon",0.5,20,"USAriadna GRUNTS, Line Rangers Regiments"
+GRUNT (Infiltration),"Heavy Flamethrower, Light Shotgun","Pistol, CC Weapon",0.5,11,"USAriadna GRUNTS, Line Rangers Regiments"
+GRUNT (Forward Observer),"Rifle, Flash Pulse","Pistol, CC Weapon",0,11,"USAriadna GRUNTS, Line Rangers Regiments"
+GRUNT (Paramedic),Rifle | MediKit,"Pistol, CC Weapon",0,12,"USAriadna GRUNTS, Line Rangers Regiments"
+GRUNT (Lieutenant),"Rifle, Grenade Launcher","Pistol, CC Weapon",0,14,"USAriadna GRUNTS, Line Rangers Regiments"
+MINUTEMAN,"Missile Launcher, Light Flamethrower","Heavy Pistol, AP CC Weapon",1.5,29,5th MINUTEMEN 'Ohio'
+"MINUTEMAN (BS Attack [Shock], X Visor)","AP Rifle, Light Flamethrower(+1B)","Heavy Pistol, AP CC Weapon",0,26,5th MINUTEMEN 'Ohio'
+MINUTEMAN (Forward Observer),"AP Rifle, Light Flamethrower(+1B), Flash Pulse","Heavy Pistol, AP CC Weapon",0,25,5th MINUTEMEN 'Ohio'
+MINUTEMAN (NCO),AP Heavy Machine Gun,"Heavy Pistol, AP CC Weapon",1.5,35,5th MINUTEMEN 'Ohio'
+MINUTEMAN (Lieutenant [+1 Command Token]),"Rifle, Light Flamethrower(+1B)","Heavy Pistol, AP CC Weapon",0,24,5th MINUTEMEN 'Ohio'
+FOXTROT,"Sniper Rifle, Shock Mines","Pistol, CC Weapon",0.5,20,7th FOXTROT RANGERS 'Newport'
+FOXTROT (Forward Observer),"Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,18,7th FOXTROT RANGERS 'Newport'
+FOXTROT (Lieutenant),"Rifle, Shock Mines","Pistol, CC Weapon",2,17,7th FOXTROT RANGERS 'Newport'
+HARDCASE FRONTIERSMAN,"Tactical Bow, Rifle","Pistol, CC Weapon",0,14,"HARDCASES, 2nd Irregular FRONTIERSMEN Battalion"
+VAN ZANT,AP Rifle,"Heavy Pistol, AP CC Weapon",0,34,"Roger VAN ZANT, Captain of 6th Airborne Ranger Reg. 'Oklahoma'"
+112 FTO,Light Shotgun,"Pistol, CC Weapon",0,12,"112, Emergency Service"
+DOZER,"Rifle, Akrylat-Kanone | GizmoKit","Pistol, CC Weapon",0,14,"DOZERS, Field Engineers"
+TRAKTOR MUL (Deactivator),,PARA CC Weapon(-3),0,5,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL,Katyusha MRL,PARA CC Weapon(-3),1,9,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL (Total Reaction),Uragan MRL,PARA CC Weapon(-3),1,16,"TRAKTOR MUL, Artillery and Support Regiment"
+WARDRIVER (Hacker [Zero Pain]),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,"WARDRIVERS, Mercenary Hackers"
+"WARDRIVER (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",1,14,"WARDRIVERS, Mercenary Hackers"
+WILD BILL,Rifle,"MULTI Pistol(+1B), CC Weapon",0,25,"WILD BILL, Legendary Gunslinger"
+MAVERICK,"Submachine Gun, Light Rocket Launcher","Pistol, AP CC Weapon",0.5,21,"MAVERICKS, 9th Motorized Recon Bat."
+MAVERICK (Forward Observer),"Rifle, Flash Pulse","Pistol, AP CC Weapon",0,18,"MAVERICKS, 9th Motorized Recon Bat."
+MARAUDER,"Boarding Shotgun, AP Mines","Heavy Pistol, CC Weapon",0,24,"MARAUDERS, 5307th Ranger Unit"
+MARAUDER (Multispectral Visor L1),Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,23,"MARAUDERS, 5307th Ranger Unit"
+MARAUDER (Paramedic),"Rifle, Heavy Flamethrower | MediKit","Heavy Pistol, CC Weapon",0,24,"MARAUDERS, 5307th Ranger Unit"
+MARAUDER (Lieutenant),"Rifle, Heavy Flamethrower","Heavy Pistol, CC Weapon",0,22,"MARAUDERS, 5307th Ranger Unit"
+DEVIL DOG,"Heavy Shotgun, Smoke Grenades || K-9 ANTIPODE",AP CC Weapon,0,33,DEVIL DOG
+AIRBORNE RANGER,Rifle,"Assault Pistol, AP CC Weapon",0,23,6th AIRBORNE RANGERS Reg.
+AIRBORNE RANGER (Forward Observer),"Submachine Gun, Flash Pulse, D-Charges","Pistol, AP CC Weapon",0,20,6th AIRBORNE RANGERS Reg.
+DESPERADO,"Submachine Gun, Smoke Grenades","Heavy Pistol(+1B), AP CC Weapon",0,9,DESPERADOES
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+BLACKJACK,"T2 Sniper Rifle, Submachine Gun, Chest Mines","Heavy Pistol, CC Weapon",1,38,FULL POWER
+UNKNOWN RANGER,"AP Spitfire, Chain-colt","Heavy Pistol, T2 CC Weapon",1,47,THE UNKNOWN RANGER
+ROSIE,"Light Rocket Launcher, Light Shotgun, D-Charges","Pistol, CC Weapon",0,22,Grunt Intel ROSALIND 'ROSIE' MUNROE
+112 MOTORIZED,Light Shotgun,"Pistol, CC Weapon",0,18,"112, Emergency Service (Motorized)"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower, Panzerfaust, AP Mines(+1 Dam)","Heavy Pistol(+1B), DA CC Weapon",0,17,BEASTHUNTERS Free Guild

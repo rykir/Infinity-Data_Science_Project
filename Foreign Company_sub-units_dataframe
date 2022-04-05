@@ -1,0 +1,73 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+AKAL COMMANDO,Spitfire,"Pistol, E/M CC Weapon",1.5,29,"AKALIS, Sikh Commandos"
+"AKAL COMMANDO (Hacker, Hacking Device)",Combi Rifle,"Pistol, E/M CC Weapon",0.5,28,"AKALIS, Sikh Commandos"
+BOLT,Spitfire,"Pistol, CC Weapon",1.5,27,NEOTERRA BOLTS
+BOLT (Chain of Command),"Combi Rifle, Light Shotgun","Pistol, CC Weapon",0,28,NEOTERRA BOLTS
+"BOLT (Hacker, Hacking Device)","Boarding Shotgun, E/M Mines","Pistol, CC Weapon",0.5,27,NEOTERRA BOLTS
+"BOLT (Hacker, Killer Hacking Device)","Boarding Shotgun, E/M Mines","Pistol, CC Weapon",0,25,NEOTERRA BOLTS
+BOLT (Paramedic),"Combi Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,24,NEOTERRA BOLTS
+BOLT (Multispectral Visor L1),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,31,NEOTERRA BOLTS
+BOLT (Lieutenant),"Combi Rifle, Light Shotgun","Pistol, CC Weapon",0,23,NEOTERRA BOLTS
+ORC,Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,30,ORC TROOPS
+"ORC (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,34,ORC TROOPS
+ORC (Lieutenant),Heavy Machine Gun,"Pistol, CC Weapon",1,37,ORC TROOPS
+"ORC Varuna Div. (Stealth], Terrain [Aquatic/Jungle])",Feuerbach,"Pistol, CC Weapon",1.5,39,ORC TROOPS
+"ORC Varuna Div. (Stealth, Terrain [Aquatic/Jungle])",Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,31,ORC TROOPS
+"ORC WinterFor (Terrain [Mountain], Climbing Plus])",MULTI Rifle | TinBot: Firewall [-3],"Pistol, CC Weapon",0,34,ORC TROOPS
+ZERO,"Combi Rifle, E/M Mines | Deployable Repeater","Pistol, CC Weapon",0,20,ZEROS
+"ZERO (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,24,ZEROS
+"ZERO (Hacker, Killer Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0,22,ZEROS
+ZERO (Minelayer),"Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,20,ZEROS
+ZERO (Forward Observer),"Combi Rifle, Shock Mines, Flash Pulse","Pistol, CC Weapon",0,20,ZEROS
+CROC MAN,"MULTI Sniper Rifle, Shock Mines","Pistol, CC Weapon",1.5,32,Paradiso CROC MEN
+"CROC MAN (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,34,Paradiso CROC MEN
+CROC MAN (Minelayer),"Boarding Shotgun, Shock Mines","Pistol, CC Weapon",0.5,30,Paradiso CROC MEN
+CROC MAN (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines | Deployable Repeater","Pistol, CC Weapon",0,31,Paradiso CROC MEN
+DAKTARI,Combi Rifle | MediKit,"Pistol, CC Weapon",0,14,"DAKTARIS (Daks, Campaign Doctors)"
+BRAWLER,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,16,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Multispectral Visor L2),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,27,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Hacker, Hacking Device)",Submachine Gun,"Pistol, CC Weapon",0.5,17,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Engineer, Deactivator)","Rifle, Light Shotgun, D-Charges | GizmoKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Doctor),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,"BRAWLERS, Mercenary Enforcers"
+CLOCKMAKER,"Combi Rifle, D-Charges | GizmoKit [+1B]","Pistol, CC Weapon",0,18,Bakunin CLOCKMAKERS
+IGUANA,"Heavy Machine Gun, Heavy Flamethrower",CC Weapon,1.5,65,'IGUANA' SQUADRON
+PATHFINDER DRONBOT,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,PATHFINDER DRONBOTS
+SIERRA DRONBOT,Heavy Machine Gun,PARA CC Weapon(-3),1,24,'SIERRA' DRONBOTS
+CLIPPER DRONBOT,Missile Launcher,PARA CC Weapon(-3),1.5,16,'CLIPPER' DRONBOTS
+FUGAZI DRONBOT,Flash Pulse,PARA CC Weapon(-3),0,7,FUGAZI DRONBOTS
+CSU,Boarding Shotgun,"Pistol, PARA CC Weapon(-6)",0,12,"CSU, Corporate Security Unit"
+CSU (Specialist Operative),"Breaker Combi Rifle, Nanopulser(+1B)","Pistol, PARA CC Weapon(-6)",0,15,"CSU, Corporate Security Unit"
+SEÑOR MASSACRE,"Boarding Shotgun, Eclipse Grenades, E/M Grenades","Pistol, E/M CC Weapon, Shock CC Weapon",0,26,SEÑOR MASSACRE
+AVICENNA,"Combi Rifle, Flash Pulse","Pistol, CC Weapon",0,27,"AVICENNA, Mercenary Doctor"
+CHIMERA,"Combi Rifle, Nanopulser, Eclipse Grenades || 3x PUPNIK","Viral CC Weapon, Pistol",0,20,CHIMERA
+ZONDBOT,,PARA CC Weapon(-3),0,3,ZONDBOTS
+PEACEMAKER,Spitfire || AUXBOT_3,PARA CC Weapon(-3),1,26,PEACEMAKER ARMBOTS
+KAPLAN,Spitfire,"Pistol, CC Weapon",1,28,KAPLAN TACTICAL SERVICES (KTS)
+"KAPLAN (Engineer, Deactivator)","Combi Rifle, Adhesive Launcher, D-Charges | GizmoKit","Pistol, CC Weapon",0,27,KAPLAN TACTICAL SERVICES (KTS)
+KAPLAN (Doctor),"Combi Rifle, Blitzen | MediKit","Pistol, CC Weapon",0,27,KAPLAN TACTICAL SERVICES (KTS)
+KAPLAN (Specialist Operative),"Combi Rifle, Blitzen","Pistol, CC Weapon",0,24,KAPLAN TACTICAL SERVICES (KTS)
+"MULEBOT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,MULEBOTS
+"MULEBOT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,MULEBOTS
+"MULEBOT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,MULEBOTS
+VALKYRIE,"MULTI Rifle, Grenades","Heavy Pistol, EXP CC Weapon",0,37,"VALKYRIE, Elite Bodyguard"
+LAXMEE (Hacker),"Submachine Gun, Pitcher, Cybermines, D-Charges","Pistol, CC Weapon",0.5,24,"LAXMEE, Hacker of Fortune"
+HANNIBAL (Chain of Command),"MULTI Marksman Rifle, Nanopulser","Pistol, CC Weapon",0,35,"HANNIBAL, Mercenary Team Leader"
+"HANNIBAL (Chain of Command, Strategic Deployment)",Boarding Shotgun,"Pistol, CC Weapon",0,36,"HANNIBAL, Mercenary Team Leader"
+"HANNIBAL (Lieutenant, Strategic Deployment, Strategos L1)","MULTI Marksman Rifle, Nanopulser","Pistol, CC Weapon",0.5,38,"HANNIBAL, Mercenary Team Leader"
+WILD BILL,Rifle,"MULTI Pistol(+1B), CC Weapon",0,25,"WILD BILL, Legendary Gunslinger"
+SECURITATE,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,20,SECURITATE
+SECURITATE (Repeater),Combi Rifle,"Pistol, CC Weapon",0,16,SECURITATE
+"SECURITATE (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,18,SECURITATE
+SECURITATE (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,15,SECURITATE
+SECURITATE (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,13,SECURITATE
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+KRIZA BORAC,Heavy Machine Gun,"Heavy Pistol, CC Weapon",1.5,54,"KRIZA BORACS, Special Crisis Unit"
+KRIZA BORAC (360º Visor),"Mk12, Submachine Gun","Heavy Pistol, CC Weapon",0,57,"KRIZA BORACS, Special Crisis Unit"
+KRIZA BORAC (Lieutenant),Heavy Machine Gun,"Heavy Pistol, CC Weapon",1.5,54,"KRIZA BORACS, Special Crisis Unit"
+"KRIZA BORAC (Lieutenant, 360º Visor)","Mk12, Submachine Gun","Heavy Pistol, CC Weapon",0,57,"KRIZA BORACS, Special Crisis Unit"
+CUBE JÄGER (Paramedic),Boarding Shotgun,"Pistol, Monofilament CC Weapon",0.5,21,"Cube Jäger, Mercenary Recoverers"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,15,BEASTHUNTERS Free Guild

@@ -1,0 +1,23 @@
+,Name,Sectorial,Type,Classification,MOV,CC,BS,PH,WIP,ARM,BTS,W,S,AVA,Equipment,Special Skills,Characteristics
+0,USAriadna Grunts,opcionSectorial_304,MI,Garrison Troops,4-2,14,11,11,12,3,0,1,2,Total,[''],['Immunity ( Shock )'],['Regular']
+1,Minutemen,opcionSectorial_304,HI,Veteran Troops,4-4,20,13,13,12,3,0,1,2,5,[''],"['Dodge ( +1"" )', 'Immunity ( Shock )', 'Terrain ( Total )', 'CC Attack ( -3 )']",['Regular']
+2,Foxtrot Rangers,opcionSectorial_304,SK,Spec. Trained Troops,4-4,14,11,13,13,0,0,1,2,4,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Infiltration', 'Mimetism ( -3 )', 'Stealth', 'Terrain ( Total )']",['Regular']
+3,Hardcases,opcionSectorial_304,SK,Spec. Trained Troops,4-4,15,11,13,12,0,0,1,2,3,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Infiltration', 'Mimetism ( -3 )', 'Terrain ( Total )', 'Decoy ( 1 )', 'Stealth']",['Irregular']
+4,Van Zant,opcionSectorial_304,LI,Character,4-4,22,13,13,14,2,0,1,2,1,[''],"['Martial Arts L2', 'Courage', 'Dodge ( +1"" )', 'Parachutist ( Dep. Zone )', 'NCO', 'Dogged', 'Stealth']",['Regular']
+5,"112, Emergency Service",opcionSectorial_304,LI,Support Troops,4-4,16,11,12,13,0,0,1,2,2,['MediKit'],"['Doctor', 'Courage']",['Regular']
+6,"Dozers, Field Engineers",opcionSectorial_304,LI,Support Troops,4-4,14,11,11,13,1,0,1,2,1,['Deactivator'],"['Courage', 'Engineer']",['Regular']
+7,Traktor Mul,opcionSectorial_304,REM,Support Troops,4-4,13,10,9,12,2,0,1,4,2,"['Baggage', 'ECM: Guided ( -6 )']","['Remote Presence', 'Courage', 'Immunity ( Shock )', 'BS Attack ( Guided )']","['Regular', 'Hackable']"
+8,"Wardrivers, Merc. Hackers",opcionSectorial_304,LI,Mercenary Troops,4-4,13,11,10,13,0,3,1,2,1,[''],['Sixth Sense'],"['Cube', 'Regular']"
+9,"Wild Bill, Legendary Gunslinger",opcionSectorial_304,LI,Character,6-2,15,13,11,13,1,0,1,2,1,[''],"['BS Attack ( +1 Dam )', 'BS Attack ( Shock )', 'Courage', 'Dodge ( +3 )', 'Marksmanship', 'No Wound Incapacitation']","['Cube', 'Regular']"
+10,Mavericks,opcionSectorial_304,MI,Spec. Trained Troops,8-4,18,12,12,13,3,0,1,4,5,"['Motorcycle', 'Multispectral Visor L1', 'Smoke Grenade Launcher']","['Dodge ( +1"" )', 'Impetuous']","['Regular', 'Impetuous']"
+11,"Marauders, 5307th Ranger Unit",opcionSectorial_304,MI,Veteran Troops,4-4,15,12,12,13,3,0,1,2,5,[''],"['Forward Deployment ( +4"" )', 'Stealth', 'Terrain ( Jungle )', 'Dogged']",['Regular']
+12,Devil Dog Teams,opcionSectorial_304,WB,Support Troops,6-4,23,10,16,12,4,0,2,6,3,[''],"['Courage', 'Immunity ( Total )', 'Super-Jump', 'Terrain ( Aquatic )', 'Vulnerability ( Viral )', 'Impetuous']","['Irregular', 'Impetuous']"
+13,6th AIRBORNE RANGERS Reg.,opcionSectorial_304,LI,Spec. Trained Troops,4-4,22,12,12,13,1,0,1,2,4,[''],"['Martial Arts L2', 'Courage', 'Dodge ( +1"" )', 'Parachutist', 'Stealth', 'Terrain ( Jungle )']",['Regular']
+14,Desperadoes,opcionSectorial_304,WB,Spec. Trained Troops,8-4,21,11,13,13,1,0,1,4,6,"['Motorcycle', 'Smoke Grenade Launcher']","['Courage', 'Dodge ( +1"" )', 'Sixth Sense', 'Impetuous']","['Irregular', 'Impetuous']"
+15,"Warcors, War Correspondents",opcionSectorial_304,LI,Mercenary Troops,4-4,11,9,11,13,0,0,1,2,1,[''],['Journalist L1 ( +3 )'],"['Cube', 'Irregular']"
+16,Blackjacks,opcionSectorial_304,HI,Headquarters Troops,4-4,15,13,14,13,5,3,1,5,3,[''],"['Courage', 'Dodge ( PH=9 )', 'Immunity ( Shock )', 'Transmutation ( W )']","['Regular', 'Hackable']"
+17,The Unknown Ranger,opcionSectorial_304,LI,Character,6-2,23,13,13,13,4,0,1,2,1,['Multispectral Visor L1'],"['Martial Arts L2', 'Courage', 'Dodge ( +1"" )', 'Natural Born Warrior', 'Immunity ( Shock )', 'Mimetism ( -3 )', 'Specialist Operative', 'Tactical Awareness', 'Stealth', 'No Wound Incapacitation']",['Regular']
+18,Grunt Intel Rosalind 'Rosie' Munroe,opcionSectorial_304,MI,Character,4-4,14,12,11,13,3,0,1,2,1,[''],"['Courage', 'Forward Deployment ( +4"" )', 'Immunity ( Shock )', 'Specialist Operative', 'Dogged']",['Regular']
+19,"112, Emergency Service (Motorized)",opcionSectorial_304,LI,Support Troops,8-4,16,11,12,13,0,0,1,4,2,"['MediKit', 'Motorcycle', 'Smoke Grenade Launcher']","['Doctor', 'Courage']",['Regular']
+20,ITS BIKE RECON Motorized Bounty Hunters,opcionSectorial_304,LI,Mercenary Troops,8-6,17,12,10,13,1,3,1,4,1,['Motorcycle'],"['Booty ( ReRoll )', 'Dodge ( +2"" )', 'Impetuous']","['Cube', 'Irregular', 'Impetuous']"
+21,Beasthunters Free Guild,opcionSectorial_304,LI,Mercenary Troops,4-4,21,11,13,12,0,0,1,2,1,[''],"['CC Attack ( +2 Dam )', 'Natural Born Warrior', 'Mimetism ( -3 )', 'Stealth', 'Super-Jump', 'Terrain ( Total )', 'Religious Troop']","['Cube', 'Irregular']"

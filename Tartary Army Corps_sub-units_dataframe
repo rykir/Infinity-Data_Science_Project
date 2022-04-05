@@ -1,0 +1,58 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+LINE KAZAK,Missile Launcher,"Pistol, CC Weapon",1.5,17,LINE KAZAKS
+LINE KAZAK (Forward Observer),"Rifle, Flash Pulse","Pistol, CC Weapon",0,10,LINE KAZAKS
+LINE KAZAK (Paramedic),Rifle | MediKit,"Pistol, CC Weapon",0,11,LINE KAZAKS
+LINE KAZAK (Lieutenant),Rifle,"Pistol, CC Weapon",0,9,LINE KAZAKS
+DYNAMO,AP Spitfire,"Pistol, CC Weapon",1,24,DYNAMO Reg. of Kazak Light Cavalry
+DYNAMO (Forward Observer),"Rifle, Flash Pulse","Assault Pistol, CC Weapon",0.5,18,DYNAMO Reg. of Kazak Light Cavalry
+DYNAMO (Paramedic),Boarding Shotgun | MediKit,"Pistol, CC Weapon",0.5,19,DYNAMO Reg. of Kazak Light Cavalry
+"SPETSNAZ (Surprise Attack [-3], Camouflage, Mimetism [-3], Decoy [1])",Heavy Machine Gun,"Pistol, AP CC Weapon",1.5,38,KAZAK SPETSNAZS
+"SPETSNAZ (Surprise Attack [-3], Camouflage], Mimetism [-3], Decoy [1])",AP Sniper Rifle,"Pistol, AP CC Weapon",1.5,34,KAZAK SPETSNAZS
+"SPETSNAZ (Mimetism [-3], Parachutist])","AP Rifle, Grenades, D-Charges","Pistol, AP CC Weapon",0,30,KAZAK SPETSNAZS
+FRONTOVIK,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,21,"FRONTOVIKS, Separate Assault Bat."
+"FRONTOVIK (Engineer, Deactivator)","T2 Rifle, Light Rocket Launcher, D-Charges","Assault Pistol, CC Weapon",0.5,29,"FRONTOVIKS, Separate Assault Bat."
+FRONTOVIK (Paramedic),T2 Rifle | MediKit,"Assault Pistol, CC Weapon",0,24,"FRONTOVIKS, Separate Assault Bat."
+FRONTOVIK (Multispectral Visor L1),AP Sniper Rifle,"Assault Pistol, CC Weapon",0.5,30,"FRONTOVIKS, Separate Assault Bat."
+FRONTOVIK (Lieutenant),T2 Rifle,"Assault Pistol, CC Weapon",0,22,"FRONTOVIKS, Separate Assault Bat."
+TANKHUNTER,"Missile Launcher, AP Mines","Pistol, CC Weapon",1.5,33,TANKHUNTERS Regiment
+TANKHUNTER (Lieutenant),"AP Rifle, Adhesive Launcher, AP Mines","Pistol, CC Weapon",0,28,TANKHUNTERS Regiment
+TANKHUNTER (Chain of Command),"AP Rifle, Adhesive Launcher, AP Mines","Pistol, CC Weapon",0,33,TANKHUNTERS Regiment
+VETERAN KAZAK,Boarding Shotgun,"Heavy Pistol, CC Weapon",0,36,VETERAN KAZAKS
+VETERAN KAZAK (Paramedic),"T2 Rifle, Light Flamethrower | MediKit","Heavy Pistol, CC Weapon",0,39,VETERAN KAZAKS
+VETERAN KAZAK (Forward Observer),"T2 Rifle, Light Flamethrower, Flash Pulse","Heavy Pistol, CC Weapon",0,38,VETERAN KAZAKS
+VETERAN KAZAK (Lieutenant),AP Heavy Machine Gun,"Heavy Pistol, CC Weapon",1,46,VETERAN KAZAKS
+VETERAN KAZAK (X Visor),"T2 Rifle, Light Flamethrower","Heavy Pistol, CC Weapon",0,39,VETERAN KAZAKS
+SCOUT,"AP Sniper Rifle, Shock Mines","Pistol, CC Weapon",1,25,Ariadna SCOUTS
+SCOUT (Minelayer),"Ohotnik, D-Charges, Shock Mines","Pistol, CC Weapon",0.5,30,Ariadna SCOUTS
+SCOUT (Forward Observer),"Ohotnik, D-Charges, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,30,Ariadna SCOUTS
+SCOUT (Lieutenant),"Ohotnik, D-Charges, Shock Mines","Pistol, CC Weapon",0,29,Ariadna SCOUTS
+IRMANDINHO,"Submachine Gun, D-Charges, Smoke Grenades","Pistol, AP CC Weapon",0,13,IRMANDINHOS
+HANDLER,"Rifle, Smoke Grenade Launcher || 3x ANTIPODE","Pistol, CC Weapon",0,27,ANTIPODE ASSAULT PACK HANDLER
+DOG-WARRIOR,"Chain Rifle(+1B), Grenades, Smoke Grenades",AP CC Weapon,0,24,DOGFACE FORM
+KAZAK DOKTOR,Rifle,"Pistol, CC Weapon",0,13,KAZAK DOKTOR
+VASSILY (Chain of Command),"T2 Sniper Rifle, D-Charges","Heavy Pistol, CC Weapon",1,40,"VASSILY PLUSHENKO, TankHunters Officer"
+"VASSILY (Lieutenant, Forward Observer)","T2 Sniper Rifle, D-Charges","Heavy Pistol, CC Weapon",1,36,"VASSILY PLUSHENKO, TankHunters Officer"
+PAVEL McMANNUS,"Ohotnik, Chain-colt, Shock Mines, D-Charges","Pistol, T2 CC Weapon",0,32,"PAVEL ALEKSEI McMANNUS, Spetsgruppa G"
+CARMEN,"Chain Rifle(+1B), Smoke Grenades || BÂTARD","Heavy Pistol(+1B), DA CC Weapon",0,17,"CARMEN JOHNS, Mercenary Biker"
+112 FTO,Light Shotgun,"Pistol, CC Weapon",0,12,"112, Emergency Service"
+DOZER,"Rifle, Akrylat-Kanone | GizmoKit","Pistol, CC Weapon",0,14,"DOZERS, Field Engineers"
+TRAKTOR MUL (Deactivator),,PARA CC Weapon(-3),0,5,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL,Katyusha MRL,PARA CC Weapon(-3),1,9,"TRAKTOR MUL, Artillery and Support Regiment"
+TRAKTOR MUL (Total Reaction),Uragan MRL,PARA CC Weapon(-3),1,16,"TRAKTOR MUL, Artillery and Support Regiment"
+WARDRIVER (Hacker [Zero Pain]),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,"WARDRIVERS, Mercenary Hackers"
+"WARDRIVER (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",1,14,"WARDRIVERS, Mercenary Hackers"
+COLONEL VORONIN,T2 Boarding Shotgun,"Pistol, AP CC Weapon",0,21,"Col. YEVGUENI VORONIN, Cossack Diplomatic Corps"
+"COLONEL VORONIN (Lieutenant [+1 Command Token], Strategos L1)",T2 Boarding Shotgun,"AP CC Weapon, Pistol",0,26,"Col. YEVGUENI VORONIN, Cossack Diplomatic Corps"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+STRELOK,"Submachine Gun, Chain-colt, Shock Mines","Pistol, CC Weapon",0,16,"STRELOKS, Kazak Reconaissance Unit"
+STRELOK K-9,"Submachine Gun, Chain-colt, Shock Mines || K-9 ANTIPODE","Pistol, CC Weapon",0,24,"STRELOKS, Kazak Reconaissance Unit"
+STRELOK (Minelayer),"Boarding Shotgun, Shock Mines","Pistol, CC Weapon",0.5,21,"STRELOKS, Kazak Reconaissance Unit"
+STRELOK (Forward Observer),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,20,"STRELOKS, Kazak Reconaissance Unit"
+RATNIK,"Heavy Rocket Launcher(+1B), Heavy Shotgun","Heavy Pistol, Trench-Hammer, CC Weapon",1.5,47,Armata-2 Proyekt 'RATNIK'
+112 MOTORIZED,Light Shotgun,"Pistol, CC Weapon",0,18,"112, Emergency Service (Motorized)"
+TM KURYER,"Katyusha MRL, Shock Mines",PARA CC Weapon(-3),1,12,TRAKTOR MUL KURYER Mobile Artillery Regiment
+TM KURYER (Total Reaction),"Uragan MRL, Shock Mines",PARA CC Weapon(-3),1,19,TRAKTOR MUL KURYER Mobile Artillery Regiment
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower, Panzerfaust, AP Mines(+1 Dam)","Heavy Pistol(+1B), DA CC Weapon",0,17,BEASTHUNTERS Free Guild

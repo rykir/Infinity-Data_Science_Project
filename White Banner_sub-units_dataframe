@@ -1,0 +1,78 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+ZHANSHI,Missile Launcher,"Pistol, CC Weapon",1.5,16,ZHANSHI
+"ZHANSHI (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,16,ZHANSHI
+ZHANSHI (Forward Observer),"Combi Rifle, Flash Pulse","Pistol, CC Weapon",0,12,ZHANSHI
+ZHANSHI (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,13,ZHANSHI
+ZHANSHI (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,11,ZHANSHI
+TIGER SOLDIER,Spitfire,"Pistol, CC Weapon",1.5,34,TIGER SOLDIERS
+"TIGER SOLDIER (Hacker, Hacking Device)","Combi Rifle, Light Flamethrower","Pistol, CC Weapon",0.5,34,TIGER SOLDIERS
+TIGER SOLDIER (Paramedic),"Combi Rifle, Light Flamethrower | MediKit","Pistol, CC Weapon",0,31,TIGER SOLDIERS
+DÀOFĚI,"Spitfire, D-Charges","Pistol, Shock CC Weapon",1.5,55,DÀOFĚI Tactical Section
+"DÀOFĚI (Hacker, Hacking Device)","MULTI Rifle, D-Charges","Pistol, Shock CC Weapon",0.5,56,DÀOFĚI Tactical Section
+DÀOFĚI (Lieutenant),"Spitfire, D-Charges","Pistol, Shock CC Weapon",1.5,55,DÀOFĚI Tactical Section
+"DÀOFĚI (Lieutenant, Hacker, Hacking Device)","MULTI Rifle, D-Charges","Pistol, Shock CC Weapon",0.5,56,DÀOFĚI Tactical Section
+GŪIJIĂ,"MULTI Heavy Machine Gun, Heavy Flamethrower",DA CC Weapon,1.5,82,GŪIJIĂ Squadrons
+GŪIJIĂ (Lieutenant),"MULTI Heavy Machine Gun, Heavy Flamethrower",DA CC Weapon,2,82,GŪIJIĂ Squadrons
+GŬILÁNG,"MULTI Sniper Rifle, Shock Mines","Pistol, CC Weapon",1.5,32,GŬILÁNG Skirmishers
+"GŬILÁNG (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,30,GŬILÁNG Skirmishers
+GŬILÁNG (Minelayer),"Boarding Shotgun, Shock Mines | Deployable Repeater","Pistol, CC Weapon",0.5,27,GŬILÁNG Skirmishers
+GŬILÁNG (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,26,GŬILÁNG Skirmishers
+GŬILÁNG (Lieutenant),"Combi Rifle, Shock Mines","Pistol, CC Weapon",1,25,GŬILÁNG Skirmishers
+SHAOLIN,"Combi Rifle, Smoke Grenade Launcher","Pistol, Shock CC Weapon",0.5,10,SHAOLIN Warrior Monks
+Zhanshi YĪSHĒNG,Combi Rifle,"Pistol, CC Weapon",0,15,Zhanshi YĪSHĒNG
+MECH-ENGINEER,"Combi Rifle, D-Charges","Pistol, CC Weapon",0,15,MECH-ENGINEERS (Zhanshi Gōngchéng)
+WÈIBĪNG Yaókòng,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,WÈIBĪNG Yáokòng (Guardian Remote)
+HÙSÒNG Yaókòng,Heavy Machine Gun,PARA CC Weapon(-3),1,24,HÙSÒNG Yáokòng (Escort Remote)
+SON-BAE Yaókòng,Missile Launcher,PARA CC Weapon(-3),1.5,16,SON-BAE Yáokòng
+CHAĪYÌ Yaókòng,Flash Pulse,PARA CC Weapon(-3),0,7,CHAĪYÌ Yáokòng (Messenger Remote)
+SHÀNG JÍ,"Heavy Machine Gun, Chain-colt | TinBot: Firewall [-6]","Pistol, Shock CC Weapon",1.5,44,SHÀNG JÍ INVINCIBLES
+"SHÀNG JÍ (Hacker, Hacking Device)","MULTI Rifle, Chain-colt","Pistol, Shock CC Weapon",0.5,41,SHÀNG JÍ INVINCIBLES
+"SHÀNG JÍ (Forward Observer, Tactical Awareness)","MULTI Rifle, Chain-colt, Flash Pulse","Pistol, Shock CC Weapon",0,40,SHÀNG JÍ INVINCIBLES
+SHÀNG JÍ (Tactical Awareness),"Heavy Rocket Launcher, Light Shotgun","Pistol, Shock CC Weapon",1.5,38,SHÀNG JÍ INVINCIBLES
+SHÀNG JÍ (Paramedic),"MULTI Rifle, Chain-colt | MediKit","Pistol, Shock CC Weapon",0,38,SHÀNG JÍ INVINCIBLES
+SHÀNG JÍ (Lieutenant),"Heavy Machine Gun, Chain-colt | TinBot: Firewall [-6]","Pistol, Shock CC Weapon",1,44,SHÀNG JÍ INVINCIBLES
+RUI SHI,Spitfire,PARA CC Weapon(-3),1,23,Yáoxiè RUI SHI
+LÙ DUĀN,"Mk12, Heavy Flamethrower(+1B) | Deployable Repeater",PARA CC Weapon(-3),0,24,Yáoxiè LÙ DUĀN
+YÁOZĂO,,PARA CC Weapon(-3),0,3,YÁOZĂO
+"PANGGULING (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,Yáopú PANGGULING
+"PANGGULING (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,Yáopú PANGGULING
+"PANGGULING (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,Yáopú PANGGULING
+PANGGULING FTO (Repeater),Light Shotgun,PARA CC Weapon(-3),0,12,Yáopú PANGGULING
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+HÙNDÙN (Multispectral Visor L1),Shock Marksman Rifle,"Pistol, CC Weapon",0.5,31,HÙNDÙN Ambush Unit
+HÙNDÙN,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,34,HÙNDÙN Ambush Unit
+HÙNDÙN (X Visor),Heavy Rocket Launcher,"Pistol, CC Weapon",1.5,27,HÙNDÙN Ambush Unit
+YĚ MĀO,"Missile Launcher, Chain-colt","Pistol, CC Weapon",1.5,29,YĚ MĀO Infantry
+"YĚ MĀO (Hacker, Hacking Device)","MULTI Rifle, Chain-colt","Pistol, CC Weapon",0.5,31,YĚ MĀO Infantry
+"YĚ MĀO (Hacker, Killer Hacking Device)","MULTI Rifle, Chain-colt","Pistol, CC Weapon",0,29,YĚ MĀO Infantry
+"YĚ MĀO (Engineer, Deactivator)","MULTI Rifle, Chain-colt, Panzerfaust, D-Charges | GizmoKit","Pistol, CC Weapon",0,31,YĚ MĀO Infantry
+YĚ MĀO (Forward Observer),"MULTI Rifle, Chain-colt, Panzerfaust, Flash Pulse","Pistol, CC Weapon",0,28,YĚ MĀO Infantry
+JUJAK,"Boarding Shotgun, Panzerfaust | TinBot: Firewall [-6]","Pistol, CC Weapon",0,28,"JUJAK Regiment, Korean Shock Infantry"
+"JUJAK (Engineer, Deactivator)","Boarding Shotgun, Panzerfaust, D-Charges | GizmoKit","Pistol, CC Weapon",0,30,"JUJAK Regiment, Korean Shock Infantry"
+JUJAK (Lieutenant),"Combi Rifle, Heavy Flamethrower","Pistol, CC Weapon",0,26,"JUJAK Regiment, Korean Shock Infantry"
+BLUE WOLF,"AP Spitfire, Heavy Flamethrower, Panzerfaust",DA CC Weapon,1.5,71,BLUE WOLF Mongol Cavalry
+LÉI GŌNG,"Shock Marksman Rifle, Nanopulser, Blitzen","Breaker Pistol, CC Weapon",0,34,"LÉI GŌNG, Invincibles Lord of Thunder"
+LÉI GŌNG (Chain of Command),"Submachine Gun, Nanopulser, Blitzen","Breaker Pistol, CC Weapon",0,32,"LÉI GŌNG, Invincibles Lord of Thunder"
+QIANG GĀO,"Heavy Machine Gun, Nanopulser","Breaker Pistol(+1B), CC Weapon",1.5,45,"Captain QIANG GĀO, Invincibles Officer"
+QIANG GĀO (Lieutenant [+1 Order]),"Heavy Machine Gun, Nanopulser","Breaker Pistol(+1B), CC Weapon",1.5,49,"Captain QIANG GĀO, Invincibles Officer"
+JING QO,"MULTI Rifle, Chain-colt","AP + DA CC Weapon, Breaker Pistol",0,36,"JING QO, the Shadow of Huangdi"
+LIANG KAI,"Chain Rifle, Light Shotgun, Flash Pulse","Pistol, EXP CC Weapon",0,21,"LIANG KAI, Wandering Shaolin Monk"
+OKTAVIA,"Missile Launcher, Contender","Heavy Pistol, CC Weapon",1.5,28,"OKTAVIA GRÍMSDÓTTIR, Icebreaker's Harpooner"
+KUNAI NINJA,MULTI Sniper Rifle,"Pistol, Shock CC Weapon",1.5,34,KUNAI SOLUTIONS Ninjas
+"KUNAI NINJA (Forward Deployment [+4""])",Shock Marksman Rifle,"Pistol, Shock CC Weapon",0.5,31,KUNAI SOLUTIONS Ninjas
+"ADIL (Specialist Operative, Veteran)","Breaker Combi Rifle, Nanopulser(+1B)","Pistol, Monofilament CC Weapon, PARA CC Weapon(-6)",0,32,"Imperial Agent ADIL MEHMUT, Special Division"
+ADIL (Chain of Command),"Breaker Combi Rifle, Nanopulser(+1B)","Pistol, Monofilament CC Weapon, PARA CC Weapon(-6)",0,35,"Imperial Agent ADIL MEHMUT, Special Division"
+TIAN GǑU FTO,"Boarding Shotgun, Grenades, Jammer","Pistol, CC Weapon",0,23,"TIAN GǑU, Orbital Activity Squad"
+"TIAN GǑU FTO (Hacker, Killer Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0,23,"TIAN GǑU, Orbital Activity Squad"
+"TIAN GǑU (Surprise Attack [-3], Minelayer], Holoprojector)","Red Fury, Madtraps","Pistol, CC Weapon",1,29,"TIAN GǑU, Orbital Activity Squad"
+"TIAN GǑU (Surprise Attack [-3], Minelayer, Hacker], Killer Hacking Device, Holoprojector)","Combi Rifle, Nanopulser, Madtraps","Pistol, CC Weapon",0,27,"TIAN GǑU, Orbital Activity Squad"
+LÓNG YÁ,"Panzerfaust(+1B), Flammenspeer(+1B), AP Mines, Heavy Shotgun",PARA CC Weapon(-3),0,21,Yáofáng LÓNG YÁ
+LÓNG YÁ (Minelayer),"Panzerfaust(+1B), Flammenspeer(+1B), Submachine Gun, AP Mines",PARA CC Weapon(-3),0.5,17,Yáofáng LÓNG YÁ
+CHIEF JEONG,"K1 Combi Rifle, AP Mines, D-Charges","Pistol, CC Weapon",0,29,Chief Mech-Engineer CHUNG-HEE JEONG
+ADIL CRANE RANK,"Breaker Combi Rifle, Nanopulser","Pistol, Monofilament CC Weapon",0,45,Imperial Agent ADIL MEHMUT (Crane Rank Armor)
+ADIL CRANE RANK (Lieutenant),"Breaker Combi Rifle, Nanopulser","Pistol, Monofilament CC Weapon",0,43,Imperial Agent ADIL MEHMUT (Crane Rank Armor)
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+SO-RA KWON,"Combi Rifle(Shock), Heavy Flamethrower, E/M Mines | TinBot: Firewall [-6]","Breaker Pistol, CC Weapon",0,35,"Sergeant SO-RA KWON, Jujak Regiment"
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower, Panzerfaust, AP Mines","EXP CC Weapon(+1B), Pistol",0,17,BEASTHUNTERS Free Guild

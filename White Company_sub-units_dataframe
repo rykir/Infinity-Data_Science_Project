@@ -1,0 +1,78 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+FUSILIER,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,17,FUSILIERS
+"FUSILIER (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,15,FUSILIERS
+FUSILIER (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,12,FUSILIERS
+FUSILIER (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,12,FUSILIERS
+FUSILIER (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,10,FUSILIERS
+NISSE,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,33,Svalarheima NISSES
+"NISSE (Hacker, Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0.5,33,Svalarheima NISSES
+NISSE (Paramedic),"Combi Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,30,Svalarheima NISSES
+NISSE (Lieutenant),"Combi Rifle, Light Shotgun","Pistol, CC Weapon",1,28,Svalarheima NISSES
+TIGER SOLDIER,Spitfire,"Pistol, CC Weapon",1.5,34,TIGER SOLDIERS
+"TIGER SOLDIER (Hacker, Hacking Device)","Combi Rifle, Light Flamethrower","Pistol, CC Weapon",0.5,34,TIGER SOLDIERS
+TIGER SOLDIER (Paramedic),"Combi Rifle, Light Flamethrower | MediKit","Pistol, CC Weapon",0,31,TIGER SOLDIERS
+ORC,Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,30,ORC TROOPS
+"ORC (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,34,ORC TROOPS
+ORC (Lieutenant),Heavy Machine Gun,"Pistol, CC Weapon",1,37,ORC TROOPS
+"ORC Varuna Div. (Stealth], Terrain [Aquatic/Jungle])",Feuerbach,"Pistol, CC Weapon",1.5,39,ORC TROOPS
+"ORC Varuna Div. (Stealth, Terrain [Aquatic/Jungle])",Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,31,ORC TROOPS
+"ORC WinterFor (Terrain [Mountain], Climbing Plus])",MULTI Rifle | TinBot: Firewall [-3],"Pistol, CC Weapon",0,34,ORC TROOPS
+GŪIJIĂ,"MULTI Heavy Machine Gun, Heavy Flamethrower",DA CC Weapon,1.5,82,GŪIJIĂ Squadrons
+GŪIJIĂ (Lieutenant),"MULTI Heavy Machine Gun, Heavy Flamethrower",DA CC Weapon,2,82,GŪIJIĂ Squadrons
+GŬILÁNG,"MULTI Sniper Rifle, Shock Mines","Pistol, CC Weapon",1.5,32,GŬILÁNG Skirmishers
+"GŬILÁNG (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,30,GŬILÁNG Skirmishers
+GŬILÁNG (Minelayer),"Boarding Shotgun, Shock Mines | Deployable Repeater","Pistol, CC Weapon",0.5,27,GŬILÁNG Skirmishers
+GŬILÁNG (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,26,GŬILÁNG Skirmishers
+GŬILÁNG (Lieutenant),"Combi Rifle, Shock Mines","Pistol, CC Weapon",1,25,GŬILÁNG Skirmishers
+Zhanshi YĪSHĒNG,Combi Rifle,"Pistol, CC Weapon",0,15,Zhanshi YĪSHĒNG
+MECH-ENGINEER,"Combi Rifle, D-Charges","Pistol, CC Weapon",0,15,MECH-ENGINEERS (Zhanshi Gōngchéng)
+VARANGIAN,"Submachine Gun, Chain Rifle, Smoke Grenades","Heavy Pistol, Trench-Hammer",0,13,VARANGIAN GUARD
+PATHFINDER DRONBOT,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,PATHFINDER DRONBOTS
+SIERRA DRONBOT,Heavy Machine Gun,PARA CC Weapon(-3),1,24,'SIERRA' DRONBOTS
+CLIPPER DRONBOT,Missile Launcher,PARA CC Weapon(-3),1.5,16,'CLIPPER' DRONBOTS
+FUGAZI DRONBOT,Flash Pulse,PARA CC Weapon(-3),0,7,FUGAZI DRONBOTS
+CSU,Boarding Shotgun,"Pistol, PARA CC Weapon(-6)",0,12,"CSU, Corporate Security Unit"
+CSU (Specialist Operative),"Breaker Combi Rifle, Nanopulser(+1B)","Pistol, PARA CC Weapon(-6)",0,15,"CSU, Corporate Security Unit"
+VALERYA GROMOZ (Hacker),"Combi Rifle, Zapper, Pitcher","Pistol, CC Weapon",0.5,21,"VALERYA GROMOZ, Mercenary Hacker"
+BULLETEER,Spitfire,PARA CC Weapon(-3),1,23,BULLETEER ARMBOTS
+PEACEMAKER,Spitfire || AUXBOT_3,PARA CC Weapon(-3),1,26,PEACEMAKER ARMBOTS
+KAPLAN,Spitfire,"Pistol, CC Weapon",1,28,KAPLAN TACTICAL SERVICES (KTS)
+"KAPLAN (Engineer, Deactivator)","Combi Rifle, Adhesive Launcher, D-Charges | GizmoKit","Pistol, CC Weapon",0,27,KAPLAN TACTICAL SERVICES (KTS)
+KAPLAN (Doctor),"Combi Rifle, Blitzen | MediKit","Pistol, CC Weapon",0,27,KAPLAN TACTICAL SERVICES (KTS)
+KAPLAN (Specialist Operative),"Combi Rifle, Blitzen","Pistol, CC Weapon",0,24,KAPLAN TACTICAL SERVICES (KTS)
+"MULEBOT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,MULEBOTS
+"MULEBOT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,MULEBOTS
+"MULEBOT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,MULEBOTS
+YÁOZĂO,,PARA CC Weapon(-3),0,3,YÁOZĂO
+CHAKSA LONGARM,"Mk12, Pulzar, AP Mines","Pistol, CC Weapon",0,25,CHAKSA LONGARMS
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+"DANAVAS (Hacker, Hacking Device Plus [UPGRADE: Oblivion (+1B)])","Combi Rifle, Pitcher","Breaker Pistol, CC Weapon",0.5,22,DANAVAS Hackers
+HǍIDÀO,Red Fury,"Breaker Pistol, CC Weapon",1,26,HǍIDÀO Special Support Group
+"HǍIDÀO (Hacker, Killer Hacking Device)",Boarding Shotgun,"Breaker Pistol, CC Weapon",0,24,HǍIDÀO Special Support Group
+"HǍIDÀO (Engineer, Deactivator)","Combi Rifle, D-Charges | GizmoKit","Breaker Pistol, CC Weapon",0,25,HǍIDÀO Special Support Group
+HǍIDÀO (Multispectral Visor L2),MULTI Sniper Rifle,"Breaker Pistol, CC Weapon",1.5,33,HǍIDÀO Special Support Group
+NØKK,Spitfire,"Pistol, CC Weapon",1.5,29,"Nøkken, Special Intervention and Recon Team"
+"NØKK (Hacker, Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0.5,30,"Nøkken, Special Intervention and Recon Team"
+"NØKK (Hacker, Killer Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0,28,"Nøkken, Special Intervention and Recon Team"
+NØKK (Minelayer),"Combi Rifle, Light Shotgun, Shock Mines","Pistol, CC Weapon",0.5,27,"Nøkken, Special Intervention and Recon Team"
+NØKK (Forward Observer),"Boarding Shotgun, Panzerfaust, Flash Pulse","Pistol, CC Weapon",0,25,"Nøkken, Special Intervention and Recon Team"
+NØKK (Multispectral Visor L1),Boarding Shotgun,"Pistol, CC Weapon",0,24,"Nøkken, Special Intervention and Recon Team"
+KARHU,"Feuerbach(+1B), AP Mines","Pistol, CC Weapon",1.5,35,KARHU Special Group
+"KARHU (Engineer, Deactivator)","MULTI Rifle, Blitzen, D-Charges | GizmoKit","Pistol, CC Weapon",0,29,KARHU Special Group
+KARHU (Paramedic),"MULTI Rifle, Blitzen, AP Mines | MediKit","Pistol, CC Weapon",0,28,KARHU Special Group
+JUJAK,"Boarding Shotgun, Panzerfaust | TinBot: Firewall [-6]","Pistol, CC Weapon",0,28,"JUJAK Regiment, Korean Shock Infantry"
+"JUJAK (Engineer, Deactivator)","Boarding Shotgun, Panzerfaust, D-Charges | GizmoKit","Pistol, CC Weapon",0,30,"JUJAK Regiment, Korean Shock Infantry"
+JUJAK (Lieutenant),"Combi Rifle, Heavy Flamethrower","Pistol, CC Weapon",0,26,"JUJAK Regiment, Korean Shock Infantry"
+LIANG KAI,"Chain Rifle, Light Shotgun, Flash Pulse","Pistol, EXP CC Weapon",0,21,"LIANG KAI, Wandering Shaolin Monk"
+KUNAI NINJA,MULTI Sniper Rifle,"Pistol, Shock CC Weapon",1.5,34,KUNAI SOLUTIONS Ninjas
+"KUNAI NINJA (Forward Deployment [+4""])",Shock Marksman Rifle,"Pistol, Shock CC Weapon",0.5,31,KUNAI SOLUTIONS Ninjas
+SHONA CARANO,"Submachine Gun, Nanopulser(+1B), Flash Pulse","Pistol, EXP CC Weapon",0,27,"SHONA CARANO, Special Instructor and Aristeia! Swordmaster"
+TÁOWÙ,"Contender, Nanopulser(+2B), Flash Pulse(+1B)","Viral Pistol(+1B), Monofilament CC Weapon",0,26,"TÁOWÙ, Mastermind and schemer"
+TÁOWÙ (Counterintelligence),"Nanopulser(+2B), Flash Pulse(+1B)","Viral Pistol(+1B), Monofilament CC Weapon",0,25,"TÁOWÙ, Mastermind and schemer"
+HAWKWOOD,"Red Fury, Nanopulser(+1B)","MULTI Pistol, Monofilament CC Weapon",1,40,"JOHN HAWKWOOD, Mercenary Officer"
+HAWKWOOD (Chain of Command),"Red Fury, Nanopulser(+1B)","MULTI Pistol, Monofilament CC Weapon",1,45,"JOHN HAWKWOOD, Mercenary Officer"
+HAWKWOOD (Lieutenant),"Red Fury, Nanopulser(+1B)","MULTI Pistol, Monofilament CC Weapon",1,40,"JOHN HAWKWOOD, Mercenary Officer"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,15,BEASTHUNTERS Free Guild

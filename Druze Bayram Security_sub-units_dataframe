@@ -1,0 +1,56 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+ARSLAN,"MULTI Rifle, Light Shotgun","Viral Pistol, CC Weapon",0,36,Security Chief ARSLAN
+ARSLAN (Lieutenant),"MULTI Rifle, Light Shotgun","Viral Pistol, CC Weapon",0,36,Security Chief ARSLAN
+SAITO TOGAN,"Combi Rifle, Smoke Grenades","Pistol, EXP CC Weapon",0,36,"SAITO TŌGAN, Mercenary Ninja"
+SAITO TOGAN (Specialist Operative),"Combi Rifle, Smoke Grenades","Pistol, EXP CC Weapon",0,37,"SAITO TŌGAN, Mercenary Ninja"
+HUNZAKUT,"Sniper Rifle, Shock Mines","Pistol, CC Weapon",0.5,21,HUNZAKUTS
+HUNZAKUT (Forward Observer),"Boarding Shotgun, D-Charges","Pistol, CC Weapon",0,18,HUNZAKUTS
+YUAN YUAN,"Rifle, Smoke Grenades","Pistol, Shock CC Weapon",0,11,YUAN YUAN
+DRUZE,"Shock Marksman Rifle, Chain-colt","Viral Pistol, CC Weapon",0,27,DRUZE SHOCK TEAMS
+"DRUZE (Hacker, Hacking Device)","Combi Rifle, Pitcher, D-Charges","Viral Pistol, CC Weapon",0.5,30,DRUZE SHOCK TEAMS
+"DRUZE (Hacker, Killer Hacking Device)","Combi Rifle, Pitcher, D-Charges","Viral Pistol, CC Weapon",0,28,DRUZE SHOCK TEAMS
+DRUZE (Mimetism [-3]),"MULTI Sniper Rifle, Chain-colt","Viral Pistol, CC Weapon",1.5,31,DRUZE SHOCK TEAMS
+DRUZE (Paramedic),"Combi Rifle, Chain-colt | MediKit","Viral Pistol, CC Weapon",0,26,DRUZE SHOCK TEAMS
+DRUZE (Lieutenant),"Combi Rifle, Chain-colt","Viral Pistol, CC Weapon",0,24,DRUZE SHOCK TEAMS
+SCARFACE Loadout Alpha,"Mk12(+1B), Heavy Rocket Launcher(+1B)",DA CC Weapon,1.5,68,"SCARFACE TURNER, T.A.G. MERCENARIO"
+SCARFACE Loadout Beta,"AP Heavy Machine Gun, Panzerfaust",DA CC Weapon,1.5,64,"SCARFACE TURNER, T.A.G. MERCENARIO"
+SCARFACE Loadout Gamma,"AP Spitfire(+1B), Panzerfaust",DA CC Weapon,1.5,64,"SCARFACE TURNER, T.A.G. MERCENARIO"
+BRAWLER,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,16,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Multispectral Visor L2),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,27,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Hacker, Hacking Device)",Submachine Gun,"Pistol, CC Weapon",0.5,17,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Engineer, Deactivator)","Rifle, Light Shotgun, D-Charges | GizmoKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Doctor),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,"BRAWLERS, Mercenary Enforcers"
+ANACONDA,"Heavy Machine Gun, Chain-colt, Panzerfaust",AP CC Weapon,1.5,55,"ANACONDA, Mercenary TAG Squad"
+PATHFINDER DRONBOT,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,PATHFINDER DRONBOTS
+MONSTRUCKER,"Submachine Gun, Chain Rifle, Drop Bears","Pistol, CC Weapon",0,12,MONSTRUCKERS
+MONSTRUCKER (360º Visor),"Rifle, Light Shotgun, Akrylat-Kanone, D-Charges","Pistol, CC Weapon",0,17,MONSTRUCKERS
+SIERRA DRONBOT,Heavy Machine Gun,PARA CC Weapon(-3),1,24,'SIERRA' DRONBOTS
+ARMAND (Minelayer),"MULTI Sniper Rifle, Nanopulser, Shock Mines","Breaker Pistol(+1B), Shock CC Weapon",1.5,38,"ARMAND 'LE MUET', FREELANCE KILLER"
+ARMAND (Multispectral Visor L1),"MULTI Sniper Rifle, Nanopulser","Breaker Pistol(+1B), Shock CC Weapon",1.5,39,"ARMAND 'LE MUET', FREELANCE KILLER"
+CLIPPER DRONBOT,Missile Launcher,PARA CC Weapon(-3),1.5,16,'CLIPPER' DRONBOTS
+FUGAZI DRONBOT,Flash Pulse,PARA CC Weapon(-3),0,7,FUGAZI DRONBOTS
+BASHI BAZOUK,"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,12,BASHI BAZOUKS
+BASHI BAZOUK (Specialist Operative),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,BASHI BAZOUKS
+VALERYA GROMOZ (Hacker),"Combi Rifle, Zapper, Pitcher","Pistol, CC Weapon",0.5,21,"VALERYA GROMOZ, Mercenary Hacker"
+NASMAT,,PARA CC Weapon(-3),0,3,NASMAT Remotes
+"KAMEEL (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,KAMEEL Remotes
+"KAMEEL (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,KAMEEL Remotes
+"KAMEEL (Total Reaction, Repeater)","Rifle, Light Shotgun",PARA CC Weapon(-3),0,18,KAMEEL Remotes
+AÏDA SWANSON (Minelayer),"Submachine Gun(+1B), Viral Mines","Viral Pistol, Shock CC Weapon",0.5,23,"AÏDA SWANSON, Submondo Smuggler"
+AÏDA SWANSON FTO (Minelayer),"Submachine Gun, Viral Mines","Viral Pistol, Shock CC Weapon",0,20,"AÏDA SWANSON, Submondo Smuggler"
+BULLETEER,Spitfire,PARA CC Weapon(-3),1,23,BULLETEER ARMBOTS
+PEACEMAKER,Spitfire || AUXBOT_3,PARA CC Weapon(-3),1,26,PEACEMAKER ARMBOTS
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+KUNAI NINJA,MULTI Sniper Rifle,"Pistol, Shock CC Weapon",1.5,34,KUNAI SOLUTIONS Ninjas
+"KUNAI NINJA (Forward Deployment [+4""])",Shock Marksman Rifle,"Pistol, Shock CC Weapon",0.5,31,KUNAI SOLUTIONS Ninjas
+TÁOWÙ,"Contender, Nanopulser(+2B), Flash Pulse(+1B)","Viral Pistol(+1B), Monofilament CC Weapon",0,26,"TÁOWÙ, Mastermind and schemer"
+TÁOWÙ (Counterintelligence),"Nanopulser(+2B), Flash Pulse(+1B)","Viral Pistol(+1B), Monofilament CC Weapon",0,25,"TÁOWÙ, Mastermind and schemer"
+WOLFGANG AMADEUS,"MULTI Rifle(+1B), Chain-colt","Heavy Pistol, DA CC Weapon, PARA CC Weapon(-6)",0,35,"WOLFGANG AMADEUS WOLFF, Wulver Bounty Hunter"
+Fiddler FTO (Super-Jump),"Contender(+1B), Drop Bears, D-Charges","Breaker Pistol, PARA CC Weapon(-3)",0,28,"Fiddler, Aristeia!'s ex-toymaker"
+FIDDLER (Climbing Plus),"Contender(+1B), Drop Bears, D-Charges || 2x JACKBOT","Breaker Pistol, PARA CC Weapon(-3)",0,42,"Fiddler, Aristeia!'s ex-toymaker"
+MOTORIZED BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0.5,15,Motorized Bounty Hunters
+DIGGER,"Chain Rifle(+1B), Grenades","Pistol, AP CC Weapon(+1B)",0,14,FULL POWER
+TRIPHAMMER,"Heavy Shotgun, Flammenspeer(+1B), Panzerfaust(+1B)",AP CC Weapon,0,52,FULL POWER

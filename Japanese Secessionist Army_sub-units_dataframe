@@ -1,0 +1,59 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+"RYŪKEN (Surprise Attack [-3], Camouflage [1 Use])","Heavy Rocket Launcher, Shock Mines","Heavy Pistol, CC Weapon",1.5,25,RYŪKEN UNIT-9
+"RYŪKEN (Forward Deployment [+8""])","Submachine Gun, Shock Mines, D-Charges","Breaker Pistol(+1B), CC Weapon",0.5,26,RYŪKEN UNIT-9
+"RYŪKEN (Hacker, Forward Deployment [+8""], Killer Hacking Device)","Submachine Gun, Shock Mines, D-Charges","Breaker Pistol(+1B), CC Weapon",0.5,29,RYŪKEN UNIT-9
+TANKŌ,Missile Launcher,"Pistol, Monofilament CC Weapon, Shock CC Weapon",1.5,27,TANKŌ Zensenbutai
+SAITO TOGAN,"Combi Rifle, Smoke Grenades","Pistol, EXP CC Weapon",0,36,"SAITO TŌGAN, Mercenary Ninja"
+DAIYŌKAI,"Red Fury, Panzerfaust","Pistol, AP + DA CC Weapon",1,49,DAIYŌKAI Dengekitai
+NINJA,MULTI Sniper Rifle,"Pistol, AP CC Weapon",1.5,37,NINJAS
+"NINJA (Hacker, Hacking Device)",Submachine Gun,"Pistol, AP CC Weapon",0.5,35,NINJAS
+"NINJA (Hacker, Killer Hacking Device)",Tactical Bow,"Pistol, DA CC Weapon",0,29,NINJAS
+NINJA (Forward Observer),"Combi Rifle, Flash Pulse","Pistol, DA CC Weapon",0,35,NINJAS
+KUROSHI RIDER,"Combi Rifle, Light Shotgun, D-Charges","Breaker Pistol, AP + Shock CC Weapon",0,29,"KUROSHI RIDER, Aragoto Senkenbutai Rikugun Shōi"
+KUROSHI RIDER (Lieutenant),"Combi Rifle, Light Shotgun, D-Charges","Breaker Pistol, AP + Shock CC Weapon",0,29,"KUROSHI RIDER, Aragoto Senkenbutai Rikugun Shōi"
+WÈIBĪNG Yaókòng,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,WÈIBĪNG Yáokòng (Guardian Remote)
+YURIKO ODA FTO,"Combi Rifle, Panzerfaust, D-Charges, Shock Mines","Pistol, CC Weapon",0,23,KAIZOKU YURIKO ODA
+"YURIKO ODA (Forward Deployment [+8""])","Combi Rifle, E/Mitter, D-Charges, Shock Mines","Pistol, CC Weapon",0,27,KAIZOKU YURIKO ODA
+HÙSÒNG Yaókòng,Heavy Machine Gun,PARA CC Weapon(-3),1,24,HÙSÒNG Yáokòng (Escort Remote)
+SON-BAE Yaókòng,Missile Launcher,PARA CC Weapon(-3),1.5,16,SON-BAE Yáokòng
+CHAĪYÌ Yaókòng,Flash Pulse,PARA CC Weapon(-3),0,7,CHAĪYÌ Yáokòng (Messenger Remote)
+KEISOTSU,Missile Launcher,"Pistol, CC Weapon",1.5,14,KEISOTSU Butai
+"KEISOTSU (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,14,KEISOTSU Butai
+KEISOTSU (Forward Observer),"Combi Rifle, Flash Pulse","Pistol, CC Weapon",0,10,KEISOTSU Butai
+KEISOTSU (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,11,KEISOTSU Butai
+KEISOTSU (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0.5,9,KEISOTSU Butai
+KEMPEI,Spitfire,"Pistol, CC Weapon, PARA CC Weapon(-3)",1,22,KEMPEITAI
+KEMPEI (Chain of Command),Boarding Shotgun,"Pistol, CC Weapon, PARA CC Weapon(-3)",0,20,KEMPEITAI
+KEMPEI (Multispectral Visor L2),Shock Marksman Rifle,"Pistol, CC Weapon, PARA CC Weapon(-3)",1,22,KEMPEITAI
+MIYAMOTO MUSHASHI,"Chain Rifle, Flash Pulse","Pistol, EXP CC Weapon",0,20,MIYAMOTO MUSHASHI
+MIYAMOTO MUSHASHI FTO (Regular),"Chain Rifle, Flash Pulse","Pistol, EXP CC Weapon",0.5,24,MIYAMOTO MUSHASHI
+YOJIMBO,"Contender(+1B), Nanopulser, Smoke Grenades, Crazykoala","Pistol, DA CC Weapon",0,18,"YOJIMBO, Sword for Hire"
+ARAGOTO,Boarding Shotgun,"Pistol, CC Weapon",0,18,"ARAGOTO Senkenbutai, Advance Guard Regiment of Nippon"
+"ARAGOTO (Hacker, Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0.5,28,"ARAGOTO Senkenbutai, Advance Guard Regiment of Nippon"
+"ARAGOTO (Hacker, Killer Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0,23,"ARAGOTO Senkenbutai, Advance Guard Regiment of Nippon"
+DOMARU,Spitfire,"Pistol, E/M CC Weapon",1.5,33,DOMARU Butai
+DOMARU (Forward Observer),"Combi Rifle, E/M Grenades, Flash Pulse","Pistol, E/M CC Weapon",0,29,DOMARU Butai
+DOMARU (Lieutenant),"Chain Rifle, E/M Grenades","Pistol, E/M CC Weapon",0,21,DOMARU Butai
+DOMARU (Lieutenant [+1 Order]),Spitfire,"Pistol, E/M CC Weapon",1.5,37,DOMARU Butai
+KARAKURI,"Mk12, Chain Rifle, Panzerfaust, Flash Pulse","Pistol, CC Weapon",0,45,KARAKURI Special Project
+O-YOROI,"AP Heavy Machine Gun, Heavy Flamethrower, Crazykoala",EXP CC Weapon,1.5,75,O-YOROI Kidobutai
+O-YOROI (Lieutenant),"AP Heavy Machine Gun, Heavy Flamethrower, Crazykoala",EXP CC Weapon,2,75,O-YOROI Kidobutai
+ONIWABAN,"Submachine Gun, Nanopulser","Pistol, Monofilament CC Weapon, E/M CC Weapon",0,34,ONIWABAN
+ONIWABAN (Lieutenant),Boarding Shotgun,"Pistol, Monofilament CC Weapon, E/M CC Weapon",1,38,ONIWABAN
+TOKUSETSU EISEI (Doctor),Combi Rifle | MediKit,"Pistol, CC Weapon",0,14,TOKUSETSU Butai
+"TOKUSETSU KOHEI (Engineer, Deactivator)","Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,14,TOKUSETSU Butai
+RUI SHI,Spitfire,PARA CC Weapon(-3),1,23,Yáoxiè RUI SHI
+LÙ DUĀN,"Mk12, Heavy Flamethrower(+1B) | Deployable Repeater",PARA CC Weapon(-3),0,24,Yáoxiè LÙ DUĀN
+YÁOZĂO,,PARA CC Weapon(-3),0,3,YÁOZĂO
+"PANGGULING (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,Yáopú PANGGULING
+"PANGGULING (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,Yáopú PANGGULING
+"PANGGULING (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,Yáopú PANGGULING
+PANGGULING FTO (Repeater),Light Shotgun,PARA CC Weapon(-3),0,12,Yáopú PANGGULING
+SHINOBU,"Combi Rifle, Nanopulser, Smoke Grenades","Pistol, Monofilament CC Weapon",0.5,44,Oniwaban SHINOBU KITSUNE
+SHINOBU (Lieutenant),"Combi Rifle, Nanopulser, Smoke Grenades","Pistol, Monofilament CC Weapon",0.5,44,Oniwaban SHINOBU KITSUNE
+OYAMA,"Chain Rifle, E/M Grenades","Breaker Pistol, E/M CC Weapon, DA CC Weapon",0,29,Domaru TAKESHI 'NEKO' OYAMA
+OYAMA (Lieutenant),"Chain Rifle, E/M Grenades","Breaker Pistol, E/M CC Weapon, DA CC Weapon",0,29,Domaru TAKESHI 'NEKO' OYAMA
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+SHIKAMI,"Combi Rifle, D-Charges","Pistol, AP + DA CC Weapon",0,48,SHIKAMI
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

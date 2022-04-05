@@ -1,0 +1,33 @@
+,Name,Sectorial,Type,Classification,MOV,CC,BS,PH,WIP,ARM,BTS,W,S,AVA,Equipment,Special Skills,Characteristics
+0,Clipsos Infiltrators,opcionSectorial_906,SK,Spec. Trained Troops,4-4,14,11,12,13,0,3,1,2,2,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Hidden Deployment', 'Infiltration', 'Mimetism ( -6 )', 'Stealth', 'Terrain ( Total )']","['Cube', 'Regular']"
+1,Kumotail Bioingeneers,opcionSectorial_906,LI,Support Troops,4-4,14,11,11,14,1,0,1,2,1,"['Deactivator', 'GizmoKit', 'MediKit']","['Engineer', 'Doctor']","['Cube', 'Regular']"
+2,Chaksa Auxiliars,opcionSectorial_906,LI,Support Troops,4-4,19,11,12,13,0,0,1,2,4,[''],"['CC Attack ( +1 Dam )', 'Courage']",['Regular']
+3,Chaksa Servants,opcionSectorial_906,LI,Support Troops,4-4,13,10,11,13,0,0,1,2,2,[''],"['Dodge ( +3 )', 'Peripheral ( Servant )', 'Mimetism ( -3 )']",['Peripheral']
+4,Neema Saatar,opcionSectorial_906,HI,Character,6-2,22,13,14,15,3,9,2,2,1,[''],"['Martial Arts L2', 'Courage', 'Dodge ( +1"" )', 'Frenzy', 'Immunity ( Shock )', 'Stealth', 'Transmutation ( W )']","['Cube', 'Regular', 'Hackable']"
+5,Tohaa Diplomatic Delegates,opcionSectorial_906,LI,Support Troops,4-4,12,10,10,13,0,0,1,2,1,[''],[''],"['Cube', 'Irregular']"
+6,Hatail Aelis Keesan,opcionSectorial_906,LI,Character,4-4,15,12,12,14,2,3,1,2,1,['Killer Hacking Device'],"['Triangulated Fire', 'Regeneration', 'Sensor']","['Cube', 'Regular']"
+7,"Brawlers, Mercenary Enforcers",opcionSectorial_906,MI,Spec. Trained Troops,4-4,17,12,11,12,2,3,1,2,4,[''],[''],"['Cube', 'Regular']"
+8,"Anaconda, Merc. TAG Squad",opcionSectorial_906,TAG,Mercenary Troops,6-2,18,13,16,13,7,6,2,7,1,"['ECM: Guided ( -6 )', 'Escape System']","['BS Attack ( +1 Dam )', 'Courage', 'Dodge ( PH=11 )', 'Gizmokit ( PH=11 )', 'Immunity ( Shock )', 'Tactical Awareness']","['Cube', 'Regular', 'Hackable']"
+9,Monstruckers,opcionSectorial_906,LI,Mercenary Troops,4-4,16,11,12,13,1,0,1,2,2,"['Deactivator', 'GizmoKit']","['Engineer', 'Climbing Plus']","['Cube', 'Irregular']"
+10,"Armand 'Le Muet', Freelance Killer",opcionSectorial_906,MI,Character,4-4,21,13,12,13,2,3,1,2,1,[''],"['CC Attack ( +1 Dam )', 'Forward Deployment ( +4"" )', 'Natural Born Warrior', 'Mimetism ( -6 )', 'Stealth', 'Transmutation ( W )', 'Immunity ( Shock )']","['Cube', 'Regular']"
+11,Igao Unit,opcionSectorial_906,SK,Spec. Trained Troops,4-4,23,11,13,13,0,3,1,2,2,[''],"['Martial Arts L3', 'CC Attack ( -3 )', 'CC Attack ( Shock )', 'Surprise Attack ( -3 )', 'Courage', 'Camouflage', 'Dodge ( +1"" )', 'Mimetism ( -3 )', 'Infiltration', 'Stealth', 'Terrain ( Total )', 'Frenzy']","['Cube', 'Regular']"
+12,Kaeltar Specialists,opcionSectorial_906,LI,Spec. Trained Troops,4-4,14,11,11,14,1,3,1,2,1,[''],[''],"['Cube', 'Regular']"
+13,Kosuil Assault Pioneers,opcionSectorial_906,MI,Spec. Trained Troops,4-4,14,12,11,14,2,3,1,2,3,['Deactivator'],"['Immunity ( Shock )', 'Terrain ( Total )', 'Transmutation ( W )']","['Cube', 'Regular']"
+14,Kaauri Sentinels,opcionSectorial_906,LI,Garrison Troops,4-4,13,11,10,13,0,3,1,1,6,"['Biometric Visor', 'Multispectral Visor L1']","['Discover ( +3 )', 'Immunity ( Shock )', 'Sixth Sense']",['Regular']
+15,Taagma Schemers,opcionSectorial_906,LI,Headquarters Troops,4-4,15,12,10,13,1,0,1,2,3,['Holomask'],"['Counterintelligence', 'Immunity ( Shock )', 'Stealth']","['Cube', 'Regular']"
+16,Kiel-Saan Covert Assault Unit,opcionSectorial_906,HI,Veteran Troops,6-2,21,13,14,12,4,6,2,5,3,[''],"['Martial Arts L2', 'Berserk', 'Courage', 'Natural Born Warrior', 'Immunity ( Shock )', 'MetaChemistry', 'Stealth', 'Transmutation ( W )', 'CC Attack ( Shock )']","['Cube', 'Regular', 'Hackable']"
+17,Draal Saboteurs,opcionSectorial_906,SK,Spec. Trained Troops,6-2,16,13,12,13,2,6,1,2,3,[''],"['Forward Deployment ( +8"" )', 'Dodge ( +3 )', 'Immunity ( Shock )', 'Mimetism ( -6 )', 'Specialist Operative', 'Stealth', 'Terrain ( Total )', 'Transmutation ( W )']","['Cube', 'Regular']"
+18,Kriigel Agents,opcionSectorial_906,LI,Spec. Trained Troops,4-4,14,12,10,13,1,3,1,2,2,[''],['Courage'],"['Cube', 'Regular']"
+19,Reex Escorts,opcionSectorial_906,LI,Spec. Trained Troops,4-4,13,11,10,13,0,3,1,1,4,[''],"['Courage', 'Immunity ( Shock )']",['Regular']
+20,"Wardrivers, Merc. Hackers",opcionSectorial_906,LI,Mercenary Troops,4-4,13,11,10,13,0,3,1,2,2,[''],['Sixth Sense'],"['Cube', 'Regular']"
+21,Kiiutan Imposters,opcionSectorial_906,SK,Spec. Trained Troops,4-4,17,12,11,13,2,6,1,2,2,[''],"['Surprise Attack ( -3 )', 'Courage', 'Dodge ( +3 )', 'Immunity ( Shock )', 'Stealth', 'Impersonation ( IMP-2 )', 'Transmutation ( W )']","['Cube', 'Regular']"
+22,Chaksa Longarms,opcionSectorial_906,MI,Spec. Trained Troops,4-4,17,12,12,12,3,0,1,2,3,[''],"['BS Attack ( +1 Dam )', 'Bioimmunity', 'Religious Troop', 'Terrain ( Total )']",['Regular']
+23,"Warcors, War Correspondents",opcionSectorial_906,LI,Mercenary Troops,4-4,11,9,11,13,0,0,1,2,1,[''],['Journalist L1 ( +3 )'],"['Cube', 'Irregular']"
+24,Cube Jäger,opcionSectorial_906,LI,Mercenary Troops,4-4,16,11,10,13,1,3,1,2,2,['MediKit'],"['Immunity ( Shock )', 'Stealth', 'Parachutist']",['Irregular']
+25,Greif Operators,opcionSectorial_906,SK,Spec. Trained Troops,4-4,17,11,11,13,1,0,1,2,1,['Multispectral Visor L1'],"['Courage', 'Stealth']","['Cube', 'Regular']"
+26,Helot Militia,opcionSectorial_906,LI,Garrison Troops,4-4,12,11,10,12,0,0,1,2,3,[''],"['Surprise Attack ( -3 )', 'Immunity ( Shock )', 'Neurocinetics', 'Terrain ( Aquatic )']",['Irregular']
+27,Rasail Boarding Team,opcionSectorial_906,LI,Spec. Trained Troops,4-4,17,12,11,13,1,3,2,2,2,['Nanoscreen'],"['Courage', 'Immunity ( Shock )', 'Transmutation ( W )']","['Cube', 'Regular']"
+28,Kerail Preceptors,opcionSectorial_906,LI,Support Troops,6-4,15,11,11,13,1,3,1,2,1,[''],"['Immunity ( Shock )', 'Super-Jump', 'Transmutation ( W )']","['Cube', 'Regular']"
+29,Jaan Staar Kiiutan Imposter,opcionSectorial_906,SK,Character,4-4,20,12,11,13,2,6,1,2,1,[''],"['CC Attack ( -3 )', 'Surprise Attack ( -3 )', 'Courage', 'Dodge ( +3 )', 'Immunity ( Shock )', 'Stealth', 'Impersonation ( IMP-2 )', 'Transmutation ( W )']","['Cube', 'Regular']"
+30,ITS BIKE RECON Motorized Bounty Hunters,opcionSectorial_906,LI,Mercenary Troops,8-6,17,12,10,13,1,3,1,4,1,['Motorcycle'],"['Booty ( ReRoll )', 'Dodge ( +2"" )', 'Impetuous']","['Cube', 'Irregular', 'Impetuous']"
+31,"Diggers, Armed Prospectors",opcionSectorial_906,HI,Mercenary Troops,4-4,21,11,13,12,3,0,1,2,2,[''],"['CC Attack ( +1 Dam )', 'Booty', 'Courage', 'Dodge ( +1"" )', 'Natural Born Warrior', 'Immunity ( Shock )', 'Transmutation ( W )', 'Impetuous']","['Cube', 'Regular', 'Impetuous', 'Hackable']"

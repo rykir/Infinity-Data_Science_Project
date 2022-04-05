@@ -1,0 +1,21 @@
+,Name,Sectorial,Type,Classification,MOV,CC,BS,PH,WIP,ARM,BTS,W,S,AVA,Equipment,Special Skills,Characteristics
+0,Para-Commandos,opcionSectorial_303,LI,Spec. Trained Troops,4-4,14,12,11,14,2,0,1,2,6,[''],"['Mimetism ( -3 )', 'Parachutist', 'Terrain ( Zero-G )']",['Regular']
+1,Moblots,opcionSectorial_303,HI,Veteran Troops,4-4,16,13,12,13,3,3,1,2,5,[''],"['BS Attack ( Shock )', 'Immunity ( Shock )', 'Terrain ( Jungle )']",['Regular']
+2,Corregidor Alguaciles,opcionSectorial_303,LI,Line Troops,4-4,14,11,10,13,1,0,1,2,1,[''],[''],"['Cube', 'Regular']"
+3,"Anaconda, Merc. TAG Squad",opcionSectorial_303,TAG,Mercenary Troops,6-2,18,13,16,13,7,6,2,7,2,"['ECM: Guided ( -6 )', 'Escape System']","['BS Attack ( +1 Dam )', 'Courage', 'Dodge ( PH=11 )', 'Gizmokit ( PH=11 )', 'Immunity ( Shock )', 'Tactical Awareness']","['Cube', 'Regular', 'Hackable']"
+4,"Métros, Troupes Métropolitaines",opcionSectorial_303,LI,Garrison Troops,4-4,14,10,11,12,1,0,1,2,Total,[''],['Terrain ( Total )'],['Regular']
+5,Loup-Garous,opcionSectorial_303,LI,Spec. Trained Troops,4-4,16,12,11,13,2,0,1,2,5,['X Visor'],['Courage'],['Regular']
+6,Zouaves,opcionSectorial_303,LI,Spec. Trained Troops,4-4,15,12,10,13,2,0,1,2,5,[''],"['Courage', 'Forward Deployment ( +8"" )', 'Dogged']",['Regular']
+7,Chasseurs,opcionSectorial_303,SK,Spec. Trained Troops,4-4,14,11,13,13,0,0,1,2,4,[''],"['Surprise Attack ( -3 )', 'Camouflage', 'Infiltration', 'Mimetism ( -3 )', 'Sixth Sense', 'Stealth', 'Terrain ( Total )']",['Regular']
+8,"Knauf, Outlaw Sniper",opcionSectorial_303,LI,Character,4-4,21,13,11,13,1,0,1,2,1,['Multispectral Visor L1'],"['BS Attack ( +1B )', 'BS Attack ( Shock )', 'Mimetism ( -3 )', 'Stealth', 'Terrain ( Total )']",['Regular']
+9,"112, Emergency Service",opcionSectorial_303,LI,Support Troops,4-4,16,11,12,13,0,0,1,2,3,['MediKit'],"['Doctor', 'Courage']",['Regular']
+10,"Dozers, Field Engineers",opcionSectorial_303,LI,Support Troops,4-4,14,11,11,13,1,0,1,2,2,['Deactivator'],"['Courage', 'Engineer']",['Regular']
+11,Traktor Mul,opcionSectorial_303,REM,Support Troops,4-4,13,10,9,12,2,0,1,4,2,"['Baggage', 'ECM: Guided ( -6 )']","['Remote Presence', 'Courage', 'Immunity ( Shock )', 'BS Attack ( Guided )']","['Regular', 'Hackable']"
+12,Equipe Mirage-5,opcionSectorial_303,HI,Character,4-4,16,14,12,13,3,0,1,2,1,[''],"['BS Attack ( Shock )', 'Immunity ( Shock )', 'Terrain ( Total )', 'Parachutist ( Dep. Zone )']","['Regular', 'Impetuous']"
+13,Briscards,opcionSectorial_303,MI,Veteran Troops,4-4,16,12,11,13,2,0,1,2,5,['Multispectral Visor L1'],"['Courage', 'Terrain ( Mountain )']",['Regular']
+14,Brigadier Jacques Bruant,opcionSectorial_303,LI,Character,4-4,15,12,11,13,2,0,1,2,1,['X Visor'],"['Mimetism ( -3 )', 'Specialist Operative', 'Stealth', 'Terrain ( Total )']",['Regular']
+15,"Wardrivers, Merc. Hackers",opcionSectorial_303,LI,Mercenary Troops,4-4,13,11,10,13,0,3,1,2,1,[''],['Sixth Sense'],"['Cube', 'Regular']"
+16,"Warcors, War Correspondents",opcionSectorial_303,LI,Mercenary Troops,4-4,11,9,11,13,0,0,1,2,1,[''],['Journalist L1 ( +3 )'],"['Cube', 'Irregular']"
+17,"112, Emergency Service (Motorized)",opcionSectorial_303,LI,Support Troops,8-4,16,11,12,13,0,0,1,4,3,"['MediKit', 'Motorcycle', 'Smoke Grenade Launcher']","['Doctor', 'Courage']",['Regular']
+18,Wolfgang Amadeus Wolff,opcionSectorial_303,WB,Character,4-4,22,12,14,13,3,3,2,2,1,[''],"['Martial Arts L3', 'Berserk ( +3 )', 'Courage', 'Dodge ( +2"" )', 'Dodge ( +3 )', 'Frenzy', 'Immunity ( Shock )', 'Climbing Plus', 'Terrain ( Zero-G )']",['Regular']
+19,ITS BIKE RECON Motorized Bounty Hunters,opcionSectorial_303,LI,Mercenary Troops,8-6,17,12,10,13,1,3,1,4,1,['Motorcycle'],"['Booty ( ReRoll )', 'Dodge ( +2"" )', 'Impetuous']","['Cube', 'Irregular', 'Impetuous']"

@@ -1,0 +1,74 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+GHULAM,"Rifle, Light Shotgun, E/M Mines | Deployable Repeater","Pistol, CC Weapon",0,13,GHULAM Infantry
+"GHULAM (Hacker, Hacking Device)","Rifle, Light Shotgun","Pistol, CC Weapon",0.5,16,GHULAM Infantry
+GHULAM (Doctor [+3]),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,15,GHULAM Infantry
+GHULAM (Forward Observer),"Rifle, Light Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,GHULAM Infantry
+GHULAM (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,11,GHULAM Infantry
+GHULAM (NCO),"Rifle, Grenade Launcher, Smoke Grenade Launcher","Pistol, CC Weapon",1,15,GHULAM Infantry
+GHULAM (Number 2),"Rifle, Light Shotgun, Panzerfaust","Pistol, CC Weapon",0,13,GHULAM Infantry
+GHULAM (Lieutenant [+1 Command Token]),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,GHULAM Infantry
+ARSLAN,"MULTI Rifle, Light Shotgun","Viral Pistol, CC Weapon",0,36,Security Chief ARSLAN
+ARSLAN (Lieutenant),"MULTI Rifle, Light Shotgun","Viral Pistol, CC Weapon",0,36,Security Chief ARSLAN
+DJANBAZAN,Shock Marksman Rifle,"Pistol, CC Weapon",0,29,DJANBAZAN Tactical Group
+DJANBAZAN (BS Attack [Shock]),AP Sniper Rifle,"Pistol, CC Weapon",0.5,31,DJANBAZAN Tactical Group
+"DJANBAZAN (Hacker, Hacking Device)","Rifle, Light Shotgun","Pistol, CC Weapon",0.5,30,DJANBAZAN Tactical Group
+DJANBAZAN (Doctor [+3]),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,29,DJANBAZAN Tactical Group
+DJANBAZAN (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",1,25,DJANBAZAN Tactical Group
+JANISSARY,Missile Launcher,"Pistol, Shock CC Weapon",1.5,38,JANISSARIES
+JANISSARY (Doctor [2W]),"AP Rifle, Light Shotgun | MediKit","Pistol, Shock CC Weapon",0,38,JANISSARIES
+JANISSARY (Lieutenant),"AP Rifle, Light Shotgun","Pistol, Shock CC Weapon",0,34,JANISSARIES
+ALGUACIL,Missile Launcher,"Pistol, CC Weapon",1.5,15,CORREGIDOR ALGUACILES
+"ALGUACIL (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,15,CORREGIDOR ALGUACILES
+ALGUACIL (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,12,CORREGIDOR ALGUACILES
+ALGUACIL (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,12,CORREGIDOR ALGUACILES
+ALGUACIL (Lieutenant),Combi Rifle,"Pistol, CC Weapon",1,10,CORREGIDOR ALGUACILES
+YUAN YUAN,"Rifle, Smoke Grenades","Pistol, Shock CC Weapon",0,11,YUAN YUAN
+DRUZE,"Shock Marksman Rifle, Chain-colt","Viral Pistol, CC Weapon",0,27,DRUZE SHOCK TEAMS
+"DRUZE (Hacker, Hacking Device)","Combi Rifle, Pitcher, D-Charges","Viral Pistol, CC Weapon",0.5,30,DRUZE SHOCK TEAMS
+"DRUZE (Hacker, Killer Hacking Device)","Combi Rifle, Pitcher, D-Charges","Viral Pistol, CC Weapon",0,28,DRUZE SHOCK TEAMS
+SCARFACE Loadout Alpha,"Mk12(+1B), Heavy Rocket Launcher(+1B)",DA CC Weapon,1.5,68,"SCARFACE TURNER, T.A.G. MERCENARIO"
+SCARFACE Loadout Beta,"AP Heavy Machine Gun, Panzerfaust",DA CC Weapon,1.5,64,"SCARFACE TURNER, T.A.G. MERCENARIO"
+SCARFACE Loadout Gamma,"AP Spitfire(+1B), Panzerfaust",DA CC Weapon,1.5,64,"SCARFACE TURNER, T.A.G. MERCENARIO"
+NAJJARUN Engineer,"Rifle, Light Shotgun, D-Charges","Pistol, CC Weapon",0,15,NAJJARUN Engineer
+MOBILE BRIGADA,"MULTI Rifle, Light Flamethrower | TinBot: Firewall [-6]","Pistol, CC Weapon",0,37,MOBILE BRIGADA
+"MOBILE BRIGADA (Hacker, Hacking Device)","Combi Rifle, D-Charges | TinBot: Firewall [-6]","Pistol, CC Weapon",0.5,39,MOBILE BRIGADA
+MOBILE BRIGADA (Lieutenant),Boarding Shotgun,"Pistol, CC Weapon",0,32,MOBILE BRIGADA
+RAFIQ REMOTE,"Rifle, Light Shotgun, Flash Pulse",PARA CC Weapon(-3),0,14,RAFIQ REMOTES
+RAFIQ REMOTE FTO,"Red Fury, Flash Pulse",PARA CC Weapon(-3),0.5,20,RAFIQ REMOTES
+IGUANA,"Heavy Machine Gun, Heavy Flamethrower",CC Weapon,1.5,65,'IGUANA' SQUADRON
+SHIHAB REMOTE,Heavy Machine Gun,PARA CC Weapon(-3),1,24,SHIHAB REMOTES
+SHAYTANIYAH REMOTE,Missile Launcher,PARA CC Weapon(-3),1.5,16,SHAYTANIYAH REMOTES
+FANOUS REMOTE,Flash Pulse,PARA CC Weapon(-3),0,7,FANOUS REMOTES
+ODALISQUE (Sixth Sense),"Submachine Gun, Nanopulser, Flash Pulse(+1B)","MULTI Pistol, PARA CC Weapon",0,22,ODALISQUES
+ODALISQUE (360º Visor),"Submachine Gun, Nanopulser, Flash Pulse(+1B)","MULTI Pistol, PARA CC Weapon",0,22,ODALISQUES
+BASHI BAZOUK,"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,12,BASHI BAZOUKS
+BASHI BAZOUK (Specialist Operative),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,BASHI BAZOUKS
+HAFZA,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,17,HAFZA Unit
+HAFZA (Forward Observer),"Rifle, Light Shotgun, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,17,HAFZA Unit
+HAFZA (Lieutenant),Spitfire,"Pistol, CC Weapon",1,22,HAFZA Unit
+AZRA'IL,Feuerbach(+1B),"Heavy Pistol, CC Weapon",1.5,44,Special Deterrance Group AZRA'IL
+"HAWWA' (Hacker, Hacking Device)","Boarding Shotgun, D-Charges","Pistol, CC Weapon",0.5,26,AL HAWWA' Unit
+HAWWA' (Minelayer),"Sniper Rifle, Shock Mines","Pistol, CC Weapon",0.5,23,AL HAWWA' Unit
+HAWWA' (Forward Observer),"Boarding Shotgun, Flash Pulse, D-Charges","Pistol, CC Weapon",0,22,AL HAWWA' Unit
+NASMAT,,PARA CC Weapon(-3),0,3,NASMAT Remotes
+"KAMEEL (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,KAMEEL Remotes
+"KAMEEL (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,KAMEEL Remotes
+"KAMEEL (Total Reaction, Repeater)","Rifle, Light Shotgun",PARA CC Weapon(-3),0,18,KAMEEL Remotes
+KAPLAN,Spitfire,"Pistol, CC Weapon",1,28,KAPLAN TACTICAL SERVICES (KTS)
+"KAPLAN (Engineer, Deactivator)","Combi Rifle, Adhesive Launcher, D-Charges | GizmoKit","Pistol, CC Weapon",0,27,KAPLAN TACTICAL SERVICES (KTS)
+KAPLAN (Doctor),"Combi Rifle, Blitzen | MediKit","Pistol, CC Weapon",0,27,KAPLAN TACTICAL SERVICES (KTS)
+KAPLAN (Specialist Operative),"Combi Rifle, Blitzen","Pistol, CC Weapon",0,24,KAPLAN TACTICAL SERVICES (KTS)
+SEKBAN,"Heavy Rocket Launcher, Chain-colt(+1B)","Pistol, CC Weapon",1.5,21,"SEKBAN, Naval Special Unit"
+SEKBAN (Specialist Operative),"AP Rifle, Chain-colt(+1B)","Pistol, CC Weapon",0,24,"SEKBAN, Naval Special Unit"
+SEKBAN (Doctor [+3]),Boarding Shotgun | MediKit,"Pistol, CC Weapon",0,28,"SEKBAN, Naval Special Unit"
+SEKBAN (Lieutenant),"AP Rifle, Chain-colt(+1B)","Pistol, CC Weapon",0,23,"SEKBAN, Naval Special Unit"
+WILD BILL,Rifle,"MULTI Pistol(+1B), CC Weapon",0,25,"WILD BILL, Legendary Gunslinger"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+LEILA SHARIF (Hacker),"Shock Marksman Rifle, E/M Mines, D-Charges","Breaker Pistol, CC Weapon",0,20,Husam Operative LEILA SHARIF
+ROUHANI,"Submachine Gun, Flash Pulse","Pistol, CC Weapon",0,21,Medical Specialist RAHMAN ROUHANI
+Fiddler FTO (Super-Jump),"Contender(+1B), Drop Bears, D-Charges","Breaker Pistol, PARA CC Weapon(-3)",0,28,"Fiddler, Aristeia!'s ex-toymaker"
+FIDDLER (Climbing Plus),"Contender(+1B), Drop Bears, D-Charges || 2x JACKBOT","Breaker Pistol, PARA CC Weapon(-3)",0,42,"Fiddler, Aristeia!'s ex-toymaker"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+BEASTHUNTER FTO (Minelayer),"Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,9,BEASTHUNTERS Free Guild
+"BEASTHUNTERS (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Heavy Flamethrower, Panzerfaust, AP Mines","Pistol, DA CC Weapon",0,15,BEASTHUNTERS Free Guild

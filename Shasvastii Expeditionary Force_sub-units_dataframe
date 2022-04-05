@@ -1,0 +1,69 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+SHROUDED,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,25,'THE SHROUDED' Shasvastii Pioneer Corps
+"SHROUDED (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,27,'THE SHROUDED' Shasvastii Pioneer Corps
+SHROUDED (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,23,'THE SHROUDED' Shasvastii Pioneer Corps
+SHROUDED (Minelayer),Boarding Shotgun | Dazer,"Pistol, CC Weapon",0,23,'THE SHROUDED' Shasvastii Pioneer Corps
+"SHROUDED (Hacker, Killer Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0,25,'THE SHROUDED' Shasvastii Pioneer Corps
+MALIGNOS,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,35,MALIGNOS Shasvastii Deep Incursion Corps
+"MALIGNOS (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,39,MALIGNOS Shasvastii Deep Incursion Corps
+MALIGNOS (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,35,MALIGNOS Shasvastii Deep Incursion Corps
+"MALIGNOS (Hacker, Killer Hacking Device)","Submachine Gun, Shock Mines | Dazer","Pistol, CC Weapon",0,31,MALIGNOS Shasvastii Deep Incursion Corps
+SPECULO KILLER,"Boarding Shotgun, Smoke Grenades","Pistol, Monofilament CC Weapon",1,32,SPECULO KILLERS
+SPECULO KILLER (Minelayer),"Combi Rifle, Smoke Grenades, Shock Mines","Pistol, Monofilament CC Weapon",1.5,34,SPECULO KILLERS
+MED-TECH OBSIDON MEDCHANOID,"Combi Rifle, D-Charges | GizmoKit, MediKit","Pistol, CC Weapon",0,22,MED-TECH OBSIDON MEDCHANOIDS
+M-DRONE,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,16,M-DRONES
+M-DRONE FTO (Nanoscreen),"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,22,M-DRONES
+Q-DRONE,Plasma Rifle,PARA CC Weapon(-3),1,24,Q-DRONES
+T-DRONE,Missile Launcher,PARA CC Weapon(-3),1.5,18,T-DRONES
+T-DRONE FTO,"Missile Launcher, Flash Pulse",PARA CC Weapon(-3),1.5,19,T-DRONES
+R-DRONE,Flash Pulse,PARA CC Weapon(-3),0,7,R-DRONES
+SEED-SOLDIER,"Combi Rifle, Grenade Launcher","Pistol, CC Weapon",1,19,Seed-Embryo
+SEED-SOLDIER (Forward Observer),"Combi Rifle, Panzerfaust","Pistol, CC Weapon",0,17,Seed-Embryo
+SEED-SOLDIER (Paramedic),"Combi Rifle, Panzerfaust | MediKit","Pistol, CC Weapon",0,18,Seed-Embryo
+CADMUS-SOLDIER,Red Fury,"Pistol, Shock CC Weapon",1,26,Cadmus-Seed
+"CADMUS-SOLDIER (Hacker, Killer Hacking Device)",Boarding Shotgun,"Pistol, Shock CC Weapon",0,24,Cadmus-Seed
+HAIDUK,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,26,Shasvastii Light Support Unit HAIDUKS
+NOCTIFER,Missile Launcher,"Assault Pistol, CC Weapon",1.5,32,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+"NOCTIFER (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,29,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+NOCTIFER (Lieutenant),Combi Rifle,"Pistol, CC Weapon",1,24,Shasvastii Tactical Dominance Special Wing NOCTIFERS
+GWAILO,AP Spitfire,"Breaker Pistol, CC Weapon",1.5,45,Shasvastii Armed Imposition Detachment GWAILOS
+GWAILO (Multispectral Visor L2),Heavy Rocket Launcher,"Breaker Pistol, CC Weapon",1.5,43,Shasvastii Armed Imposition Detachment GWAILOS
+GWAILO (Lieutenant),Heavy Machine Gun,"Breaker Pistol, CC Weapon",1.5,45,Shasvastii Armed Imposition Detachment GWAILOS
+"GWAILO (Lieutenant, Multispectral Visor L2)",Heavy Rocket Launcher,"Breaker Pistol, CC Weapon",1.5,43,Shasvastii Armed Imposition Detachment GWAILOS
+SPHINX,"Spitfire, Heavy Flamethrower(+1B)",DA CC Weapon,2,93,Shasvastii Special Armoured Corp SPHINX
+AÏDA SWANSON (Minelayer),"Submachine Gun(+1B), Viral Mines","Viral Pistol, Shock CC Weapon",0.5,23,"AÏDA SWANSON, Submondo Smuggler"
+AÏDA SWANSON FTO (Minelayer),"Submachine Gun, Viral Mines","Viral Pistol, Shock CC Weapon",0,20,"AÏDA SWANSON, Submondo Smuggler"
+SLAVE DRONE,,PARA CC Weapon(-3),0,3,SLAVE DRONES
+CALIBAN,"Boarding Shotgun, D-Charges","Pistol, CC Weapon",0,27,Sabotage and Destruction Unit CALIBAN
+CALIBAN (Chain of Command),"Submachine Gun, Pulzar, D-Charges","Pistol, CC Weapon",0,29,Sabotage and Destruction Unit CALIBAN
+"CALIBAN (Engineer, Deactivator)","Submachine Gun, Pulzar, D-Charges | GizmoKit","Pistol, CC Weapon",0,28,Sabotage and Destruction Unit CALIBAN
+CALIBAN (Forward Observer),"Boarding Shotgun, D-Charges, Flash Pulse","Pistol, CC Weapon",0,28,Sabotage and Destruction Unit CALIBAN
+CALIBAN (Multispectral Visor L1),"Spitfire, D-Charges","Pistol, CC Weapon",1.5,38,Sabotage and Destruction Unit CALIBAN
+"IKADRON (Baggage, Repeater)","Light Flamethrower(+1B), Flash Pulse","Pistol, PARA CC Weapon(-3)",0,9,IKADRON BATROID
+SHESKIIN,"Red Fury, Pulzar, D-Charges","Pistol, DA CC Weapon",1,54,Cadmus-Naish Agent SHESKIIN
+SHESKIIN (Lieutenant),"Red Fury, Pulzar, D-Charges","Pistol, DA CC Weapon",1,54,Cadmus-Naish Agent SHESKIIN
+CORAX HASHT,Spitfire,"Breaker Pistol, CC Weapon",1,33,SHASVASTII CORAX HASHT
+E-DRONE,Combi Rifle,PARA CC Weapon(-3),0.5,18,E-DRONES
+NOX,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,20,Shasvastii Nox Troops
+"NOX (Hacker, Hacking Device)","Submachine Gun, Zapper","Pistol, CC Weapon",0.5,14,Shasvastii Nox Troops
+NOX (Forward Observer),"Combi Rifle, Zapper, Flash Pulse","Pistol, CC Weapon",0,15,Shasvastii Nox Troops
+NOX (Paramedic),"Combi Rifle, Zapper | MediKit","Pistol, CC Weapon",0,16,Shasvastii Nox Troops
+NOX (Lieutenant),"Combi Rifle, Zapper","Pistol, CC Weapon",0,14,Shasvastii Nox Troops
+NOX (BS Attack [Guided]),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,22,Shasvastii Nox Troops
+MENTOR,Shock Marksman Rifle,"Pistol, CC Weapon",0,26,Shasvastii Tactical Monitoring Company Mentor
+"MENTOR (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",0.5,28,Shasvastii Tactical Monitoring Company Mentor
+MENTOR (Lieutenant),Shock Marksman Rifle,"Pistol, CC Weapon",0,26,Shasvastii Tactical Monitoring Company Mentor
+JAYTH CUTTHROATS,"Red Fury, E/M Grenades","Pistol, DA CC Weapon",1,38,JAYTH CUTTHROATS
+JAYTH CUTTHROATS (Specialist Operative),"Vulkan Shotgun, E/M Grenades","Pistol, DA CC Weapon",0,35,JAYTH CUTTHROATS
+JAYTH CUTTHROATS Pit Patrol,"Submachine Gun, Chain Rifle, E/M Grenades || TAIGHA SYNC","Pistol, DA CC Weapon",0,34,JAYTH CUTTHROATS
+TAIGHA,Chain-colt,DA CC Weapon,0,6,TAIGHA Creatures
+"VICTOR MESSER (Hacker, Hacking Device Plus)","Boarding Shotgun, D-Charges, Cybermines","Breaker Pistol, CC Weapon",0.5,30,"VICTOR MESSER, Autonomous Agent of Chaos"
+TENSHO,Boarding Shotgun,"Pistol, CC Weapon",0,16,TENSHO Experts
+TENSHO (Journalist L1 [+3]),Submachine Gun,"Pistol, CC Weapon",0,16,TENSHO Experts
+OKTAVIA,"Missile Launcher, Contender","Heavy Pistol, CC Weapon",1.5,28,"OKTAVIA GRÍMSDÓTTIR, Icebreaker's Harpooner"
+SHESKIIN BOARDING,"Red Fury, Pulzar, D-Charges","Pistol, DA CC Weapon",1.5,63,Boarding Action Cadmus-Naish Agent SHESKIIN.
+SHESKIIN BOARDING (Lieutenant),"Red Fury, Pulzar, D-Charges","Pistol, DA CC Weapon",1.5,63,Boarding Action Cadmus-Naish Agent SHESKIIN.
+AGENT DUKASH,"MULTI Rifle, Nanopulser","Viral Pistol, Shock CC Weapon",0,39,"Agent DUKASH, Vashar Special Corps"
+AGENT DUKASH (Lieutenant),"MULTI Rifle, Nanopulser","Viral Pistol, Shock CC Weapon",0,39,"Agent DUKASH, Vashar Special Corps"
+SARGOSH,"MULTI Rifle, Light Shotgun, D-Charges","Breaker Pistol, DA CC Weapon",0,37,"SARGOSH, Tunnel-crumbler of the Jayth Cutthroats"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

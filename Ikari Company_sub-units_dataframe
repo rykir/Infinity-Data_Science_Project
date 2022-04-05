@@ -1,0 +1,63 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+ARSLAN,"MULTI Rifle, Light Shotgun","Viral Pistol, CC Weapon",0,36,Security Chief ARSLAN
+ARSLAN (Lieutenant),"MULTI Rifle, Light Shotgun","Viral Pistol, CC Weapon",0,36,Security Chief ARSLAN
+TANKŌ,Missile Launcher,"Pistol, Monofilament CC Weapon, Shock CC Weapon",1.5,27,TANKŌ Zensenbutai
+WÚ MÍNG,"Panzerfaust, Light Shotgun","Pistol, CC Weapon",0,25,WÚ MÍNG Assault Corps (Those Without Name)
+WÚ MÍNG (Forward Observer),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,30,WÚ MÍNG Assault Corps (Those Without Name)
+DAIYŌKAI,"Red Fury, Panzerfaust","Pistol, AP + DA CC Weapon",1,49,DAIYŌKAI Dengekitai
+YUAN YUAN,"Rifle, Smoke Grenades","Pistol, Shock CC Weapon",0,11,YUAN YUAN
+DRUZE,"Shock Marksman Rifle, Chain-colt","Viral Pistol, CC Weapon",0,27,DRUZE SHOCK TEAMS
+"DRUZE (Hacker, Hacking Device)","Combi Rifle, Pitcher, D-Charges","Viral Pistol, CC Weapon",0.5,30,DRUZE SHOCK TEAMS
+"DRUZE (Hacker, Killer Hacking Device)","Combi Rifle, Pitcher, D-Charges","Viral Pistol, CC Weapon",0,28,DRUZE SHOCK TEAMS
+NINJA,Submachine Gun,"Pistol, DA CC Weapon",0,31,NINJAS
+"NINJA (Hacker, Hacking Device)",Submachine Gun,"Pistol, AP CC Weapon",0.5,35,NINJAS
+"NINJA (Hacker, Killer Hacking Device)",Tactical Bow,"Pistol, DA CC Weapon",0,29,NINJAS
+NINJA (Forward Observer),"Combi Rifle, Flash Pulse","Pistol, DA CC Weapon",0,35,NINJAS
+SCARFACE Loadout Alpha,"Mk12(+1B), Heavy Rocket Launcher(+1B)",DA CC Weapon,1.5,68,"SCARFACE TURNER, T.A.G. MERCENARIO"
+SCARFACE Loadout Beta,"AP Heavy Machine Gun, Panzerfaust",DA CC Weapon,1.5,64,"SCARFACE TURNER, T.A.G. MERCENARIO"
+SCARFACE Loadout Gamma,"AP Spitfire(+1B), Panzerfaust",DA CC Weapon,1.5,64,"SCARFACE TURNER, T.A.G. MERCENARIO"
+BRAWLER,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,16,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Multispectral Visor L2),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,27,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Hacker, Hacking Device)",Submachine Gun,"Pistol, CC Weapon",0.5,17,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Engineer, Deactivator)","Rifle, Light Shotgun, D-Charges | GizmoKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Doctor),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,"BRAWLERS, Mercenary Enforcers"
+PATHFINDER DRONBOT,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,PATHFINDER DRONBOTS
+SIERRA DRONBOT,Heavy Machine Gun,PARA CC Weapon(-3),1,24,'SIERRA' DRONBOTS
+ARMAND (Minelayer),"MULTI Sniper Rifle, Nanopulser, Shock Mines","Breaker Pistol(+1B), Shock CC Weapon",1.5,38,"ARMAND 'LE MUET', FREELANCE KILLER"
+ARMAND (Multispectral Visor L1),"MULTI Sniper Rifle, Nanopulser","Breaker Pistol(+1B), Shock CC Weapon",1.5,39,"ARMAND 'LE MUET', FREELANCE KILLER"
+CLIPPER DRONBOT,Missile Launcher,PARA CC Weapon(-3),1.5,16,'CLIPPER' DRONBOTS
+FUGAZI DRONBOT,Flash Pulse,PARA CC Weapon(-3),0,7,FUGAZI DRONBOTS
+KEISOTSU,Missile Launcher,"Pistol, CC Weapon",1.5,14,KEISOTSU Butai
+"KEISOTSU (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,14,KEISOTSU Butai
+KEISOTSU (Forward Observer),"Combi Rifle, Flash Pulse","Pistol, CC Weapon",0,10,KEISOTSU Butai
+KEISOTSU (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,11,KEISOTSU Butai
+KEISOTSU (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0.5,9,KEISOTSU Butai
+BASHI BAZOUK,"Submachine Gun, Chain-colt","Pistol, CC Weapon",0,12,BASHI BAZOUKS
+BASHI BAZOUK (Specialist Operative),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,BASHI BAZOUKS
+YOJIMBO,"Contender(+1B), Nanopulser, Smoke Grenades, Crazykoala","Pistol, DA CC Weapon",0,18,"YOJIMBO, Sword for Hire"
+KARAKURI,"Mk12, Chain Rifle, Panzerfaust, Flash Pulse","Pistol, CC Weapon",0,45,KARAKURI Special Project
+TOKUSETSU EISEI (Doctor),Combi Rifle | MediKit,"Pistol, CC Weapon",0,14,TOKUSETSU Butai
+"TOKUSETSU KOHEI (Engineer, Deactivator)","Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,14,TOKUSETSU Butai
+RUI SHI,Spitfire,PARA CC Weapon(-3),1,23,Yáoxiè RUI SHI
+LÙ DUĀN,"Mk12, Heavy Flamethrower(+1B) | Deployable Repeater",PARA CC Weapon(-3),0,24,Yáoxiè LÙ DUĀN
+YÁOZĂO,,PARA CC Weapon(-3),0,3,YÁOZĂO
+WARDRIVER (Hacker [Zero Pain]),"Boarding Shotgun, Flash Pulse","Pistol, CC Weapon",0,12,"WARDRIVERS, Mercenary Hackers"
+"WARDRIVER (Hacker, Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",1,14,"WARDRIVERS, Mercenary Hackers"
+"PANGGULING (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,Yáopú PANGGULING
+"PANGGULING (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,Yáopú PANGGULING
+"PANGGULING (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,Yáopú PANGGULING
+PANGGULING FTO (Repeater),Light Shotgun,PARA CC Weapon(-3),0,12,Yáopú PANGGULING
+FASID,"Heavy Rocket Launcher(+1B), Submachine Gun, Shock Mines","Heavy Pistol, CC Weapon",1.5,45,AL FASID Regiment
+DESPERADO,"Submachine Gun, Smoke Grenades","Heavy Pistol(+1B), AP CC Weapon",0,9,DESPERADOES
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+KRAKOT RENEGADE,"Red Fury, Chest Mines","Shock CC Weapon, Heavy Pistol",1,24,"KRAKOT RENEGADES, MORAT FUGITIVES"
+CUBE JÄGER (Paramedic),Boarding Shotgun,"Pistol, Monofilament CC Weapon",0.5,21,"Cube Jäger, Mercenary Recoverers"
+TÁOWÙ,"Contender, Nanopulser(+2B), Flash Pulse(+1B)","Viral Pistol(+1B), Monofilament CC Weapon",0,26,"TÁOWÙ, Mastermind and schemer"
+TÁOWÙ (Counterintelligence),"Nanopulser(+2B), Flash Pulse(+1B)","Viral Pistol(+1B), Monofilament CC Weapon",0,25,"TÁOWÙ, Mastermind and schemer"
+KENDRAT,"Vulkan Shotgun, Chest Mines","DA CC Weapon, Heavy Pistol",0,22,"KENDRAT, Krakot Renegade"
+MOTORIZED BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0.5,15,Motorized Bounty Hunters
+DIGGER,"Chain Rifle(+1B), Grenades","Pistol, AP CC Weapon(+1B)",0,14,FULL POWER
+TRIPHAMMER,"Heavy Shotgun, Flammenspeer(+1B), Panzerfaust(+1B)",AP CC Weapon,0,52,FULL POWER

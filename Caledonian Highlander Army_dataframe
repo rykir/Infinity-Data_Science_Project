@@ -1,0 +1,21 @@
+,Name,Sectorial,Type,Classification,MOV,CC,BS,PH,WIP,ARM,BTS,W,S,AVA,Equipment,Special Skills,Characteristics
+0,S.A.S.,opcionSectorial_302,SK,Spec. Trained Troops,4-4,22,11,13,13,0,0,1,2,4,[''],"['Surprise Attack ( -3 )', 'Martial Arts L2', 'Camouflage', 'Courage', 'Dodge ( +1"" )', 'Infiltration', 'Mimetism ( -3 )', 'Terrain ( Total )', 'Stealth']",['Regular']
+1,45th Highlanders Rifles,opcionSectorial_302,WB,Line Troops,4-4,21,10,14,14,1,0,1,2,Total,[''],"['Berserk ( +3 )', 'Courage', 'Dogged', 'Impetuous']","['Irregular', 'Impetuous']"
+2,"McMurrough, Merc. Dog-Warrior",opcionSectorial_302,WB,Character,6-4,23,11,16,14,4,3,2,6,1,[''],"['Martial Arts L3', 'Berserk', 'Courage', 'Dodge ( +2"" )', 'Immunity ( Total )', 'Super-Jump', 'Vulnerability ( Viral )', 'Impetuous']","['Irregular', 'Impetuous']"
+3,Caledonian Volunteers,opcionSectorial_302,LI,Garrison Troops,4-4,14,10,11,12,1,0,1,2,Total,[''],"['Terrain ( Jungle )', 'Terrain ( Mountain )']",['Regular']
+4,Highlander Caterans,opcionSectorial_302,LI,Spec. Trained Troops,4-4,22,12,13,12,0,0,1,2,4,[''],"['Surprise Attack ( -3 )', 'Camouflage ( 1 Use )', 'Mimetism ( -3 )', 'Stealth', 'Climbing Plus']",['Irregular']
+5,3rd Highlander Greys,opcionSectorial_302,HI,Veteran Troops,6-2,21,13,13,12,3,0,1,2,5,[''],"['BS Attack ( +1 Dam )', 'Courage', 'Frenzy', 'Immunity ( Shock )', 'Dogged']",['Regular']
+6,Caledonian Mormaers,opcionSectorial_302,HI,Elite Troops,4-4,17,13,13,13,5,0,1,2,3,[''],"['BS Attack ( +2 Dam )', 'BS Attack ( AP )', 'Courage', 'Immunity ( Critical )', 'Immunity ( Shock )', 'Dogged']",['Regular']
+7,9th Wulver Grenadiers,opcionSectorial_302,WB,Line Troops,4-4,23,12,14,13,3,0,2,2,5,[''],"['Martial Arts L1', 'CC Attack ( +1 Dam )', 'Berserk ( +3 )', 'Courage', 'Dodge ( +1"" )', 'Frenzy', 'Natural Born Warrior', 'Immunity ( Shock )', 'Climbing Plus']",['Regular']
+8,2nd Irregular Cameronians Reg.,opcionSectorial_302,WB,Support Troops,6-4,23,10,16,12,4,0,2,6,3,[''],"['Courage', 'Natural Born Warrior', 'Immunity ( Total )', 'Super-Jump', 'Vulnerability ( Viral )', 'Impetuous']","['Irregular', 'Impetuous']"
+9,"112, Emergency Service",opcionSectorial_302,LI,Support Troops,4-4,16,11,12,13,0,0,1,2,2,['MediKit'],"['Doctor', 'Courage']",['Regular']
+10,"Dozers, Field Engineers",opcionSectorial_302,LI,Support Troops,4-4,14,11,11,13,1,0,1,2,2,['Deactivator'],"['Courage', 'Engineer']",['Regular']
+11,Traktor Mul,opcionSectorial_302,REM,Support Troops,4-4,13,10,9,12,2,0,1,4,2,"['Baggage', 'ECM: Guided ( -6 )']","['Remote Presence', 'Courage', 'Immunity ( Shock )', 'BS Attack ( Guided )']","['Regular', 'Hackable']"
+12,William Wallace,opcionSectorial_302,WB,Character,6-4,24,13,14,15,3,0,1,2,1,[''],"['CC Attack ( +1 Dam )', 'Berserk ( +3 )', 'Courage', 'Dodge ( +2"" )', 'Natural Born Warrior', 'Immunity ( Shock )', 'Immunity ( Critical )', 'Inspiring Leadership', 'No Wound Incapacitation']","['Cube', 'Regular']"
+13,Uxía McNeill,opcionSectorial_302,MI,The Scots Guards,4-4,16,12,12,13,3,0,1,2,5,[''],"['Courage', 'Mimetism ( -3 )', 'Stealth', 'Terrain ( Total )']",['Regular']
+14,Volunteer Intel Isobel McGregor,opcionSectorial_302,SK,Character,4-4,22,11,13,13,0,0,1,2,1,[''],"['Martial Arts L2', 'Surprise Attack ( -3 )', 'Courage', 'Camouflage', 'Dodge ( +2"" )', 'Infiltration ( +6 )', 'Mimetism ( -3 )', 'Stealth', 'Terrain ( Total )', 'Frenzy']",['Regular']
+15,"Wardrivers, Merc. Hackers",opcionSectorial_302,LI,Character,4-4,13,12,11,13,2,0,1,2,1,['Hacking Device'],"['Courage', 'Hacker']",['Regular']
+16,"Warcors, War Correspondents",opcionSectorial_302,LI,Mercenary Troops,4-4,13,11,10,13,0,3,1,2,1,[''],['Sixth Sense'],"['Cube', 'Regular']"
+17,"112, Emergency Service (Motorized)",opcionSectorial_302,LI,Mercenary Troops,4-4,11,9,11,13,0,0,1,2,1,[''],['Journalist L1 ( +3 )'],"['Cube', 'Irregular']"
+18,"Cadin ""FirstStrike"" Donn",opcionSectorial_302,LI,Support Troops,8-4,16,11,12,13,0,0,1,4,2,"['MediKit', 'Motorcycle', 'Smoke Grenade Launcher']","['Doctor', 'Courage']",['Regular']
+19,ITS BIKE RECON Motorized Bounty Hunters,opcionSectorial_302,WB,Character,4-4,23,12,14,13,3,0,2,2,1,[''],"['Frenzy', 'Martial Arts L2', 'CC Attack ( AP )', 'Berserk ( +3 )', 'Courage', 'Dodge ( +2"" )', 'Natural Born Warrior', 'Climbing Plus', 'Immunity ( Shock )']",['Regular']

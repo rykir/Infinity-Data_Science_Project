@@ -1,0 +1,59 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+AKAL COMMANDO,Spitfire,"Pistol, E/M CC Weapon",1.5,29,"AKALIS, Sikh Commandos"
+"AKAL COMMANDO (Hacker, Hacking Device)",Combi Rifle,"Pistol, E/M CC Weapon",0.5,28,"AKALIS, Sikh Commandos"
+ORC,Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,30,ORC TROOPS
+"ORC (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,34,ORC TROOPS
+ORC (Lieutenant),Heavy Machine Gun,"Pistol, CC Weapon",1,37,ORC TROOPS
+"ORC Varuna Div. (Stealth], Terrain [Aquatic/Jungle])",Feuerbach,"Pistol, CC Weapon",1.5,39,ORC TROOPS
+"ORC Varuna Div. (Stealth, Terrain [Aquatic/Jungle])",Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,31,ORC TROOPS
+"ORC WinterFor (Terrain [Mountain], Climbing Plus])",MULTI Rifle | TinBot: Firewall [-3],"Pistol, CC Weapon",0,34,ORC TROOPS
+NAGA,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,29,NAGAS
+NAGA (Minelayer),"Boarding Shotgun, Shock Mines","Pistol, CC Weapon",0.5,28,NAGAS
+"NAGA (Hacker, Killer Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0,30,NAGAS
+"NAGA (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,32,NAGAS
+NAGA (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines","Pistol, CC Weapon",0,28,NAGAS
+DRÃGAO,"Hyper-Rapid Magnetic Cannon, Heavy Flamethrower",AP CC Weapon,1.5,73,"DRAGÕES, Acontecimento Dragoons"
+TRAUMA-DOC,Combi Rifle,"Pistol, CC Weapon",0,14,'TRAUMA-DOCS'
+MACHINIST,"Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,15,MACHINISTS
+"MACHINIST SAA (Mimetism [-3], Terrain [Total])","Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,18,MACHINISTS
+PATHFINDER DRONBOT,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,PATHFINDER DRONBOTS
+SIERRA DRONBOT,Heavy Machine Gun,PARA CC Weapon(-3),1,24,'SIERRA' DRONBOTS
+CLIPPER DRONBOT,Missile Launcher,PARA CC Weapon(-3),1.5,16,'CLIPPER' DRONBOTS
+FUGAZI DRONBOT,Flash Pulse,PARA CC Weapon(-3),0,7,FUGAZI DRONBOTS
+REGULAR,Spitfire,"Pistol, CC Weapon",1,16,Acontecimento REGULARS
+REGULAR (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,12,Acontecimento REGULARS
+REGULAR (Sapper),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,21,Acontecimento REGULARS
+"REGULAR (Hacker, Hacking Device)","Combi Rifle, Grenade Launcher | FastPanda","Pistol, CC Weapon",1,16,Acontecimento REGULARS
+"REGULAR (Triangulated Fire, Minelayer, Sensor)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0,13,Acontecimento REGULARS
+REGULAR (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,12,Acontecimento REGULARS
+REGULAR (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,10,Acontecimento REGULARS
+BAGH-MARI,Heavy Machine Gun,"Pistol, CC Weapon",1.5,28,BAGH-MARI Unit
+"BAGH-MARI (Hacker, Hacking Device)","Combi Rifle, Light Shotgun","Pistol, CC Weapon",0.5,27,BAGH-MARI Unit
+BAGH-MARI (Paramedic),"Combi Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,24,BAGH-MARI Unit
+BAGH-MARI (Lieutenant),Heavy Machine Gun,"Pistol, CC Weapon",1.5,26,BAGH-MARI Unit
+BAGH-MARI (Forward Observer),"Boarding Shotgun, Flash Pulse, D-Charges","Pistol, CC Weapon",0,21,BAGH-MARI Unit
+BAGH-MARI (Minelayer),"MULTI Sniper Rifle, Shock Mines","Pistol, CC Weapon",1.5,29,BAGH-MARI Unit
+GUARDA DE ASSALTO,"Spitfire, Heavy Flamethrower, D-Charges || AUXBOT","Pistol, Shock CC Weapon",1.5,45,GUARDA DE ASSALTO
+TIKBALANG,"Heavy Machine Gun, Heavy Flamethrower, Shock Mines",AP CC Weapon,1.5,68,"TIKBALANGS, Armoured Chasseurs of Acontecimento"
+BULLETEER,Spitfire,PARA CC Weapon(-3),1,23,BULLETEER ARMBOTS
+PEACEMAKER,Spitfire || AUXBOT_3,PARA CC Weapon(-3),1,26,PEACEMAKER ARMBOTS
+PALBOT,,PARA CC Weapon(-3),0,3,PALBOTS
+"MULEBOT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,MULEBOTS
+"MULEBOT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,MULEBOTS
+"MULEBOT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,MULEBOTS
+SINGH (Chain of Command),"Combi Rifle, Light Shotgun","Heavy Pistol, E/M CC Weapon",0,35,"KIRPAL SINGH, Akalis Sergeant"
+SINGH (NCO),"Combi Rifle, Light Shotgun","Heavy Pistol, E/M CC Weapon",0,32,"KIRPAL SINGH, Akalis Sergeant"
+TEUCER (Multispectral Visor L2),"K1 Sniper Rifle, Nanopulser","Pistol, CC Weapon",1.5,37,"Teucer, Agêma Warrant Officer"
+DRAKIOS,"Red Fury, Light Flamethrower || 2x DEVABOT KYDOIMOS","Pistol, Shock CC Weapon",1,45,"DRAKIOS, Steel Phalanx's NCO"
+"SCYLLA (Hacker, Hacking Device [UPGRADE: Trinity (+2 Damage)])","Boarding Shotgun, Pitcher || 2x DEVABOT CHARYBDIS","Pistol, Shock CC Weapon",0.5,41,"SCYLLA, Steel Phalanx's NCO"
+"SCYLLA (Hacker, EVO Hacking Device [UPGRADE: Trinity (+2 Damage)])","Boarding Shotgun, Pitcher || 2x DEVABOT CHARYBDIS","Pistol, Shock CC Weapon",0.5,41,"SCYLLA, Steel Phalanx's NCO"
+LT. STEPHEN RAO,"Combi Rifle, D-Charges","Assault Pistol, CC Weapon",0,25,"LIEUTENANT STEPHEN RAO, Bagh-Mari Unit"
+LT. STEPHEN RAO (Lieutenant [+1 Command Token]),"Combi Rifle, D-Charges","Assault Pistol, CC Weapon",0,27,"LIEUTENANT STEPHEN RAO, Bagh-Mari Unit"
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+"TECH-BEE (Specialist Operative, Deactivator)",Flash Pulse | GizmoKit,"Pistol, PARA CC Weapon(-3)",0,5,"TECH-BEES, Maintenance Battalions"
+DART,"Submachine Gun, Tactical Bow, Shock Mines","Pistol, Shock CC Weapon",0,34,"DART, Optimate Huntress"
+KNIGHT OF MONTESA,"Red Fury, Chain-colt","Pistol, DA CC Weapon",1.5,34,MONTESA ORDER MOTORIZED KNIGHTS
+KNIGHT OF MONTESA (Paramedic),Boarding Shotgun | MediKit,"Pistol, DA CC Weapon",0,31,MONTESA ORDER MOTORIZED KNIGHTS
+AGNES,"Submachine Gun, Nanopulser","Pistol, CC Weapon",0,14,Flight Officer AGNES FERREIRA
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

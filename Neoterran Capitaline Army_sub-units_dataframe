@@ -1,0 +1,77 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+FUSILIER,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,17,FUSILIERS
+"FUSILIER (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,15,FUSILIERS
+FUSILIER (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,12,FUSILIERS
+FUSILIER (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,12,FUSILIERS
+FUSILIER (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,10,FUSILIERS
+BOLT,Spitfire,"Pistol, CC Weapon",1.5,27,NEOTERRA BOLTS
+BOLT (Chain of Command),"Combi Rifle, Light Shotgun","Pistol, CC Weapon",0,28,NEOTERRA BOLTS
+"BOLT (Hacker, Hacking Device)","Boarding Shotgun, E/M Mines","Pistol, CC Weapon",0.5,27,NEOTERRA BOLTS
+"BOLT (Hacker, Killer Hacking Device)","Boarding Shotgun, E/M Mines","Pistol, CC Weapon",0,25,NEOTERRA BOLTS
+BOLT (Paramedic),"Combi Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,24,NEOTERRA BOLTS
+BOLT (Multispectral Visor L1),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,31,NEOTERRA BOLTS
+BOLT (Lieutenant),"Combi Rifle, Light Shotgun","Pistol, CC Weapon",0,23,NEOTERRA BOLTS
+ORC,Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,30,ORC TROOPS
+"ORC (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,34,ORC TROOPS
+ORC (Lieutenant),Heavy Machine Gun,"Pistol, CC Weapon",1,37,ORC TROOPS
+"ORC Varuna Div. (Stealth], Terrain [Aquatic/Jungle])",Feuerbach,"Pistol, CC Weapon",1.5,39,ORC TROOPS
+"ORC Varuna Div. (Stealth, Terrain [Aquatic/Jungle])",Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,31,ORC TROOPS
+"ORC WinterFor (Terrain [Mountain], Climbing Plus])",MULTI Rifle | TinBot: Firewall [-3],"Pistol, CC Weapon",0,34,ORC TROOPS
+AQUILA,Heavy Machine Gun,"Pistol, Shock CC Weapon",1.5,55,AQUILA GUARD
+AQUILA FTO (Specialist Operative),MULTI Marksman Rifle,"Pistol, Shock CC Weapon",0,52,AQUILA GUARD
+AQUILA (Lieutenant),MULTI Marksman Rifle,"Pistol, Shock CC Weapon",0,51,AQUILA GUARD
+DEVA,"MULTI Rifle, Nanopulser","Pistol, CC Weapon",0,25,DEVA Functionaries
+"DEVA (Hacker, Hacking Device)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0.5,28,DEVA Functionaries
+"DEVA (Hacker, Killer Hacking Device)",Boarding Shotgun,"Pistol, CC Weapon",0,26,DEVA Functionaries
+"DEVA (Triangulated Fire, Sensor)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0,24,DEVA Functionaries
+DEVA (Forward Observer),"Combi Rifle, Nanopulser, Flash Pulse","Pistol, CC Weapon",0,24,DEVA Functionaries
+DEVA (Multispectral Visor L2),"Spitfire, Nanopulser","Pistol, CC Weapon",1,33,DEVA Functionaries
+DEVA (Lieutenant),"Combi Rifle, Nanopulser || DEVABOT","Pistol, CC Weapon",0,27,DEVA Functionaries
+"DEVA (Lieutenant, Triangulated Fire, Sensor)","Combi Rifle, Nanopulser","Pistol, CC Weapon",0,24,DEVA Functionaries
+SWISS GUARD,"Missile Launcher, Light Shotgun","Pistol, AP CC Weapon",1.5,63,SWISS GUARD
+"SWISS GUARD (Hacker, Hacking Device)",MULTI Rifle,"Pistol, AP CC Weapon",0.5,61,SWISS GUARD
+SQUALO,"MULTI Heavy Machine Gun, Grenade Launcher(+1 Dam)","CC Weapon, MULTI Pistol",1.5,77,"SQUALOS, PanOceanian Armored Cavalry Heavy Lancers"
+SQUALO (NCO),MULTI Heavy Machine Gun,"CC Weapon, MULTI Pistol",2,79,"SQUALOS, PanOceanian Armored Cavalry Heavy Lancers"
+SQUALO (Lieutenant),MULTI Heavy Machine Gun,"MULTI Pistol, CC Weapon",1.5,75,"SQUALOS, PanOceanian Armored Cavalry Heavy Lancers"
+GARUDA,Spitfire,PARA CC Weapon(-3),1.5,25,GARUDA Tacbots
+GARUDA (Forward Observer),"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,20,GARUDA Tacbots
+TRAUMA-DOC,Combi Rifle,"Pistol, CC Weapon",0,14,'TRAUMA-DOCS'
+MACHINIST,"Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,15,MACHINISTS
+"MACHINIST NCA (Bioimmunity, Veteran)","Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,16,MACHINISTS
+PATHFINDER DRONBOT,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,PATHFINDER DRONBOTS
+SIERRA DRONBOT,Heavy Machine Gun,PARA CC Weapon(-3),1,24,'SIERRA' DRONBOTS
+CLIPPER DRONBOT,Missile Launcher,PARA CC Weapon(-3),1.5,16,'CLIPPER' DRONBOTS
+FUGAZI DRONBOT,Flash Pulse,PARA CC Weapon(-3),0,7,FUGAZI DRONBOTS
+AUXILIA,Combi Rifle || AUXBOT_1,"Pistol, CC Weapon",0,14,AUXILIA
+AUXILIA (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater || AUXBOT_1","Pistol, CC Weapon",0,15,AUXILIA
+AUXILIA (Lieutenant),Combi Rifle || AUXBOT_1,"Pistol, CC Weapon",0.5,14,AUXILIA
+CSU,Boarding Shotgun,"Pistol, PARA CC Weapon(-6)",0,12,"CSU, Corporate Security Unit"
+CSU (Specialist Operative),"Breaker Combi Rifle, Nanopulser(+1B)","Pistol, PARA CC Weapon(-6)",0,15,"CSU, Corporate Security Unit"
+HEXA,MULTI Sniper Rifle,"Pistol, PARA CC Weapon(-3)",1.5,30,"HEXAS, Strategic Security Division"
+"HEXA (Hacker, Hacking Device)",Combi Rifle,"Pistol, PARA CC Weapon(-3)",0.5,28,"HEXAS, Strategic Security Division"
+"HEXA (Hacker, Killer Hacking Device)",Combi Rifle,"Pistol, PARA CC Weapon(-3)",0,26,"HEXAS, Strategic Security Division"
+UHLAN,"Heavy Machine Gun, Feuerbach(+1B)",AP CC Weapon,1.5,88,CLAUSEWITZ UHLANS
+AÏDA SWANSON (Minelayer),"Submachine Gun(+1B), Viral Mines","Viral Pistol, Shock CC Weapon",0.5,23,"AÏDA SWANSON, Submondo Smuggler"
+AÏDA SWANSON FTO (Minelayer),"Submachine Gun, Viral Mines","Viral Pistol, Shock CC Weapon",0,20,"AÏDA SWANSON, Submondo Smuggler"
+BULLETEER,Spitfire,PARA CC Weapon(-3),1,23,BULLETEER ARMBOTS
+PEACEMAKER,Spitfire || AUXBOT_3,PARA CC Weapon(-3),1,26,PEACEMAKER ARMBOTS
+PALBOT,,PARA CC Weapon(-3),0,3,PALBOTS
+"MULEBOT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,MULEBOTS
+"MULEBOT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,MULEBOTS
+"MULEBOT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,MULEBOTS
+BIPANDRA,"Combi Rifle, Nanopulser | MediKit",Pistol,0,22,FUSILIER INDIGO BIPANDRA
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+LOCUST,"Submachine Gun, D-Charges, WildParrot","Pistol, DA CC Weapon",0,25,"LOCUST, Clandestine Action Team"
+"LOCUST (Hacker, Hacking Device)","Breaker Combi Rifle, D-Charges","Pistol, Shock CC Weapon",0.5,34,"LOCUST, Clandestine Action Team"
+"LOCUST (Hacker, Killer Hacking Device)","Breaker Combi Rifle, D-Charges","Pistol, Shock CC Weapon",0,32,"LOCUST, Clandestine Action Team"
+BLACK FRIAR,"MULTI Sniper Rifle, Nanopulser","Pistol, CC Weapon",1.5,30,PanOceanian BLACK FRIARS
+"BLACK FRIAR FTO (Discover [+3], Albedo, Biometric Visor)","MULTI Rifle, Nanopulser, Drop Bears","Pistol, CC Weapon",0,28,PanOceanian BLACK FRIARS
+BLACK FRIAR FTO (Sixth Sense),"Heavy Rocket Launcher, Nanopulser","MULTI Pistol, CC Weapon",1.5,25,PanOceanian BLACK FRIARS
+"TECH-BEE (Specialist Operative, Deactivator)",Flash Pulse | GizmoKit,"Pistol, PARA CC Weapon(-3)",0,5,"TECH-BEES, Maintenance Battalions"
+QUINN,"Shock Marksman Rifle, Flash Pulse","Pistol, CC Weapon",0,23,FUSILIER INDIGO RICHARD QUINN
+"UMA SØRENSEN (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Submachine Gun(+1B), E/M Mines","Pistol, CC Weapon",0,30,Indigo Spec-Ops Captain UMA SØRENSEN
+UMA SØRENSEN FTO,Breaker Combi Rifle(+1 Dam),"Pistol, CC Weapon",0,27,Indigo Spec-Ops Captain UMA SØRENSEN
+UMA SØRENSEN FTO (Lieutenant),Breaker Combi Rifle(+1 Dam),"Pistol, CC Weapon",0,27,Indigo Spec-Ops Captain UMA SØRENSEN
+SHONA CARANO,"Submachine Gun, Nanopulser(+1B), Flash Pulse","Pistol, EXP CC Weapon",0,27,"SHONA CARANO, Special Instructor and Aristeia! Swordmaster"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

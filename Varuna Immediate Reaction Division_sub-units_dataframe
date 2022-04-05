@@ -1,0 +1,67 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+FUSILIER,MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,17,FUSILIERS
+"FUSILIER (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,15,FUSILIERS
+FUSILIER (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,12,FUSILIERS
+FUSILIER (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,12,FUSILIERS
+FUSILIER (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,10,FUSILIERS
+ORC,Boarding Shotgun | TinBot: Firewall [-3],"Pistol, CC Weapon",0,30,ORC TROOPS
+"ORC (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,34,ORC TROOPS
+ORC (Lieutenant),Heavy Machine Gun,"Pistol, CC Weapon",1,37,ORC TROOPS
+"ORC Varuna Div. (Stealth], Terrain [Aquatic/Jungle])",Feuerbach,"Pistol, CC Weapon",1.5,39,ORC TROOPS
+"ORC Varuna Div. (Stealth, Terrain [Aquatic/Jungle])",Heavy Machine Gun,"Pistol, CC Weapon",1.5,38,ORC TROOPS
+"ORC Varuna Div. (Stealth, Terrain [Aquatic/Jungle], Hacker], Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,35,ORC TROOPS
+"ORC Varuna Div. (Lieutenant, Stealth, Terrain [Aquatic/Jungle])",Heavy Machine Gun,"Pistol, CC Weapon",1,38,ORC TROOPS
+"ORC WinterFor (Terrain [Mountain], Climbing Plus])",MULTI Rifle | TinBot: Firewall [-3],"Pistol, CC Weapon",0,34,ORC TROOPS
+SQUALO,"MULTI Heavy Machine Gun, Grenade Launcher(+1 Dam)","CC Weapon, MULTI Pistol",1.5,77,"SQUALOS, PanOceanian Armored Cavalry Heavy Lancers"
+SQUALO (NCO),MULTI Heavy Machine Gun,"CC Weapon, MULTI Pistol",2,79,"SQUALOS, PanOceanian Armored Cavalry Heavy Lancers"
+SQUALO (Lieutenant),MULTI Heavy Machine Gun,"MULTI Pistol, CC Weapon",1.5,75,"SQUALOS, PanOceanian Armored Cavalry Heavy Lancers"
+SQUALO (Varuna Div.) (Terrain [Aquatic]),"MULTI Heavy Machine Gun, Grenade Launcher(+1 Dam)","MULTI Pistol, CC Weapon",1.5,78,"SQUALOS, PanOceanian Armored Cavalry Heavy Lancers"
+"SQUALO (Varuna Div.) (Lieutenant, Terrain [Aquatic])","MULTI Heavy Machine Gun, Zapper","CC Weapon, MULTI Pistol",1.5,76,"SQUALOS, PanOceanian Armored Cavalry Heavy Lancers"
+CUTTER,MULTI Heavy Machine Gun,CC Weapon,2,97,"CUTTERS, Varuna Naval Chasseurs"
+CUTTER (Lieutenant),MULTI Heavy Machine Gun,CC Weapon,2.5,97,"CUTTERS, Varuna Naval Chasseurs"
+CROC MAN,"MULTI Sniper Rifle, Shock Mines","Pistol, CC Weapon",1.5,32,Paradiso CROC MEN
+"CROC MAN (Hacker, Hacking Device)","Combi Rifle, Shock Mines","Pistol, CC Weapon",0.5,34,Paradiso CROC MEN
+CROC MAN (Minelayer),"Boarding Shotgun, Shock Mines","Pistol, CC Weapon",0.5,30,Paradiso CROC MEN
+CROC MAN (Forward Observer),"Combi Rifle, Flash Pulse, Shock Mines | Deployable Repeater","Pistol, CC Weapon",0,31,Paradiso CROC MEN
+TRAUMA-DOC,Combi Rifle,"Pistol, CC Weapon",0,14,'TRAUMA-DOCS'
+MACHINIST,"Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,15,MACHINISTS
+"MACHINIST Varuna Div (Mimetism [-3], Stealth], Terrain [Aquatic])","Combi Rifle, D-Charges | GizmoKit","Pistol, CC Weapon",0,17,MACHINISTS
+PATHFINDER DRONBOT,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,15,PATHFINDER DRONBOTS
+SIERRA DRONBOT,Heavy Machine Gun,PARA CC Weapon(-3),1,24,'SIERRA' DRONBOTS
+CLIPPER DRONBOT,Missile Launcher,PARA CC Weapon(-3),1.5,16,'CLIPPER' DRONBOTS
+FUGAZI DRONBOT,Flash Pulse,PARA CC Weapon(-3),0,7,FUGAZI DRONBOTS
+BULLETEER,Spitfire,PARA CC Weapon(-3),1,23,BULLETEER ARMBOTS
+PEACEMAKER,Spitfire || AUXBOT_3,PARA CC Weapon(-3),1,26,PEACEMAKER ARMBOTS
+PALBOT,,PARA CC Weapon(-3),0,3,PALBOTS
+"MULEBOT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,MULEBOTS
+"MULEBOT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,MULEBOTS
+"MULEBOT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,MULEBOTS
+BIPANDRA,"Combi Rifle, Nanopulser | MediKit",Pistol,0,22,FUSILIER INDIGO BIPANDRA
+KAMAU,"Heavy Rocket Launcher, Submachine Gun","Pistol, CC Weapon",1.5,23,KAMAU Amphibious Intervention Teams
+"KAMAU (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,25,KAMAU Amphibious Intervention Teams
+KAMAU (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,22,KAMAU Amphibious Intervention Teams
+KAMAU (Multispectral Visor L2),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,32,KAMAU Amphibious Intervention Teams
+"KAMAU (Triangulated Fire, Forward Observer)","Combi Rifle, Flash Pulse","Pistol, CC Weapon",0,22,KAMAU Amphibious Intervention Teams
+KAMAU (Lieutenant),Combi Rifle,"Pistol, CC Weapon",0,20,KAMAU Amphibious Intervention Teams
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+"TECH-BEE (Specialist Operative, Deactivator)",Flash Pulse | GizmoKit,"Pistol, PARA CC Weapon(-3)",0,5,"TECH-BEES, Maintenance Battalions"
+KNIGHT OF MONTESA,"Red Fury, Chain-colt","Pistol, DA CC Weapon",1.5,34,MONTESA ORDER MOTORIZED KNIGHTS
+KNIGHT OF MONTESA (Paramedic),Boarding Shotgun | MediKit,"Pistol, DA CC Weapon",0,31,MONTESA ORDER MOTORIZED KNIGHTS
+ECHO-BRAVO,Red Fury,"Pistol, CC Weapon",1,25,"ECHO-BRAVO, Rapid Reaction Unit"
+ECHO-BRAVO (Paramedic),"Combi Rifle, Light Shotgun, WildParrot | MediKit","Pistol, CC Weapon",0.5,27,"ECHO-BRAVO, Rapid Reaction Unit"
+"ECHO-BRAVO (Hacker, Hacking Device)","Combi Rifle, Panzerfaust","Pistol, CC Weapon",0.5,26,"ECHO-BRAVO, Rapid Reaction Unit"
+ZULU-COBRA,Spitfire,"CC Weapon, Pistol",1.5,28,ZULU-COBRA
+"ZULU-COBRA (Triangulated Fire, Sensor)","Combi Rifle, Jammer","Assault Pistol, CC Weapon",0,29,ZULU-COBRA
+"ZULU-COBRA (Hacker, Killer Hacking Device)",Breaker Combi Rifle,"Pistol, CC Weapon",0,28,ZULU-COBRA
+ZULU-COBRA (Forward Observer),"Breaker Combi Rifle, Flash Pulse","Pistol, CC Weapon",0,26,ZULU-COBRA
+"ZULU-COBRA (Lieutenant, Triangulated Fire, Sensor)","Combi Rifle, Jammer","Assault Pistol, CC Weapon",0,29,ZULU-COBRA
+ZULU-COBRA (X Visor),Shock Marksman Rifle,"Pistol, CC Weapon",0,25,ZULU-COBRA
+HELOT MILITIAMAN (Decoy [1]),"Submachine Gun, Light Rocket Launcher","Pistol, CC Weapon",0.5,9,HELOT MILITIA
+HELOT MILITIAMAN (Camouflage [1 Use]),"Submachine Gun, Light Rocket Launcher","Pistol, CC Weapon",0.5,9,HELOT MILITIA
+PATSY GARNETT,"Submachine Gun, Grenades, D-Charges, Flash Pulse","Pistol, Shock CC Weapon",0,34,"PATSY GARNETT, Orc Troops' Varuna Div. NCO"
+QUINN,"Shock Marksman Rifle, Flash Pulse","Pistol, CC Weapon",0,23,FUSILIER INDIGO RICHARD QUINN
+"UMA SØRENSEN (Surprise Attack [-3], Camouflage, Forward Deployment [+8""])","Submachine Gun(+1B), E/M Mines","Pistol, CC Weapon",0,30,Indigo Spec-Ops Captain UMA SØRENSEN
+UMA SØRENSEN FTO,Breaker Combi Rifle(+1 Dam),"Pistol, CC Weapon",0,27,Indigo Spec-Ops Captain UMA SØRENSEN
+UMA SØRENSEN FTO (Lieutenant),Breaker Combi Rifle(+1 Dam),"Pistol, CC Weapon",0,27,Indigo Spec-Ops Captain UMA SØRENSEN
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters

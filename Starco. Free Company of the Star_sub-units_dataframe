@@ -1,0 +1,62 @@
+,Weapon(s),Melee Weapons,SWC,C,Base Name
+HELLCAT,Combi Rifle | Deployable Repeater,"Pistol, CC Weapon",0.5,24,HELLCATS
+"HELLCAT (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,29,HELLCATS
+HELLCAT (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,26,HELLCATS
+BANDIT,"Combi Rifle, Shock Mines | Deployable Repeater","Pistol, DA CC Weapon",0,28,CORREGIDOR BANDITS
+"BANDIT (Hacker, Hacking Device)","Light Shotgun, Adhesive Launcher","Pistol, DA CC Weapon",0.5,27,CORREGIDOR BANDITS
+"BANDIT (Hacker, Killer Hacking Device)","Light Shotgun, Adhesive Launcher","Pistol, DA CC Weapon",0,25,CORREGIDOR BANDITS
+BANDIT (Forward Observer),"Light Shotgun, Adhesive Launcher, Flash Pulse","Pistol, DA CC Weapon",0,23,CORREGIDOR BANDITS
+HARDCASE FRONTIERSMAN,"Tactical Bow, Rifle","Pistol, CC Weapon",0,14,"HARDCASES, 2nd Irregular FRONTIERSMEN Battalion"
+ALGUACIL,Missile Launcher,"Pistol, CC Weapon",1.5,15,CORREGIDOR ALGUACILES
+"ALGUACIL (Hacker, Hacking Device)",Combi Rifle,"Pistol, CC Weapon",0.5,15,CORREGIDOR ALGUACILES
+ALGUACIL (Forward Observer),"Combi Rifle, Flash Pulse | Deployable Repeater","Pistol, CC Weapon",0,12,CORREGIDOR ALGUACILES
+ALGUACIL (Paramedic),Combi Rifle | MediKit,"Pistol, CC Weapon",0,12,CORREGIDOR ALGUACILES
+ALGUACIL (Lieutenant),Combi Rifle,"Pistol, CC Weapon",1,10,CORREGIDOR ALGUACILES
+JAGUAR,"Adhesive Launcher, Panzerfaust","Pistol, DA CC Weapon",0,11,CORREGIDOR JAGUARS
+DAKTARI,Combi Rifle | MediKit,"Pistol, CC Weapon",0,14,"DAKTARIS (Daks, Campaign Doctors)"
+BRAWLER,Heavy Rocket Launcher,"Assault Pistol, CC Weapon",1.5,16,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Multispectral Visor L2),MULTI Sniper Rifle,"Pistol, CC Weapon",1.5,27,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Hacker, Hacking Device)",Submachine Gun,"Pistol, CC Weapon",0.5,17,"BRAWLERS, Mercenary Enforcers"
+"BRAWLER (Engineer, Deactivator)","Rifle, Light Shotgun, D-Charges | GizmoKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Doctor),"Rifle, Light Shotgun | MediKit","Pistol, CC Weapon",0,19,"BRAWLERS, Mercenary Enforcers"
+BRAWLER (Lieutenant),"Rifle, Light Shotgun","Pistol, CC Weapon",0,15,"BRAWLERS, Mercenary Enforcers"
+IRMANDINHO,"Submachine Gun, D-Charges, Smoke Grenades","Pistol, AP CC Weapon",0,13,IRMANDINHOS
+CLOCKMAKER,"Combi Rifle, D-Charges | GizmoKit [+1B]","Pistol, CC Weapon",0,18,Bakunin CLOCKMAKERS
+"SPECTOR (Parachutist, Combat Jump)","Boarding Shotgun, Drop Bears","Pistol, E/M CC Weapon, DA CC Weapon",0,33,"RAOUL SPECTOR, Mercenary Operative"
+SPECTOR FTO (Regular),"MULTI Rifle, Nanopulser, Drop Bears","Pistol, E/M CC Weapon, DA CC Weapon",0,34,"RAOUL SPECTOR, Mercenary Operative"
+"SPECTOR FTO-2 (Regular, Super-Jump)","MULTI Rifle, Nanopulser, Drop Bears","Pistol, CC Weapon, E/M CC Weapon, DA CC Weapon",0,35,"RAOUL SPECTOR, Mercenary Operative"
+MOBILE BRIGADA,"MULTI Rifle, Light Flamethrower | TinBot: Firewall [-6]","Pistol, CC Weapon",0,37,MOBILE BRIGADA
+"MOBILE BRIGADA (Hacker, Hacking Device)","Combi Rifle, D-Charges | TinBot: Firewall [-6]","Pistol, CC Weapon",0.5,39,MOBILE BRIGADA
+MOBILE BRIGADA (Lieutenant),Boarding Shotgun,"Pistol, CC Weapon",0,32,MOBILE BRIGADA
+ANACONDA,"Heavy Machine Gun, Chain-colt, Panzerfaust",AP CC Weapon,1.5,55,"ANACONDA, Mercenary TAG Squad"
+UHAHU (Hacker),"Pitcher, D-Charges","Assault Pistol, CC Weapon",0.5,18,"UHAHU, Hacker for Hire"
+STEMPLER ZOND,"Combi Rifle, Flash Pulse",PARA CC Weapon(-3),0,16,STEMPLER ZONDS
+EMILY,"Breaker Combi Rifle, Nanopulser, Flash Pulse","Assault Pistol, CC Weapon",0,24,"EMILY HANDELMAN, Intel Agent"
+EMILY (Chain of Command),"Combi Rifle, Grenade Launcher, E/M Grenade Launcher, Nanopulser, Flash Pulse","Assault Pistol, CC Weapon",0.5,31,"EMILY HANDELMAN, Intel Agent"
+REAKTION ZOND,Heavy Machine Gun,PARA CC Weapon(-3),1,25,REAKTION ZONDS
+VERTIGO ZOND,Missile Launcher,PARA CC Weapon(-3),1.5,17,VERTIGO ZONDS
+TRANSDUCTOR ZOND,Flash Pulse,PARA CC Weapon(-3),0,7,TRANSDUCTOR ZONDS
+CATERAN,Sniper Rifle,"Pistol, AP CC Weapon",0.5,21,HIGHLANDER CATERANS
+CSU,Boarding Shotgun,"Pistol, PARA CC Weapon(-6)",0,12,"CSU, Corporate Security Unit"
+CSU (Specialist Operative),"Breaker Combi Rifle, Nanopulser(+1B)","Pistol, PARA CC Weapon(-6)",0,15,"CSU, Corporate Security Unit"
+SEÑOR MASSACRE,"Boarding Shotgun, Eclipse Grenades, E/M Grenades","Pistol, E/M CC Weapon, Shock CC Weapon",0,26,SEÑOR MASSACRE
+AVICENNA,"Combi Rifle, Flash Pulse","Pistol, CC Weapon",0,27,"AVICENNA, Mercenary Doctor"
+KNAUF,MULTI Sniper Rifle,"AP Heavy Pistol, CC Weapon",1.5,32,"KNAUF, Outlaw Sniper"
+"HAWWA' (Hacker, Hacking Device)","Boarding Shotgun, D-Charges","Pistol, CC Weapon",0.5,26,AL HAWWA' Unit
+HAWWA' (Minelayer),"Sniper Rifle, Shock Mines","Pistol, CC Weapon",0.5,23,AL HAWWA' Unit
+HAWWA' (Forward Observer),"Boarding Shotgun, Flash Pulse, D-Charges","Pistol, CC Weapon",0,22,AL HAWWA' Unit
+TSYKLON,"Feuerbach, Pitcher",PARA CC Weapon(-6),1,36,TSYKLON Sputnik
+LUNOKHOD,"Heavy Shotgun, Akrylat-Kanone, D-Charges, Crazykoala",PARA CC Weapon(-3),0,25,LUNOKHOD Sputnik
+ZONDBOT,,PARA CC Weapon(-3),0,3,ZONDBOTS
+"SALYUT (Deactivator, Repeater)",,PARA CC Weapon(-3),0,8,SALYUT Zonds
+"SALYUT (Hacker, EVO Hacking Device)",,PARA CC Weapon(-3),0.5,15,SALYUT Zonds
+"SALYUT (Total Reaction, Repeater)",Combi Rifle,PARA CC Weapon(-3),0,19,SALYUT Zonds
+RIOT GRRL,Spitfire,"Pistol, CC Weapon",1.5,33,RIOT GRRLS
+RIOT GRRL (Specialist Operative),"Combi Rifle, Blitzen","Pistol, CC Weapon",0,29,RIOT GRRLS
+WARCOR (360º Visor),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+WARCOR (Sixth Sense),Flash Pulse,"Stun Pistol, PARA CC Weapon(-3)",0,3,"WARCORS, WAR CORRESPONDENTS"
+Fiddler FTO (Super-Jump),"Contender(+1B), Drop Bears, D-Charges","Breaker Pistol, PARA CC Weapon(-3)",0,28,"Fiddler, Aristeia!'s ex-toymaker"
+FIDDLER (Climbing Plus),"Contender(+1B), Drop Bears, D-Charges || 2x JACKBOT","Breaker Pistol, PARA CC Weapon(-3)",0,42,"Fiddler, Aristeia!'s ex-toymaker"
+BOUNTY HUNTER,Red Fury,"Breaker Pistol, PARA CC Weapon(-6)",0,15,ITS BIKE RECON Motorized Bounty Hunters
+DIGGER,"Chain Rifle(+1B), Grenades","Pistol, AP CC Weapon(+1B)",0,14,FULL POWER
+TRIPHAMMER,"Heavy Shotgun, Flammenspeer(+1B), Panzerfaust(+1B)",AP CC Weapon,0,52,FULL POWER
